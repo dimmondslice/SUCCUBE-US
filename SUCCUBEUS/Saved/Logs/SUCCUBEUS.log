@@ -77,4 +77,80 @@ LogInit: Rocket: 1
 [2014.11.19-20.01.51:003][  0]LightingResults: New page: Lighting Build
 [2014.11.19-20.01.51:020][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001C89E840
 [2014.11.19-20.01.52:382][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2014.11.19-20.01.52:466][  0]LogAIModule: Creating AISystem for world Example_M
+[2014.11.19-20.01.52:466][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.19-20.01.52:466][  0]Cmd: MAP CHECKDEP
+[2014.11.19-20.01.52:466][  0]MapCheck: New page: Example_Map - Nov 19, 2014, 10:01:52 AM
+[2014.11.19-20.01.52:538][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.276ms to complete.
+[2014.11.19-20.01.52:538][  0]LogFileHelpers: Loading map 'Example_Map' took 1.545
+[2014.11.19-20.01.53:606][  0]LogCollectionManager: Loaded 0 collections in 0.001071 seconds
+[2014.11.19-20.01.55:336][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.11.19-20.01.55:776][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.11.19-20.01.55:831][  0]LogLoad: Full Startup: 33.58 seconds (BP compile: 0.06 seconds)
+[2014.11.19-20.01.56:891][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
+[2014.11.19-20.02.04:989][ 22]LogAssetRegistry: Asset discovery search completed in 16.6194 seconds
+[2014.11.19-20.58.31:470][834]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.19-20.58.31:491][834]PIE: New page: PIE session: Example_Map (Nov 19, 2014, 10:58:31 AM)
+[2014.11.19-20.58.31:828][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.321705s)
+[2014.11.19-20.58.31:829][834]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2014.11.19-20.58.31:829][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.322678s)
+[2014.11.19-20.58.32:953][834]LogWorld: Game class is 'MyGame_C'
+[2014.11.19-20.58.33:342][834]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.19-20.58.33:363][834]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2014.11.19-15.58.33
+[2014.11.19-20.58.33:430][834]LogWorld: Bringing up level for play took: 0.087205
+[2014.11.19-20.58.33:907][834]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 3.119
+[2014.11.19-21.01.24:084][577]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011C2E3E0
+[2014.11.19-21.01.57:172][691]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.19-21.01.59:360][758]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.19-21.02.02:502][831]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.11.19-21.05.04:413][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:413][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:560][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:560][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.05.04:560][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.19-21.06.00:458][582]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.19-21.06.00:458][582]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.11.19-21.06.00:720][582]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.11.19-21.06.00:781][582]LogPlayLevel: PIE:  Blueprint regeneration took 323 ms (1 blueprints)
+[2014.11.19-21.06.00:781][582]PIE: New page: PIE session: Example_Map (Nov 19, 2014, 11:06:00 AM)
+[2014.11.19-21.06.00:824][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043322s)
+[2014.11.19-21.06.00:827][582]LogPlayLevel: PIE: World Init took: (0.002702s)
+[2014.11.19-21.06.00:827][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.046350s)
+[2014.11.19-21.06.00:914][582]LogWorld: Game class is 'MyGame_C'
+[2014.11.19-21.06.00:915][582]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.19-21.06.00:916][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.19-16.06.00
+[2014.11.19-21.06.00:916][582]LogWorld: Bringing up level for play took: 0.001302
+[2014.11.19-21.06.00:918][582]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.124
+[2014.11.19-21.10.11:236][ 48]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011DBDDA0
+[2014.11.19-21.10.42:625][263]LogRenderer:Warning: Reallocating scene render targets to support 1344x728.
+[2014.11.19-21.13.26:657][245]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
+[2014.11.19-21.15.45:022][846]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.11.19-21.15.45:688][846]LogSavePackage: Save=419.322906ms
+[2014.11.19-21.15.45:688][846]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Example_Map_Auto1F3BEA7FD4391CC27FA8E50AFC5BA4409.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Example_Map_Auto1.umap'
+[2014.11.19-21.15.45:724][846]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Example_Map' took 0.702
+[2014.11.19-21.15.45:724][846]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.702
+[2014.11.19-21.20.52:100][386]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.19-21.20.52:100][386]PIE: New page: PIE session: Example_Map (Nov 19, 2014, 11:20:52 AM)
+[2014.11.19-21.20.52:155][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055289s)
+[2014.11.19-21.20.52:157][386]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2014.11.19-21.20.52:157][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.057405s)
+[2014.11.19-21.20.52:191][386]LogWorld: Game class is 'MyGame_C'
+[2014.11.19-21.20.52:193][386]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.19-21.20.52:195][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.19-16.20.52
+[2014.11.19-21.20.52:195][386]LogWorld: Bringing up level for play took: 0.002134
+[2014.11.19-21.20.52:198][386]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.611
+[2014.11.19-21.21.03:612][928]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FBFF7E0
+[2014.11.19-21.22.33:248][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphere
