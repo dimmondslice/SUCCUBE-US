@@ -1,4 +1,4 @@
-﻿Log file open, 11/19/14 15:01:25
+﻿Log file open, 11/28/14 08:11:10
 LogInit:Display: Running engine for game: SUCCUBEUS
 LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
 LogInit: API Version: 2326478
@@ -6,151 +6,706 @@ LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
 LogInit: Compiled with Visual C++: 18.00.21005.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++depot+UE4-Releases+4.5
-LogInit: Command line: 
+LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2014.11.19-20.01.25:356][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
-[2014.11.19-20.01.25:384][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2014.11.19-20.01.25:399][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2014.11.19-20.01.25:409][  0]LogInit: Object subsystem initialized
-[2014.11.19-20.01.25:412][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
-[2014.11.19-20.01.25:412][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2014.11.19-20.01.25:412][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480,Value=0.444),(Time=720,Value=0.666),(Time=1080,Value=1.0),(Time=8640,Value=8.0))),ExternalCurve=None)'
-[2014.11.19-20.01.25:412][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2014.11.19-20.01.25:412][  0]LogInit: Selected Device Profile: [Windows]
-[2014.11.19-20.01.25:412][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2014.11.19-20.01.25:417][  0]LogInit: Computer: JOHNSS18-PC
-[2014.11.19-20.01.25:417][  0]LogInit: User: johnss18
-[2014.11.19-20.01.25:421][  0]LogInit: CPU Page size=4096, Cores=2
-[2014.11.19-20.01.25:421][  0]LogInit: High frequency timer resolution =2.728222 MHz
-[2014.11.19-20.01.25:421][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx) Virtual=8192.0GB
-[2014.11.19-20.01.25:421][  0]LogMemory: Platform Memory Stats for Windows
-[2014.11.19-20.01.25:421][  0]LogMemory: Process Physical Memory: 61.50 MB used, 61.50 MB peak
-[2014.11.19-20.01.25:421][  0]LogMemory: Process Virtual Memory: 37.01 MB used, 37.21 MB peak
-[2014.11.19-20.01.25:421][  0]LogMemory: Physical Memory: 6694.67 MB used, 7915.94 MB total
-[2014.11.19-20.01.25:421][  0]LogMemory: Virtual Memory: 267.44 MB used, 8388608.00 MB total
-[2014.11.19-20.01.25:516][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics 4000 (Feature Level 11_0)
-[2014.11.19-20.01.25:516][  0]LogD3D11RHI: Adapter has 64MB of dedicated video memory, 0MB of dedicated system memory, and 1632MB of shared system memory, 1 output[s]
-[2014.11.19-20.01.25:516][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2014.11.19-20.01.25:524][  0]LogRHI: Texture pool is 616 MB (70% of 880 MB)
-[2014.11.19-20.01.25:535][  0]LogD3D11RHI: Async texture creation enabled
-[2014.11.19-20.01.25:717][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
-[2014.11.19-20.01.25:872][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2014.11.19-20.01.31:101][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.11.19-20.01.31:543][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.11.19-20.01.31:595][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2014.11.19-20.01.31:997][  0]LogDerivedDataCache: Loaded boot cache 0.40s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
-[2014.11.19-20.01.31:997][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
-[2014.11.19-20.01.31:997][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2014.11.19-20.01.31:998][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2014.11.19-20.01.32:069][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
-[2014.11.19-20.01.32:080][  0]LogDerivedDataCache: Using Local data cache path C:/Users/johnss18/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2014.11.19-20.01.32:271][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2014.11.19-20.01.32:271][  0]LogMeshUtilities: No automatic mesh merging module available
-[2014.11.19-20.01.32:571][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2014.11.19-20.01.32:574][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2014.11.19-20.01.32:966][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2014.11.19-20.01.47:324][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2014.11.19-20.01.47:483][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Binaries/Win64. Error: 0
-[2014.11.19-20.01.47:638][  0]SourceControl: Info Source control is disabled
-[2014.11.19-20.01.47:638][  0]SourceControl: Info Source control is disabled
-[2014.11.19-20.01.47:644][  0]SourceControl: Info Source control is disabled
-[2014.11.19-20.01.47:817][  0]LogObj: 22915 objects as part of root set at end of initial load.
-[2014.11.19-20.01.47:817][  0]LogUObjectAllocator: 4803544 out of 0 bytes used by permanent object pool.
-[2014.11.19-20.01.47:867][  0]LogEngine: Initializing Engine...
-[2014.11.19-20.01.48:118][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2014.11.19-20.01.48:197][  0]LogInit: FAudioDevice initialized.
-[2014.11.19-20.01.48:214][  0]LogAIModule: Creating AISystem for world NewWorld
-[2014.11.19-20.01.48:234][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
-[2014.11.19-20.01.48:238][  0]LogInit: Texture streaming: Enabled
-[2014.11.19-20.01.48:277][  0]LogInit: Transaction tracking system initialized
-[2014.11.19-20.01.48:354][  0]BlueprintLog: New page: Editor Load
-[2014.11.19-20.01.48:379][  0]LogAssetRegistry: FAssetRegistry took 0.0096 seconds to start up
-[2014.11.19-20.01.48:379][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
-[2014.11.19-20.01.48:871][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.11.19-20.01.49:199][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.11.19-20.01.50:663][  0]LogConsoleResponse:Display: 
-[2014.11.19-20.01.50:994][  0]SourceControl: Info Source control is disabled
-[2014.11.19-20.01.50:994][  0]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
-[2014.11.19-20.01.50:994][  0]LightingResults: New page: Lighting Build
-[2014.11.19-20.01.51:003][  0]MapCheck: New page: Map Check
-[2014.11.19-20.01.51:003][  0]LightingResults: New page: Lighting Build
-[2014.11.19-20.01.51:020][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001C89E840
-[2014.11.19-20.01.52:382][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2014.11.19-20.01.52:466][  0]LogAIModule: Creating AISystem for world Example_Map
-[2014.11.19-20.01.52:466][  0]Cmd: MAP CHECKDEP
-[2014.11.19-20.01.52:466][  0]MapCheck: New page: Example_Map - Nov 19, 2014, 10:01:52 AM
-[2014.11.19-20.01.52:538][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.276ms to complete.
-[2014.11.19-20.01.52:538][  0]LogFileHelpers: Loading map 'Example_Map' took 1.545
-[2014.11.19-20.01.53:606][  0]LogCollectionManager: Loaded 0 collections in 0.001071 seconds
-[2014.11.19-20.01.55:336][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2014.11.19-20.01.55:776][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2014.11.19-20.01.55:831][  0]LogLoad: Full Startup: 33.58 seconds (BP compile: 0.06 seconds)
-[2014.11.19-20.01.56:891][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
-[2014.11.19-20.02.04:989][ 22]LogAssetRegistry: Asset discovery search completed in 16.6194 seconds
-[2014.11.19-20.58.31:470][834]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2014.11.19-20.58.31:491][834]PIE: New page: PIE session: Example_Map (Nov 19, 2014, 10:58:31 AM)
-[2014.11.19-20.58.31:828][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.321705s)
-[2014.11.19-20.58.31:829][834]LogPlayLevel: PIE: World Init took: (0.000773s)
-[2014.11.19-20.58.31:829][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.322678s)
-[2014.11.19-20.58.32:953][834]LogWorld: Game class is 'MyGame_C'
-[2014.11.19-20.58.33:342][834]LogAIModule: Creating AISystem for world Example_Map
-[2014.11.19-20.58.33:363][834]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2014.11.19-15.58.33
-[2014.11.19-20.58.33:430][834]LogWorld: Bringing up level for play took: 0.087205
-[2014.11.19-20.58.33:907][834]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 3.119
-[2014.11.19-21.01.24:084][577]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011C2E3E0
-[2014.11.19-21.01.57:172][691]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2014.11.19-21.01.59:360][758]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
-[2014.11.19-21.02.02:502][831]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
-[2014.11.19-21.05.04:413][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:413][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:559][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:560][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:560][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.05.04:560][325]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.11.19-21.06.00:458][582]BlueprintLog: New page: Pre-PIE auto-recompile
-[2014.11.19-21.06.00:458][582]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
-[2014.11.19-21.06.00:720][582]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
-[2014.11.19-21.06.00:781][582]LogPlayLevel: PIE:  Blueprint regeneration took 323 ms (1 blueprints)
-[2014.11.19-21.06.00:781][582]PIE: New page: PIE session: Example_Map (Nov 19, 2014, 11:06:00 AM)
-[2014.11.19-21.06.00:824][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043322s)
-[2014.11.19-21.06.00:827][582]LogPlayLevel: PIE: World Init took: (0.002702s)
-[2014.11.19-21.06.00:827][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.046350s)
-[2014.11.19-21.06.00:914][582]LogWorld: Game class is 'MyGame_C'
-[2014.11.19-21.06.00:915][582]LogAIModule: Creating AISystem for world Example_Map
-[2014.11.19-21.06.00:916][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.19-16.06.00
-[2014.11.19-21.06.00:916][582]LogWorld: Bringing up level for play took: 0.001302
-[2014.11.19-21.06.00:918][582]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.124
-[2014.11.19-21.10.11:236][ 48]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011DBDDA0
-[2014.11.19-21.10.42:625][263]LogRenderer:Warning: Reallocating scene render targets to support 1344x728.
-[2014.11.19-21.13.26:657][245]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
-[2014.11.19-21.15.45:022][846]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
-[2014.11.19-21.15.45:688][846]LogSavePackage: Save=419.322906ms
-[2014.11.19-21.15.45:688][846]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Example_Map_Auto1F3BEA7FD4391CC27FA8E50AFC5BA4409.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Example_Map_Auto1.umap'
-[2014.11.19-21.15.45:724][846]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Example_Map' took 0.702
-[2014.11.19-21.15.45:724][846]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.702
-[2014.11.19-21.20.52:100][386]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2014.11.19-21.20.52:100][386]PIE: New page: PIE session: Example_Map (Nov 19, 2014, 11:20:52 AM)
-[2014.11.19-21.20.52:155][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055289s)
-[2014.11.19-21.20.52:157][386]LogPlayLevel: PIE: World Init took: (0.001622s)
-[2014.11.19-21.20.52:157][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.057405s)
-[2014.11.19-21.20.52:191][386]LogWorld: Game class is 'MyGame_C'
-[2014.11.19-21.20.52:193][386]LogAIModule: Creating AISystem for world Example_Map
-[2014.11.19-21.20.52:195][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.19-16.20.52
-[2014.11.19-21.20.52:195][386]LogWorld: Bringing up level for play took: 0.002134
-[2014.11.19-21.20.52:198][386]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.611
-[2014.11.19-21.21.03:612][928]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FBFF7E0
-[2014.11.19-21.22.33:248][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphere
+[2014.11.28-13.11.11:036][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.11.28-13.11.11:064][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.11.28-13.11.12:491][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.11.28-13.11.13:354][  0]LogInit: Object subsystem initialized
+[2014.11.28-13.11.14:390][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.11.28-13.11.14:390][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.28-13.11.14:390][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.11.28-13.11.14:390][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.28-13.11.14:657][  0]LogInit: Selected Device Profile: [Windows]
+[2014.11.28-13.11.14:657][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.11.28-13.11.15:392][  0]LogInit: Computer: DEVIN-PC
+[2014.11.28-13.11.15:392][  0]LogInit: User: Devin
+[2014.11.28-13.11.15:403][  0]LogInit: CPU Page size=4096, Cores=2
+[2014.11.28-13.11.15:403][  0]LogInit: High frequency timer resolution =2.728261 MHz
+[2014.11.28-13.11.15:409][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx) Virtual=8192.0GB
+[2014.11.28-13.11.15:448][  0]LogMemory: Platform Memory Stats for Windows
+[2014.11.28-13.11.15:448][  0]LogMemory: Process Physical Memory: 63.64 MB used, 63.64 MB peak
+[2014.11.28-13.11.15:448][  0]LogMemory: Process Virtual Memory: 38.66 MB used, 38.66 MB peak
+[2014.11.28-13.11.15:448][  0]LogMemory: Physical Memory: 6256.77 MB used, 7915.94 MB total
+[2014.11.28-13.11.15:448][  0]LogMemory: Virtual Memory: 275.17 MB used, 8388608.00 MB total
+[2014.11.28-13.11.19:870][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics 4000 (Feature Level 11_0)
+[2014.11.28-13.11.19:870][  0]LogD3D11RHI: Adapter has 977MB of dedicated video memory, 0MB of dedicated system memory, and 3071MB of shared system memory, 1 output[s]
+[2014.11.28-13.11.19:870][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.11.28-13.11.19:918][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.11.28-13.11.19:931][  0]LogD3D11RHI: Async texture creation enabled
+[2014.11.28-13.11.27:173][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.11.28-13.11.29:176][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.11.28-13.12.08:051][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.28-13.12.10:425][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.28-13.12.10:923][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.11.28-13.12.12:391][  0]LogDerivedDataCache: Loaded boot cache 1.39s 39MB C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.28-13.12.12:391][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.11.28-13.12.12:391][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.11.28-13.12.12:391][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.11.28-13.12.12:658][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.11.28-13.12.12:691][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Devin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.11.28-13.13.01:131][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.11.28-13.13.01:131][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.11.28-13.13.09:703][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.28-13.13.09:926][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.28-13.13.19:632][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.11.28-13.13.46:372][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.11.28-13.13.47:139][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.11.28-13.13.48:535][  0]SourceControl: Info Source control is disabled
+[2014.11.28-13.13.48:535][  0]SourceControl: Info Source control is disabled
+[2014.11.28-13.13.48:542][  0]SourceControl: Info Source control is disabled
+[2014.11.28-13.13.48:915][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.11.28-13.13.48:915][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.11.28-13.13.49:325][  0]LogEngine: Initializing Engine...
+[2014.11.28-13.13.50:255][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.11.28-13.13.50:382][  0]LogInit: FAudioDevice initialized.
+[2014.11.28-13.13.50:869][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.11.28-13.13.51:042][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.28-13.13.51:063][  0]LogInit: Texture streaming: Enabled
+[2014.11.28-13.13.51:225][  0]LogInit: Transaction tracking system initialized
+[2014.11.28-13.13.51:561][  0]BlueprintLog: New page: Editor Load
+[2014.11.28-13.13.51:674][  0]LogAssetRegistry: FAssetRegistry took 0.0118 seconds to start up
+[2014.11.28-13.13.51:675][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.11.28-13.13.53:911][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.28-13.13.54:263][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.28-13.13.55:524][  0]LogConsoleResponse:Display: 
+[2014.11.28-13.13.57:955][  0]SourceControl: Info Source control is disabled
+[2014.11.28-13.13.57:975][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-13.13.58:062][  0]LightingResults: New page: Lighting Build
+[2014.11.28-13.13.58:381][  0]MapCheck: New page: Map Check
+[2014.11.28-13.13.58:381][  0]LightingResults: New page: Lighting Build
+[2014.11.28-13.13.58:673][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000141EDA80
+[2014.11.28-13.14.01:843][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-13.14.01:881][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-13.14.01:970][  0]Cmd: MAP CHECKDEP
+[2014.11.28-13.14.01:970][  0]MapCheck: New page: Example_Map - Nov 28, 2014, 3:14:01 AM
+[2014.11.28-13.14.02:126][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 156.279ms to complete.
+[2014.11.28-13.14.02:126][  0]LogFileHelpers: Loading map 'Example_Map' took 4.158
+[2014.11.28-13.14.03:405][  0]LogCollectionManager: Loaded 0 collections in 0.000920 seconds
+[2014.11.28-13.14.04:104][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.11.28-13.14.04:486][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.11.28-13.14.04:735][  0]LogLoad: Full Startup: 194.63 seconds (BP compile: 1.69 seconds)
+[2014.11.28-13.14.05:124][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.28-13.14.05:887][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
+[2014.11.28-13.14.07:412][  3]LogAssetRegistry: Asset discovery search completed in 15.7494 seconds
+[2014.11.28-13.54.54:047][221]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-13.54.54:047][221]LightingResults: New page: Lighting Build
+[2014.11.28-13.54.54:117][221]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.28-13.54.54:160][221]MapCheck: New page: Map Check
+[2014.11.28-13.54.54:160][221]LightingResults: New page: Lighting Build
+[2014.11.28-13.54.54:179][221]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000014790E00
+[2014.11.28-13.54.54:376][221]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-13.54.54:397][221]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-13.54.54:431][221]Cmd: MAP CHECKDEP
+[2014.11.28-13.54.54:431][221]MapCheck: New page: Level1 - Nov 28, 2014, 3:54:54 AM
+[2014.11.28-13.54.57:655][221]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 3,223.932ms to complete.
+[2014.11.28-13.54.57:655][221]LogFileHelpers: Loading map 'Level1' took 3.635
+[2014.11.28-13.55.05:972][559]LogTexture:Display: Building textures: Texture2D_2 (G8)
+[2014.11.28-13.55.40:234][139]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_0) Not registered. Aborting.
+[2014.11.28-13.56.01:798][127]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2014.11.28-13.56.02:055][127]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.11.28-13.56.07:199][345]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.11.28-13.56.07:568][359]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.11.28-13.56.11:798][548]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2014.11.28-13.56.15:980][737]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2014.11.28-13.56.19:463][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.11.28-13.56.19:811][897]LogSavePackage: Save=237.634155ms
+[2014.11.28-13.56.19:811][897]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level14D3228C14DBC2F9611A16F966CF43A16.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap'
+[2014.11.28-13.56.22:913][ 21]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-13.56.22:913][ 21]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.11.28-13.56.23:238][ 21]LogPlayLevel: PIE:  Blueprint regeneration took 325 ms (1 blueprints)
+[2014.11.28-13.56.23:247][ 21]PIE: New page: PIE session: Level1 (Nov 28, 2014, 3:56:23 AM)
+[2014.11.28-13.56.23:262][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015035s)
+[2014.11.28-13.56.23:263][ 21]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2014.11.28-13.56.23:263][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.015737s)
+[2014.11.28-13.56.24:097][ 21]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-13.56.24:104][ 21]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-13.56.24:105][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-08.56.24
+[2014.11.28-13.56.24:123][ 21]LogWorld: Bringing up level for play took: 0.018408
+[2014.11.28-13.56.24:697][ 21]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 2.122
+[2014.11.28-13.56.29:681][278]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000187B9F80
+[2014.11.28-13.56.49:432][ 88]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-13.56.49:432][ 88]LightingResults: New page: Lighting Build
+[2014.11.28-13.56.49:479][ 88]LoadErrors: New page: Loading map: Example_Map.umap
+[2014.11.28-13.56.49:480][ 88]MapCheck: New page: Map Check
+[2014.11.28-13.56.49:480][ 88]LightingResults: New page: Lighting Build
+[2014.11.28-13.56.49:505][ 88]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000EA0D1C0
+[2014.11.28-13.56.49:524][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-13.56.49:525][ 88]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-13.56.49:554][ 88]Cmd: MAP CHECKDEP
+[2014.11.28-13.56.49:554][ 88]MapCheck: New page: Example_Map - Nov 28, 2014, 3:56:49 AM
+[2014.11.28-13.56.49:661][ 88]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 107.144ms to complete.
+[2014.11.28-13.56.49:661][ 88]LogFileHelpers: Loading map 'Example_Map' took 0.232
+[2014.11.28-13.57.06:220][750]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.28-13.57.14:669][ 18]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-13.57.14:691][ 18]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.28-13.57.14:804][ 18]LogPlayLevel: PIE:  Blueprint regeneration took 135 ms (1 blueprints)
+[2014.11.28-13.57.14:804][ 18]PIE: New page: PIE session: Example_Map (Nov 28, 2014, 3:57:14 AM)
+[2014.11.28-13.57.14:831][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026496s)
+[2014.11.28-13.57.14:831][ 18]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2014.11.28-13.57.14:832][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.027298s)
+[2014.11.28-13.57.14:870][ 18]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-13.57.14:871][ 18]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-13.57.14:872][ 18]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.28-08.57.14
+[2014.11.28-13.57.14:873][ 18]LogWorld: Bringing up level for play took: 0.001762
+[2014.11.28-13.57.14:933][ 18]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.357
+[2014.11.28-13.57.18:125][186]LogPackageName: SearchForPackageOnDisk took   0.305s to resolve Level1.umap
+[2014.11.28-13.57.18:180][186]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve Level1.umap
+[2014.11.28-13.57.18:192][186]LogNet: Browse: /Game/Maps/Level1
+[2014.11.28-13.57.18:212][186]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.11.28-13.57.18:258][186]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000F54ECA0
+[2014.11.28-13.57.18:259][186]Cmd: MEM
+[2014.11.28-13.57.18:345][186]LogMemory: Platform Memory Stats for Windows
+[2014.11.28-13.57.18:345][186]LogMemory: Process Physical Memory: 496.79 MB used, 515.43 MB peak
+[2014.11.28-13.57.18:345][186]LogMemory: Process Virtual Memory: 402.18 MB used, 422.12 MB peak
+[2014.11.28-13.57.18:345][186]LogMemory: Physical Memory: 5942.98 MB used, 7915.94 MB total
+[2014.11.28-13.57.18:345][186]LogMemory: Virtual Memory: 890.21 MB used, 8388608.00 MB total
+[2014.11.28-13.57.18:345][186]LogMemory: 
+[2014.11.28-13.57.18:345][186]Allocator Stats for TBB: (not implemented)
+[2014.11.28-13.57.19:139][186]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-13.57.19:140][186]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-13.57.19:141][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-08.57.19
+[2014.11.28-13.57.19:141][186]LogWorld: Bringing up level for play took: 0.001367
+[2014.11.28-13.57.34:237][ 80]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000F54EB60
+[2014.11.28-13.57.35:816][157]Cmd: SELECT NONE
+[2014.11.28-13.57.37:088][212]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-13.57.37:092][212]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.28-13.57.37:167][212]LogPlayLevel: PIE:  Blueprint regeneration took 79 ms (1 blueprints)
+[2014.11.28-13.57.37:168][212]PIE: New page: PIE session: Example_Map (Nov 28, 2014, 3:57:37 AM)
+[2014.11.28-13.57.37:195][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026902s)
+[2014.11.28-13.57.37:195][212]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2014.11.28-13.57.37:196][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.028183s)
+[2014.11.28-13.57.37:227][212]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-13.57.37:228][212]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-13.57.37:229][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.28-08.57.37
+[2014.11.28-13.57.37:230][212]LogWorld: Bringing up level for play took: 0.001091
+[2014.11.28-13.57.37:232][212]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.655
+[2014.11.28-13.57.39:179][322]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000207818A0
+[2014.11.28-13.57.40:521][378]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-13.57.40:524][378]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.28-13.57.40:604][378]LogPlayLevel: PIE:  Blueprint regeneration took 83 ms (1 blueprints)
+[2014.11.28-13.57.40:604][378]PIE: New page: PIE session: Example_Map (Nov 28, 2014, 3:57:40 AM)
+[2014.11.28-13.57.40:630][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026265s)
+[2014.11.28-13.57.40:631][378]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2014.11.28-13.57.40:631][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.027000s)
+[2014.11.28-13.57.40:664][378]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-13.57.40:665][378]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-13.57.40:666][378]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.28-08.57.40
+[2014.11.28-13.57.40:667][378]LogWorld: Bringing up level for play took: 0.001109
+[2014.11.28-13.57.40:669][378]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.092
+[2014.11.28-13.57.41:479][422]LogPackageName: SearchForPackageOnDisk took   0.054s to resolve Level1.umap
+[2014.11.28-13.57.41:534][422]LogPackageName: SearchForPackageOnDisk took   0.054s to resolve Level1.umap
+[2014.11.28-13.57.41:534][422]LogNet: Browse: /Game/Maps/Level1
+[2014.11.28-13.57.41:534][422]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.11.28-13.57.41:565][422]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001E70AB60
+[2014.11.28-13.57.41:565][422]Cmd: MEM
+[2014.11.28-13.57.41:592][422]LogMemory: Platform Memory Stats for Windows
+[2014.11.28-13.57.41:592][422]LogMemory: Process Physical Memory: 530.87 MB used, 558.95 MB peak
+[2014.11.28-13.57.41:592][422]LogMemory: Process Virtual Memory: 434.56 MB used, 462.82 MB peak
+[2014.11.28-13.57.41:593][422]LogMemory: Physical Memory: 5968.00 MB used, 7915.94 MB total
+[2014.11.28-13.57.41:593][422]LogMemory: Virtual Memory: 925.27 MB used, 8388608.00 MB total
+[2014.11.28-13.57.41:593][422]LogMemory: 
+[2014.11.28-13.57.41:593][422]Allocator Stats for TBB: (not implemented)
+[2014.11.28-13.57.41:650][422]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-13.57.41:651][422]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-13.57.41:652][422]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-08.57.41
+[2014.11.28-13.57.41:652][422]LogWorld: Bringing up level for play took: 0.001018
+[2014.11.28-13.57.43:380][520]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E4D5C60
+[2014.11.28-13.57.56:560][ 90]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.28-13.58.08:026][538]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/AiSandbox.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-13.58.08:026][538]LightingResults: New page: Lighting Build
+[2014.11.28-13.58.08:062][538]LoadErrors: New page: Loading map: AiSandbox.umap
+[2014.11.28-13.58.08:140][538]MapCheck: New page: Map Check
+[2014.11.28-13.58.08:140][538]LightingResults: New page: Lighting Build
+[2014.11.28-13.58.08:177][538]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000F54FBA0
+[2014.11.28-13.58.08:222][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-13.58.08:222][538]LogAIModule: Creating AISystem for world AiSandbox
+[2014.11.28-13.58.08:246][538]Cmd: MAP CHECKDEP
+[2014.11.28-13.58.08:246][538]MapCheck: New page: AiSandbox - Nov 28, 2014, 3:58:08 AM
+[2014.11.28-13.58.08:354][538]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 108.276ms to complete.
+[2014.11.28-13.58.08:355][538]LogFileHelpers: Loading map 'AiSandbox' took 0.331
+[2014.11.28-13.58.35:084][568]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.11.28-13.58.52:568][203]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.28-13.58.56:244][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.11.28-13.58.56:290][350]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-13.58.56:290][350]LightingResults: New page: Lighting Build
+[2014.11.28-13.58.56:323][350]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.28-13.58.56:324][350]MapCheck: New page: Map Check
+[2014.11.28-13.58.56:324][350]LightingResults: New page: Lighting Build
+[2014.11.28-13.58.56:348][350]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001E315620
+[2014.11.28-13.58.56:363][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-13.58.56:363][350]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-13.58.56:391][350]Cmd: MAP CHECKDEP
+[2014.11.28-13.58.56:391][350]MapCheck: New page: Level1 - Nov 28, 2014, 3:58:56 AM
+[2014.11.28-13.58.56:502][350]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 111.159ms to complete.
+[2014.11.28-13.58.56:503][350]LogFileHelpers: Loading map 'Level1' took 0.214
+[2014.11.28-13.59.05:238][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:238][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:368][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:369][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:370][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.05:370][694]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.49:998][589]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.49:998][589]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.49:998][589]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-13.59.49:998][589]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.00.28:350][473]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.00.28:582][473]BlueprintEditorCompileResults: Info [2978.18] Compile of Level1 successful! [in 1 ms]
+[2014.11.28-14.00.34:117][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.11.28-14.00.34:204][659]LogSavePackage: Save=49.127632ms
+[2014.11.28-14.00.34:204][659]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level17D4E5E994DAA99F7BB8637B314D3C6E9.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap'
+[2014.11.28-14.00.34:234][659]LogFileHelpers: Saving map 'Level1' took 0.228
+[2014.11.28-14.00.35:865][722]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.00.35:865][722]LightingResults: New page: Lighting Build
+[2014.11.28-14.00.35:900][722]LoadErrors: New page: Loading map: Example_Map.umap
+[2014.11.28-14.00.35:957][722]MapCheck: New page: Map Check
+[2014.11.28-14.00.35:957][722]LightingResults: New page: Lighting Build
+[2014.11.28-14.00.35:978][722]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013266AC0
+[2014.11.28-14.00.35:997][722]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2014.11.28-14.00.35:998][722]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-14.00.36:032][722]Cmd: MAP CHECKDEP
+[2014.11.28-14.00.36:032][722]MapCheck: New page: Example_Map - Nov 28, 2014, 4:00:36 AM
+[2014.11.28-14.00.36:136][722]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 103.769ms to complete.
+[2014.11.28-14.00.36:136][722]LogFileHelpers: Loading map 'Example_Map' took 0.273
+[2014.11.28-14.00.56:167][394]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.00.56:167][394]LightingResults: New page: Lighting Build
+[2014.11.28-14.00.56:200][394]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.28-14.00.56:246][394]MapCheck: New page: Map Check
+[2014.11.28-14.00.56:246][394]LightingResults: New page: Lighting Build
+[2014.11.28-14.00.56:274][394]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FECBD80
+[2014.11.28-14.00.56:284][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-14.00.56:284][394]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.00.56:308][394]Cmd: MAP CHECKDEP
+[2014.11.28-14.00.56:308][394]MapCheck: New page: Level1 - Nov 28, 2014, 4:00:56 AM
+[2014.11.28-14.00.56:414][394]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 106.053ms to complete.
+[2014.11.28-14.00.56:414][394]LogFileHelpers: Loading map 'Level1' took 0.250
+[2014.11.28-14.01.52:986][585]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2014.11.28-14.02.12:361][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.12:361][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.12:361][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.12:361][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.12:362][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.12:362][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.12:362][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.12:362][485]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.32:179][338]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.28-14.02.46:248][909]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.02.46:348][909]BlueprintEditorCompileResults: Info [3116.08] Compile of Level1 successful! [in 2 ms]
+[2014.11.28-14.02.52:112][105]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.02.52:120][105]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.02.52:204][105]LogPlayLevel: PIE:  Blueprint regeneration took 92 ms (1 blueprints)
+[2014.11.28-14.02.52:205][105]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:02:52 AM)
+[2014.11.28-14.02.52:208][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002795s)
+[2014.11.28-14.02.52:208][105]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2014.11.28-14.02.52:208][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003729s)
+[2014.11.28-14.02.52:240][105]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.02.52:241][105]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.02.52:241][105]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.02.52
+[2014.11.28-14.02.52:241][105]LogWorld: Bringing up level for play took: 0.000686
+[2014.11.28-14.02.52:243][105]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.343
+[2014.11.28-14.03.02:043][688]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000266E1E40
+[2014.11.28-14.05.41:333][963]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.05.41:417][963]BlueprintEditorCompileResults: Info [3291.14] Compile of Level1 successful! [in 3 ms]
+[2014.11.28-14.05.44:295][ 61]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.05.44:303][ 61]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.05.44:390][ 61]LogPlayLevel: PIE:  Blueprint regeneration took 94 ms (1 blueprints)
+[2014.11.28-14.05.44:390][ 61]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:05:44 AM)
+[2014.11.28-14.05.44:393][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002911s)
+[2014.11.28-14.05.44:393][ 61]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2014.11.28-14.05.44:394][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003692s)
+[2014.11.28-14.05.44:420][ 61]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.05.44:421][ 61]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.05.44:421][ 61]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.05.44
+[2014.11.28-14.05.44:422][ 61]LogWorld: Bringing up level for play took: 0.000788
+[2014.11.28-14.05.44:424][ 61]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.168
+[2014.11.28-14.05.49:494][360]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000023021EE0
+[2014.11.28-14.05.59:107][664]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.05.59:189][664]BlueprintEditorCompileResults: Info [3308.91] Compile of Level1 successful! [in 2 ms]
+[2014.11.28-14.06.00:405][705]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.06.00:410][705]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.06.00:483][705]LogPlayLevel: PIE:  Blueprint regeneration took 77 ms (1 blueprints)
+[2014.11.28-14.06.00:483][705]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:06:00 AM)
+[2014.11.28-14.06.00:486][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002526s)
+[2014.11.28-14.06.00:486][705]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2014.11.28-14.06.00:486][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003219s)
+[2014.11.28-14.06.00:515][705]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.06.00:516][705]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.06.00:516][705]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.06.00
+[2014.11.28-14.06.00:516][705]LogWorld: Bringing up level for play took: 0.000705
+[2014.11.28-14.06.00:518][705]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.074
+[2014.11.28-14.06.09:681][203]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000022DD8D60
+[2014.11.28-14.06.58:884][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.06.58:927][280]LogSavePackage: Save=33.359344ms
+[2014.11.28-14.06.58:927][280]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenuF17CFC8449CE693C77E1C4B135862ECF.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.06.59:367][293]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.06.59:483][293]BlueprintEditorCompileResults: Info [3369.18] Compile of PauseMenu successful! [in 11 ms]
+[2014.11.28-14.07.00:219][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.07.00:251][317]LogSavePackage: Save=26.191408ms
+[2014.11.28-14.07.00:251][317]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenu24CD252E418B54E5CEAE5F9CBEFD5EAC.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.07.02:419][393]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.07.02:423][393]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.07.02:523][393]LogPlayLevel: PIE:  Blueprint regeneration took 104 ms (1 blueprints)
+[2014.11.28-14.07.02:523][393]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:07:02 AM)
+[2014.11.28-14.07.02:527][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003151s)
+[2014.11.28-14.07.02:527][393]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2014.11.28-14.07.02:527][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004038s)
+[2014.11.28-14.07.02:560][393]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.07.02:561][393]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.07.02:562][393]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.07.02
+[2014.11.28-14.07.02:562][393]LogWorld: Bringing up level for play took: 0.000943
+[2014.11.28-14.07.02:564][393]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.029
+[2014.11.28-14.07.07:723][696]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001C30AD40
+[2014.11.28-14.07.41:854][ 62]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.07.41:956][ 62]BlueprintEditorCompileResults: Info [3411.67] Compile of PauseMenu successful! [in 3 ms]
+[2014.11.28-14.07.42:790][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.07.42:823][ 88]LogSavePackage: Save=27.502501ms
+[2014.11.28-14.07.42:823][ 88]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenu26C578384DE0B3E684CF37AB682E655D.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.07.45:158][161]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.07.45:236][161]BlueprintEditorCompileResults: Info [3414.96] Compile of Level1 successful! [in 2 ms]
+[2014.11.28-14.07.56:944][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.11.28-14.07.57:040][593]LogSavePackage: Save=59.436764ms
+[2014.11.28-14.07.57:040][593]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level1458BA1EF48FBD2ACD88168B450C706DF.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap'
+[2014.11.28-14.07.57:074][593]LogFileHelpers: Saving map 'Level1' took 0.245
+[2014.11.28-14.07.59:213][665]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.07.59:220][665]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.07.59:314][665]LogPlayLevel: PIE:  Blueprint regeneration took 101 ms (1 blueprints)
+[2014.11.28-14.07.59:315][665]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:07:59 AM)
+[2014.11.28-14.07.59:318][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002743s)
+[2014.11.28-14.07.59:318][665]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2014.11.28-14.07.59:318][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003493s)
+[2014.11.28-14.07.59:347][665]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.07.59:348][665]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.07.59:349][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.07.59
+[2014.11.28-14.07.59:349][665]LogWorld: Bringing up level for play took: 0.000741
+[2014.11.28-14.07.59:351][665]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.756
+[2014.11.28-14.08.02:544][851]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FECB240
+[2014.11.28-14.08.04:120][906]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.08.04:120][906]LightingResults: New page: Lighting Build
+[2014.11.28-14.08.04:162][906]LoadErrors: New page: Loading map: Example_Map.umap
+[2014.11.28-14.08.04:192][906]MapCheck: New page: Map Check
+[2014.11.28-14.08.04:192][906]LightingResults: New page: Lighting Build
+[2014.11.28-14.08.04:220][906]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FF6CA40
+[2014.11.28-14.08.04:239][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-14.08.04:240][906]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-14.08.04:264][906]Cmd: MAP CHECKDEP
+[2014.11.28-14.08.04:264][906]MapCheck: New page: Example_Map - Nov 28, 2014, 4:08:04 AM
+[2014.11.28-14.08.04:372][906]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 108.446ms to complete.
+[2014.11.28-14.08.04:372][906]LogFileHelpers: Loading map 'Example_Map' took 0.255
+[2014.11.28-14.08.37:291][ 60]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2014.11.28-14.08.37:321][ 60]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.08.37:321][ 60]LightingResults: New page: Lighting Build
+[2014.11.28-14.08.37:345][ 60]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2014.11.28-14.08.37:345][ 60]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.28-14.08.37:367][ 60]MapCheck: New page: Map Check
+[2014.11.28-14.08.37:367][ 60]LightingResults: New page: Lighting Build
+[2014.11.28-14.08.37:397][ 60]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F4CC4A0
+[2014.11.28-14.08.37:402][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-14.08.37:402][ 60]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.08.37:423][ 60]Cmd: MAP CHECKDEP
+[2014.11.28-14.08.37:423][ 60]MapCheck: New page: Level1 - Nov 28, 2014, 4:08:37 AM
+[2014.11.28-14.08.37:531][ 60]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 107.934ms to complete.
+[2014.11.28-14.08.37:531][ 60]LogFileHelpers: Loading map 'Level1' took 0.212
+[2014.11.28-14.08.59:904][954]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.08.59:904][954]LightingResults: New page: Lighting Build
+[2014.11.28-14.08.59:936][954]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.28-14.08.59:937][954]MapCheck: New page: Map Check
+[2014.11.28-14.08.59:937][954]LightingResults: New page: Lighting Build
+[2014.11.28-14.08.59:963][954]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000020046660
+[2014.11.28-14.09.00:020][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-14.09.00:020][954]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.09.00:047][954]Cmd: MAP CHECKDEP
+[2014.11.28-14.09.00:047][954]MapCheck: New page: Level1 - Nov 28, 2014, 4:09:00 AM
+[2014.11.28-14.09.00:155][954]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 107.798ms to complete.
+[2014.11.28-14.09.00:155][954]LogFileHelpers: Loading map 'Level1' took 0.253
+[2014.11.28-14.09.56:214][344]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.09.56:214][344]LightingResults: New page: Lighting Build
+[2014.11.28-14.09.56:241][344]LoadErrors: New page: Loading map: Example_Map.umap
+[2014.11.28-14.09.56:274][344]MapCheck: New page: Map Check
+[2014.11.28-14.09.56:274][344]LightingResults: New page: Lighting Build
+[2014.11.28-14.09.56:304][344]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FF07600
+[2014.11.28-14.09.56:318][344]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-14.09.56:319][344]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-14.09.56:343][344]Cmd: MAP CHECKDEP
+[2014.11.28-14.09.56:343][344]MapCheck: New page: Example_Map - Nov 28, 2014, 4:09:56 AM
+[2014.11.28-14.09.56:448][344]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 105.439ms to complete.
+[2014.11.28-14.09.56:448][344]LogFileHelpers: Loading map 'Example_Map' took 0.236
+[2014.11.28-14.09.57:212][373]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.09.57:212][373]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.28-14.09.57:322][373]LogPlayLevel: PIE:  Blueprint regeneration took 110 ms (1 blueprints)
+[2014.11.28-14.09.57:323][373]PIE: New page: PIE session: Example_Map (Nov 28, 2014, 4:09:57 AM)
+[2014.11.28-14.09.57:353][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030553s)
+[2014.11.28-14.09.57:354][373]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2014.11.28-14.09.57:355][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.031991s)
+[2014.11.28-14.09.57:391][373]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.09.57:392][373]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-14.09.57:393][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.28-09.09.57
+[2014.11.28-14.09.57:394][373]LogWorld: Bringing up level for play took: 0.001335
+[2014.11.28-14.09.57:396][373]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.797
+[2014.11.28-14.10.05:506][851]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F330E00
+[2014.11.28-14.10.07:063][909]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.10.07:063][909]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.28-14.10.07:139][909]LogPlayLevel: PIE:  Blueprint regeneration took 75 ms (1 blueprints)
+[2014.11.28-14.10.07:139][909]PIE: New page: PIE session: Example_Map (Nov 28, 2014, 4:10:07 AM)
+[2014.11.28-14.10.07:169][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029873s)
+[2014.11.28-14.10.07:170][909]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2014.11.28-14.10.07:170][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.031097s)
+[2014.11.28-14.10.07:205][909]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.10.07:206][909]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-14.10.07:207][909]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.28-09.10.07
+[2014.11.28-14.10.07:207][909]LogWorld: Bringing up level for play took: 0.001143
+[2014.11.28-14.10.07:209][909]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.61
+[2014.11.28-14.10.14:321][328]LogPackageName: SearchForPackageOnDisk took   0.056s to resolve Level1.umap
+[2014.11.28-14.10.14:369][328]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve Level1.umap
+[2014.11.28-14.10.14:369][328]LogNet: Browse: /Game/Maps/Level1
+[2014.11.28-14.10.14:369][328]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.11.28-14.10.14:394][328]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000023020EA0
+[2014.11.28-14.10.14:394][328]Cmd: MEM
+[2014.11.28-14.10.14:415][328]LogMemory: Platform Memory Stats for Windows
+[2014.11.28-14.10.14:415][328]LogMemory: Process Physical Memory: 649.31 MB used, 673.37 MB peak
+[2014.11.28-14.10.14:415][328]LogMemory: Process Virtual Memory: 556.03 MB used, 580.28 MB peak
+[2014.11.28-14.10.14:415][328]LogMemory: Physical Memory: 6293.23 MB used, 7915.94 MB total
+[2014.11.28-14.10.14:415][328]LogMemory: Virtual Memory: 1044.03 MB used, 8388608.00 MB total
+[2014.11.28-14.10.14:415][328]LogMemory: 
+[2014.11.28-14.10.14:415][328]Allocator Stats for TBB: (not implemented)
+[2014.11.28-14.10.14:464][328]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.10.14:465][328]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.10.14:466][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.10.14
+[2014.11.28-14.10.14:467][328]LogWorld: Bringing up level for play took: 0.001127
+[2014.11.28-14.10.29:070][199]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000022DDBBA0
+[2014.11.28-14.10.40:031][585]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2014.11.28-14.10.41:228][586]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2014.11.28-14.10.41:317][588]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2014.11.28-14.14.46:597][836]BlueprintLog: New page: Compile Example_Map
+[2014.11.28-14.14.46:695][836]BlueprintEditorCompileResults: Info [3836.39] Compile of Example_Map successful! [in 2 ms]
+[2014.11.28-14.14.51:686][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.11.28-14.14.51:960][981]LogSavePackage: Save=226.126465ms
+[2014.11.28-14.14.51:960][981]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Example_Map9B7A27DC4E05B10BA96596BA5B4C317B.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap'
+[2014.11.28-14.14.52:014][981]LogFileHelpers: Saving map 'Example_Map' took 0.505
+[2014.11.28-14.14.58:586][181]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.14.58:681][181]BlueprintEditorCompileResults: Info [3848.38] Compile of PauseMenu successful! [in 4 ms]
+[2014.11.28-14.14.59:405][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.14.59:441][204]LogSavePackage: Save=27.217337ms
+[2014.11.28-14.14.59:441][204]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenuE9D4DB4D4B27C809F3CE04B8D42678DF.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.15.05:172][379]BlueprintLog: New page: Compile MainMenu
+[2014.11.28-14.15.05:289][379]BlueprintEditorCompileResults: Info [3854.98] Compile of MainMenu successful! [in 13 ms]
+[2014.11.28-14.15.06:088][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.11.28-14.15.06:129][402]LogSavePackage: Save=32.253147ms
+[2014.11.28-14.15.06:129][402]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu00CAB0064FA5D777EEEA46AEC82C0E8F.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.11.28-14.15.10:081][524]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.15.10:086][524]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.28-14.15.10:165][524]LogPlayLevel: PIE:  Blueprint regeneration took 84 ms (1 blueprints)
+[2014.11.28-14.15.10:166][524]PIE: New page: PIE session: Example_Map (Nov 28, 2014, 4:15:10 AM)
+[2014.11.28-14.15.10:194][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028250s)
+[2014.11.28-14.15.10:195][524]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2014.11.28-14.15.10:195][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.029009s)
+[2014.11.28-14.15.10:233][524]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.15.10:234][524]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-14.15.10:235][524]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.28-09.15.10
+[2014.11.28-14.15.10:235][524]LogWorld: Bringing up level for play took: 0.001243
+[2014.11.28-14.15.10:238][524]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.371
+[2014.11.28-14.15.16:202][874]LogPackageName: SearchForPackageOnDisk took   0.063s to resolve Level1.umap
+[2014.11.28-14.15.16:251][874]LogPackageName: SearchForPackageOnDisk took   0.048s to resolve Level1.umap
+[2014.11.28-14.15.16:251][874]LogNet: Browse: /Game/Maps/Level1
+[2014.11.28-14.15.16:251][874]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.11.28-14.15.16:276][874]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001E70AB60
+[2014.11.28-14.15.16:276][874]Cmd: MEM
+[2014.11.28-14.15.16:299][874]LogMemory: Platform Memory Stats for Windows
+[2014.11.28-14.15.16:299][874]LogMemory: Process Physical Memory: 681.12 MB used, 690.44 MB peak
+[2014.11.28-14.15.16:299][874]LogMemory: Process Virtual Memory: 588.59 MB used, 597.75 MB peak
+[2014.11.28-14.15.16:299][874]LogMemory: Physical Memory: 6328.09 MB used, 7915.94 MB total
+[2014.11.28-14.15.16:299][874]LogMemory: Virtual Memory: 1080.33 MB used, 8388608.00 MB total
+[2014.11.28-14.15.16:299][874]LogMemory: 
+[2014.11.28-14.15.16:299][874]Allocator Stats for TBB: (not implemented)
+[2014.11.28-14.15.16:364][874]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.15.16:365][874]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.15.16:366][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.15.16
+[2014.11.28-14.15.16:366][874]LogWorld: Bringing up level for play took: 0.001024
+[2014.11.28-14.15.21:251][160]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FEC9DA0
+[2014.11.28-14.15.24:740][285]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.15.24:741][285]LightingResults: New page: Lighting Build
+[2014.11.28-14.15.24:771][285]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.28-14.15.24:796][285]MapCheck: New page: Map Check
+[2014.11.28-14.15.24:797][285]LightingResults: New page: Lighting Build
+[2014.11.28-14.15.24:829][285]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000020B899E0
+[2014.11.28-14.15.24:893][285]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-14.15.24:893][285]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.15.24:917][285]Cmd: MAP CHECKDEP
+[2014.11.28-14.15.24:917][285]MapCheck: New page: Level1 - Nov 28, 2014, 4:15:24 AM
+[2014.11.28-14.15.25:022][285]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 104.811ms to complete.
+[2014.11.28-14.15.25:022][285]LogFileHelpers: Loading map 'Level1' took 0.284
+[2014.11.28-14.15.33:596][622]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.15.33:690][622]BlueprintEditorCompileResults: Info [3883.40] Compile of Level1 successful! [in 2 ms]
+[2014.11.28-14.15.36:043][711]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.15.36:049][711]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.15.36:123][711]LogPlayLevel: PIE:  Blueprint regeneration took 79 ms (1 blueprints)
+[2014.11.28-14.15.36:123][711]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:15:36 AM)
+[2014.11.28-14.15.36:126][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002296s)
+[2014.11.28-14.15.36:126][711]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2014.11.28-14.15.36:126][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003043s)
+[2014.11.28-14.15.36:160][711]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.15.36:161][711]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.15.36:161][711]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.15.36
+[2014.11.28-14.15.36:162][711]LogWorld: Bringing up level for play took: 0.000692
+[2014.11.28-14.15.36:164][711]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.446
+[2014.11.28-14.15.45:123][242]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FF04680
+[2014.11.28-14.16.18:123][527]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.16.18:225][527]BlueprintEditorCompileResults: Info [3927.92] Compile of PauseMenu successful! [in 12 ms]
+[2014.11.28-14.16.18:690][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.16.18:720][542]LogSavePackage: Save=24.287266ms
+[2014.11.28-14.16.18:720][542]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenuFB7985EE4BF24088F96246ACB688AF69.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.16.20:597][605]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.16.20:677][605]BlueprintEditorCompileResults: Info [3930.38] Compile of Level1 successful! [in 2 ms]
+[2014.11.28-14.16.21:602][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
+[2014.11.28-14.16.24:356][722]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.16.24:362][722]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.16.24:439][722]LogPlayLevel: PIE:  Blueprint regeneration took 83 ms (1 blueprints)
+[2014.11.28-14.16.24:439][722]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:16:24 AM)
+[2014.11.28-14.16.24:442][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003000s)
+[2014.11.28-14.16.24:443][722]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2014.11.28-14.16.24:443][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003725s)
+[2014.11.28-14.16.24:474][722]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.16.24:475][722]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.16.24:475][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.16.24
+[2014.11.28-14.16.24:476][722]LogWorld: Bringing up level for play took: 0.000684
+[2014.11.28-14.16.24:477][722]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.133
+[2014.11.28-14.16.33:456][254]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000027529F80
+[2014.11.28-14.23.10:491][289]LogEditorTransaction: Undo Delete current selection
+[2014.11.28-14.23.10:801][296]LogEditorTransaction: Undo Delete current selection
+[2014.11.28-14.23.18:426][516]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.23.18:553][516]BlueprintEditorCompileResults: Info [4348.21] Compile of Level1 successful! [in 6 ms]
+[2014.11.28-14.23.27:392][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.11.28-14.23.27:522][804]LogSavePackage: Save=84.198326ms
+[2014.11.28-14.23.27:522][804]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level13EB9FA124C1E290A42BAD7A8D4AACE8B.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap'
+[2014.11.28-14.23.27:550][804]LogFileHelpers: Saving map 'Level1' took 0.270
+[2014.11.28-14.23.27:553][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.11.28-14.23.27:583][804]LogSavePackage: Save=22.700174ms
+[2014.11.28-14.23.27:583][804]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu44B76AF94BA7C313329A0392AB0FCBCE.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.11.28-14.23.27:594][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.23.27:624][804]LogSavePackage: Save=23.443138ms
+[2014.11.28-14.23.27:624][804]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenuF4475576462E6D34DDB45D8B6AEE3C8E.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.25.19:778][306]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.25.19:940][306]BlueprintEditorCompileResults: Info [4469.56] Compile of PauseMenu successful! [in 8 ms]
+[2014.11.28-14.25.55:383][511]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.25.55:469][511]BlueprintEditorCompileResults: Info [4505.15] Compile of Level1 successful! [in 2 ms]
+[2014.11.28-14.25.58:164][599]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.25.58:170][599]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.25.58:229][599]LogPlayLevel: [PIE] Compiling MainMenu before PIE...
+[2014.11.28-14.25.58:317][599]LogPlayLevel: PIE:  Blueprint regeneration took 152 ms (2 blueprints)
+[2014.11.28-14.25.58:317][599]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:25:58 AM)
+[2014.11.28-14.25.58:320][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002673s)
+[2014.11.28-14.25.58:320][599]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2014.11.28-14.25.58:320][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003388s)
+[2014.11.28-14.25.58:349][599]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.25.58:350][599]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.25.58:350][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.25.58
+[2014.11.28-14.25.58:350][599]LogWorld: Bringing up level for play took: 0.000712
+[2014.11.28-14.25.58:352][599]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.276
+[2014.11.28-14.26.08:814][219]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000372F5EE0
+[2014.11.28-14.28.24:487][220]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.28.24:576][220]BlueprintEditorCompileResults: Info [4654.26] Compile of Level1 successful! [in 5 ms]
+[2014.11.28-14.29.06:415][510]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.29.06:549][510]BlueprintEditorCompileResults: Info [4696.20] Compile of PauseMenu successful! [in 14 ms]
+[2014.11.28-14.29.07:106][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.29.07:153][524]LogSavePackage: Save=34.103775ms
+[2014.11.28-14.29.07:153][524]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenu549D9E0B4BBA1C6401C9C2B5A0B2ACD8.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.29.10:066][621]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.29.10:070][621]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.29.10:144][621]LogPlayLevel: PIE:  Blueprint regeneration took 78 ms (1 blueprints)
+[2014.11.28-14.29.10:145][621]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:29:10 AM)
+[2014.11.28-14.29.10:147][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002687s)
+[2014.11.28-14.29.10:148][621]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2014.11.28-14.29.10:148][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003510s)
+[2014.11.28-14.29.10:175][621]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.29.10:176][621]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.29.10:177][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.29.10
+[2014.11.28-14.29.10:177][621]LogWorld: Bringing up level for play took: 0.000767
+[2014.11.28-14.29.10:179][621]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.455
+[2014.11.28-14.29.27:221][636]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000034F385E0
+[2014.11.28-14.30.15:791][859]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2014.11.28-14.31.24:889][218]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.31.24:972][218]BlueprintEditorCompileResults: Info [4834.65] Compile of Level1 successful! [in 4 ms]
+[2014.11.28-14.32.25:833][324]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.32.25:947][324]BlueprintEditorCompileResults: Info [4895.61] Compile of PauseMenu successful! [in 13 ms]
+[2014.11.28-14.32.26:652][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.32.26:693][343]LogSavePackage: Save=34.001511ms
+[2014.11.28-14.32.26:693][343]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenu7FAF85EA40F0133E9E62A99DDC468BEE.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.32.30:282][457]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.32.30:286][457]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.32.30:378][457]LogPlayLevel: PIE:  Blueprint regeneration took 96 ms (1 blueprints)
+[2014.11.28-14.32.30:379][457]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:32:30 AM)
+[2014.11.28-14.32.30:382][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003039s)
+[2014.11.28-14.32.30:383][457]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2014.11.28-14.32.30:383][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003858s)
+[2014.11.28-14.32.30:409][457]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.32.30:410][457]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.32.30:411][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.32.30
+[2014.11.28-14.32.30:411][457]LogWorld: Bringing up level for play took: 0.000806
+[2014.11.28-14.32.30:413][457]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.228
+[2014.11.28-14.32.45:619][360]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003E0FBEC0
+[2014.11.28-14.33.34:602][737]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.33.34:704][737]BlueprintEditorCompileResults: Info [4964.36] Compile of PauseMenu successful! [in 4 ms]
+[2014.11.28-14.33.35:291][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.33.35:331][753]LogSavePackage: Save=33.336620ms
+[2014.11.28-14.33.35:331][753]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenu54788AAD41C7D08EF92A5E8AD4F79878.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.33.44:176][  3]BlueprintLog: New page: Compile Level1
+[2014.11.28-14.33.44:258][  3]BlueprintEditorCompileResults: Info [4973.93] Compile of Level1 successful! [in 3 ms]
+[2014.11.28-14.33.46:681][ 85]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.28-14.33.46:687][ 85]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.28-14.33.46:780][ 85]LogPlayLevel: PIE:  Blueprint regeneration took 99 ms (1 blueprints)
+[2014.11.28-14.33.46:780][ 85]PIE: New page: PIE session: Level1 (Nov 28, 2014, 4:33:46 AM)
+[2014.11.28-14.33.46:783][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002643s)
+[2014.11.28-14.33.46:784][ 85]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2014.11.28-14.33.46:784][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003378s)
+[2014.11.28-14.33.46:816][ 85]LogWorld: Game class is 'MyGame_C'
+[2014.11.28-14.33.46:817][ 85]LogAIModule: Creating AISystem for world Level1
+[2014.11.28-14.33.46:817][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.28-09.33.46
+[2014.11.28-14.33.46:817][ 85]LogWorld: Bringing up level for play took: 0.000740
+[2014.11.28-14.33.46:819][ 85]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.176
+[2014.11.28-14.33.55:430][596]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003CA4C900
+[2014.11.28-14.34.04:472][860]BlueprintLog: New page: Compile PauseMenu
+[2014.11.28-14.34.04:598][860]BlueprintEditorCompileResults: Info [4994.25] Compile of PauseMenu successful! [in 26 ms]
+[2014.11.28-14.34.05:173][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.11.28-14.34.05:221][875]LogSavePackage: Save=39.985912ms
+[2014.11.28-14.34.05:221][875]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenuE169BDB84F9FC0881CC8E39743EB663F.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.11.28-14.34.08:444][989]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2014.11.28-14.34.12:926][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2014.11.28-14.34.13:034][137]LogSavePackage: Save=78.308487ms
+[2014.11.28-14.34.13:034][137]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level1_Auto1937BE6174F4B1CF823BA238181C6D54A.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2014.11.28-14.34.13:123][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.247
+[2014.11.28-14.34.13:123][137]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.247
+[2014.11.28-14.34.19:718][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.11.28-14.34.19:833][416]LogSavePackage: Save=53.613274ms
+[2014.11.28-14.34.19:833][416]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level1088D6C27469C9147EBA8C3A4B457F4A4.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap'
+[2014.11.28-14.38.01:363][517]BlueprintLog: New page: Compile MainMenu
+[2014.11.28-14.38.01:458][517]BlueprintEditorCompileResults: Info [5231.11] Compile of MainMenu successful! [in 3 ms]
+[2014.11.28-14.38.02:080][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.11.28-14.38.02:127][535]LogSavePackage: Save=33.032764ms
+[2014.11.28-14.38.02:127][535]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu3F8F839647F8AB6AF9D596A6A7119E09.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.11.28-14.38.04:598][612]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.28-14.38.04:598][612]LightingResults: New page: Lighting Build
+[2014.11.28-14.38.04:630][612]LoadErrors: New page: Loading map: Example_Map.umap
+[2014.11.28-14.38.04:665][612]MapCheck: New page: Map Check
+[2014.11.28-14.38.04:665][612]LightingResults: New page: Lighting Build
+[2014.11.28-14.38.04:694][612]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FF06D40
+[2014.11.28-14.38.04:735][612]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.28-14.38.04:735][612]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.28-14.38.04:801][612]Cmd: MAP CHECKDEP
+[2014.11.28-14.38.04:801][612]MapCheck: New page: Example_Map - Nov 28, 2014, 4:38:04 AM
+[2014.11.28-14.38.04:908][612]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 107.011ms to complete.
+[2014.11.28-14.38.04:908][612]LogFileHelpers: Loading map 'Example_Map' took 0.313
+[2014.11.28-14.38.43:275][965]BlueprintLog: New page: Compile Example_Map
+[2014.11.28-14.38.43:433][965]Bl
