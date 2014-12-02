@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 12/01/14 22:28:24
+=======
+﻿Log file open, 12/01/14 22:26:51
+>>>>>>> 8cae7f46405673300a84c1801534f575f29bc672
 LogInit:Display: Running engine for game: SUCCUBEUS
 LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
 LogInit: API Version: 2326478
@@ -9,6 +13,7 @@ LogInit: Branch Name: ++depot+UE4-Releases+4.5
 LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
 LogInit: Rocket: 1
+<<<<<<< HEAD
 [2014.12.02-03.28.24:283][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
 [2014.12.02-03.28.24:322][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
 [2014.12.02-03.28.24:349][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
@@ -470,3 +475,173 @@ LogInit: Rocket: 1
 [2014.12.02-03.40.50:247][ 61]LogModuleManager: Shutting down and abandoning module PakFile (1)
 [2014.12.02-03.40.50:248][ 61]LogExit: Exiting.
 [2014.12.02-03.40.50:254][ 61]Log file closed, 12/01/14 22:40:50
+=======
+[2014.12.02-03.26.51:714][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.12.02-03.26.51:757][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.12.02-03.26.51:787][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.12.02-03.26.51:805][  0]LogInit: Object subsystem initialized
+[2014.12.02-03.26.51:810][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.12.02-03.26.51:810][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.02-03.26.51:810][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.12.02-03.26.51:810][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.02-03.26.51:811][  0]LogInit: Selected Device Profile: [Windows]
+[2014.12.02-03.26.51:811][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.12.02-03.26.51:862][  0]LogInit: Computer: DEVIN-PC
+[2014.12.02-03.26.51:862][  0]LogInit: User: Devin
+[2014.12.02-03.26.51:883][  0]LogInit: CPU Page size=4096, Cores=2
+[2014.12.02-03.26.51:883][  0]LogInit: High frequency timer resolution =2.728261 MHz
+[2014.12.02-03.26.51:883][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx) Virtual=8192.0GB
+[2014.12.02-03.26.51:883][  0]LogMemory: Platform Memory Stats for Windows
+[2014.12.02-03.26.51:883][  0]LogMemory: Process Physical Memory: 63.66 MB used, 63.66 MB peak
+[2014.12.02-03.26.51:883][  0]LogMemory: Process Virtual Memory: 38.65 MB used, 38.65 MB peak
+[2014.12.02-03.26.51:883][  0]LogMemory: Physical Memory: 6158.19 MB used, 7915.94 MB total
+[2014.12.02-03.26.51:883][  0]LogMemory: Virtual Memory: 275.17 MB used, 8388608.00 MB total
+[2014.12.02-03.26.52:105][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics 4000 (Feature Level 11_0)
+[2014.12.02-03.26.52:105][  0]LogD3D11RHI: Adapter has 977MB of dedicated video memory, 0MB of dedicated system memory, and 3071MB of shared system memory, 1 output[s]
+[2014.12.02-03.26.52:105][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.12.02-03.26.52:201][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.12.02-03.26.52:415][  0]LogD3D11RHI: Async texture creation enabled
+[2014.12.02-03.26.52:494][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.12.02-03.26.52:679][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.12.02-03.26.58:560][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.02-03.26.59:061][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.02-03.26.59:117][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.12.02-03.26.59:166][  0]LogDerivedDataCache: Loaded boot cache 0.05s 39MB C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.02-03.26.59:166][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.12.02-03.26.59:166][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.12.02-03.26.59:166][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.12.02-03.26.59:248][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.12.02-03.26.59:259][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Devin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.12.02-03.26.59:437][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.12.02-03.26.59:437][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.12.02-03.26.59:687][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.02-03.26.59:691][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.02-03.26.59:874][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.12.02-03.27.00:690][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.12.02-03.27.00:846][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.12.02-03.27.01:000][  0]SourceControl: Info Source control is disabled
+[2014.12.02-03.27.01:000][  0]SourceControl: Info Source control is disabled
+[2014.12.02-03.27.01:009][  0]SourceControl: Info Source control is disabled
+[2014.12.02-03.27.01:124][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.12.02-03.27.01:124][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.12.02-03.27.01:180][  0]LogEngine: Initializing Engine...
+[2014.12.02-03.27.01:321][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.12.02-03.27.01:403][  0]LogInit: FAudioDevice initialized.
+[2014.12.02-03.27.01:420][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.12.02-03.27.01:443][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.02-03.27.01:447][  0]LogInit: Texture streaming: Enabled
+[2014.12.02-03.27.01:499][  0]LogInit: Transaction tracking system initialized
+[2014.12.02-03.27.01:576][  0]BlueprintLog: New page: Editor Load
+[2014.12.02-03.27.01:606][  0]LogAssetRegistry: FAssetRegistry took 0.0098 seconds to start up
+[2014.12.02-03.27.01:606][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.12.02-03.27.02:128][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.02-03.27.02:561][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.02-03.27.02:812][  0]LogConsoleResponse:Display: 
+[2014.12.02-03.27.03:016][  0]SourceControl: Info Source control is disabled
+[2014.12.02-03.27.03:016][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.02-03.27.03:016][  0]LightingResults: New page: Lighting Build
+[2014.12.02-03.27.03:024][  0]MapCheck: New page: Map Check
+[2014.12.02-03.27.03:024][  0]LightingResults: New page: Lighting Build
+[2014.12.02-03.27.03:044][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001777DA80
+[2014.12.02-03.27.03:369][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.02-03.27.03:370][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.02-03.27.03:370][  0]Cmd: MAP CHECKDEP
+[2014.12.02-03.27.03:370][  0]MapCheck: New page: Example_Map - Dec 1, 2014, 5:27:03 PM
+[2014.12.02-03.27.03:481][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 110.216ms to complete.
+[2014.12.02-03.27.03:481][  0]LogFileHelpers: Loading map 'Example_Map' took 0.465
+[2014.12.02-03.27.03:660][  0]LogCollectionManager: Loaded 0 collections in 0.001510 seconds
+[2014.12.02-03.27.03:776][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.12.02-03.27.03:820][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.12.02-03.27.03:860][  0]LogLoad: Full Startup: 14.50 seconds (BP compile: 0.11 seconds)
+[2014.12.02-03.27.04:355][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
+[2014.12.02-03.27.05:341][  3]LogAssetRegistry: Asset discovery search completed in 3.7447 seconds
+[2014.12.02-03.29.32:156][ 57]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.02-03.29.43:581][347]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.12.02-03.29.44:558][374]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.02-03.29.46:518][425]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.02-03.29.47:834][461]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
+[2014.12.02-03.29.51:473][572]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent'
+[2014.12.02-03.29.53:040][621]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.02-03.30.00:116][840]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.02-03.30.05:872][ 15]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.29:529][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/title.png)
+[2014.12.02-03.30.39:609][246]0.000023 seconds to analyze Texture2D /Game/Blueprints/Assets/title.title
+
+[2014.12.02-03.30.39:645][246]LogTexture:Display: Building textures: title (AutoDXT)
+[2014.12.02-03.30.39:723][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day0.png)
+[2014.12.02-03.30.39:814][246]0.000035 seconds to analyze Texture2D /Game/Blueprints/Assets/day0.day0
+
+[2014.12.02-03.30.39:849][246]LogTexture:Display: Building textures: day0 (AutoDXT)
+[2014.12.02-03.30.40:154][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day1.png)
+[2014.12.02-03.30.40:254][246]0.000078 seconds to analyze Texture2D /Game/Blueprints/Assets/day1.day1
+
+[2014.12.02-03.30.40:260][246]LogTexture:Display: Building textures: day1 (AutoDXT)
+[2014.12.02-03.30.40:526][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day2.png)
+[2014.12.02-03.30.40:632][246]0.000037 seconds to analyze Texture2D /Game/Blueprints/Assets/day2.day2
+
+[2014.12.02-03.30.40:650][246]LogTexture:Display: Building textures: day2 (AutoDXT)
+[2014.12.02-03.30.40:957][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day3.png)
+[2014.12.02-03.30.41:066][246]0.000031 seconds to analyze Texture2D /Game/Blueprints/Assets/day3.day3
+
+[2014.12.02-03.30.41:073][246]LogTexture:Display: Building textures: day3 (AutoDXT)
+[2014.12.02-03.30.41:404][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day4.png)
+[2014.12.02-03.30.41:501][246]0.000041 seconds to analyze Texture2D /Game/Blueprints/Assets/day4.day4
+
+[2014.12.02-03.30.41:506][246]LogTexture:Display: Building textures: day4 (AutoDXT)
+[2014.12.02-03.30.41:757][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day5.png)
+[2014.12.02-03.30.41:863][246]0.000038 seconds to analyze Texture2D /Game/Blueprints/Assets/day5.day5
+
+[2014.12.02-03.30.41:869][246]LogTexture:Display: Building textures: day5 (AutoDXT)
+[2014.12.02-03.30.42:216][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day6.png)
+[2014.12.02-03.30.42:345][246]0.000032 seconds to analyze Texture2D /Game/Blueprints/Assets/day6.day6
+
+[2014.12.02-03.30.42:353][246]LogTexture:Display: Building textures: day6 (AutoDXT)
+[2014.12.02-03.30.42:652][246]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/day7.png)
+[2014.12.02-03.30.42:755][246]0.000032 seconds to analyze Texture2D /Game/Blueprints/Assets/day7.day7
+
+[2014.12.02-03.30.42:782][246]LogTexture:Display: Building textures: day7 (AutoDXT)
+[2014.12.02-03.30.43:081][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.12.02-03.30.43:082][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:082][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:083][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:083][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:086][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:087][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:088][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:089][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.30.43:090][246]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.31.00:745][720]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.31.21:984][226]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.31.29:629][428]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.31.47:188][783]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.31.59:437][129]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.32.01:588][194]BlueprintLog: New page: Compile MainMenu
+[2014.12.02-03.32.01:786][194]BlueprintEditorCompileResults: Info [0312.30] Compile of MainMenu successful! [in 51 ms]
+[2014.12.02-03.32.03:611][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.02-03.32.03:670][244]LogSavePackage: Save=36.676109ms
+[2014.12.02-03.32.03:670][244]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenuE74DE3C642A40633F5EE54A92B57295E.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.02-03.32.33:551][177]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.02-03.32.50:004][643]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.33.06:738][112]BlueprintLog: New page: Compile MainMenu
+[2014.12.02-03.33.06:859][112]BlueprintEditorCompileResults: Info [0377.39] Compile of MainMenu successful! [in 7 ms]
+[2014.12.02-03.33.10:367][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.02-03.33.10:419][208]LogSavePackage: Save=34.552414ms
+[2014.12.02-03.33.10:419][208]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu4FB43AB94BED98B553085EAA511A0A40.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.02-03.34.44:799][555]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.34.44:799][555]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.34.48:144][555]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.34.48:144][555]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.34.50:547][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/title" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/title.uasset" SILENT=true
+[2014.12.02-03.34.50:798][649]LogSavePackage: Save=225.982407ms
+[2014.12.02-03.34.50:798][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/title7AB1234847296BAB8C849B99E006A5CB.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/title.uasset'
+[2014.12.02-03.34.50:820][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day0" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day0.uasset" SILENT=true
+[2014.12.02-03.34.51:384][649]LogSavePackage: Save=558.270630ms
+[2014.12.02-03.34.51:384][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day0AB6DDDB7465D42E2A5E3D88BA127DA47.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day0.uasset'
+[2014.12.02-03.34.51:405][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day1.uasset" SILENT=true
+[2014.12.02-03.34.51:938][649]LogSavePackage: Save=529.294678ms
+[2014.12.02-03.34.51:938][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day171A1070246E6E04950CB8784E83A3B1E.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day1.uasset'
+[2014.12.02-03.34.51:963][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day2" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day2.uasset" SILENT=true
+[2014.12.02-03.34.52:503][649]LogSavePackage: Save=535.737610ms
+[2014.12.02-03.34.52:503][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day2A15022DA48DCD7741FC79A9A71671290.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day2.uasset'
+[2
+>>>>>>> 8cae7f46405673300a84c1801534f575f29bc672
