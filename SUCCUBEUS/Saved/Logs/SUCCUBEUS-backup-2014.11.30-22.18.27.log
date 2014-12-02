@@ -1,0 +1,283 @@
+﻿Log file open, 11/30/14 15:13:46
+LogInit:Display: Running engine for game: SUCCUBEUS
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.11.30-20.13.46:855][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.11.30-20.13.46:884][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.11.30-20.13.46:901][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.11.30-20.13.46:910][  0]LogInit: Object subsystem initialized
+[2014.11.30-20.13.46:912][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.11.30-20.13.46:912][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.30-20.13.46:912][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.11.30-20.13.46:912][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.30-20.13.46:913][  0]LogInit: Selected Device Profile: [Windows]
+[2014.11.30-20.13.46:913][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.11.30-20.13.46:919][  0]LogInit: Computer: JOHNSS18-PC
+[2014.11.30-20.13.46:919][  0]LogInit: User: johnss18
+[2014.11.30-20.13.46:923][  0]LogInit: CPU Page size=4096, Cores=2
+[2014.11.30-20.13.46:923][  0]LogInit: High frequency timer resolution =2.728261 MHz
+[2014.11.30-20.13.46:923][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx) Virtual=8192.0GB
+[2014.11.30-20.13.46:923][  0]LogMemory: Platform Memory Stats for Windows
+[2014.11.30-20.13.46:923][  0]LogMemory: Process Physical Memory: 64.04 MB used, 64.04 MB peak
+[2014.11.30-20.13.46:923][  0]LogMemory: Process Virtual Memory: 41.28 MB used, 41.28 MB peak
+[2014.11.30-20.13.46:923][  0]LogMemory: Physical Memory: 4074.21 MB used, 7915.94 MB total
+[2014.11.30-20.13.46:923][  0]LogMemory: Virtual Memory: 278.36 MB used, 8388608.00 MB total
+[2014.11.30-20.13.46:966][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics 4000 (Feature Level 11_0)
+[2014.11.30-20.13.46:966][  0]LogD3D11RHI: Adapter has 64MB of dedicated video memory, 0MB of dedicated system memory, and 1632MB of shared system memory, 1 output[s]
+[2014.11.30-20.13.46:966][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.11.30-20.13.46:973][  0]LogRHI: Texture pool is 616 MB (70% of 880 MB)
+[2014.11.30-20.13.46:984][  0]LogD3D11RHI: Async texture creation enabled
+[2014.11.30-20.13.47:025][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.11.30-20.13.47:156][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.11.30-20.13.52:707][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-20.13.53:136][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-20.13.53:223][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.11.30-20.13.53:717][  0]LogDerivedDataCache: Loaded boot cache 0.49s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.30-20.13.53:717][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.11.30-20.13.53:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.11.30-20.13.53:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.11.30-20.13.53:798][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.11.30-20.13.53:809][  0]LogDerivedDataCache: Using Local data cache path C:/Users/johnss18/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.11.30-20.13.57:956][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.11.30-20.13.57:956][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.11.30-20.13.58:827][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.30-20.13.58:863][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.30-20.13.59:834][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.11.30-20.14.16:936][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.11.30-20.14.17:294][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.11.30-20.14.17:971][  0]SourceControl: Info Source control is disabled
+[2014.11.30-20.14.17:972][  0]SourceControl: Info Source control is disabled
+[2014.11.30-20.14.17:977][  0]SourceControl: Info Source control is disabled
+[2014.11.30-20.14.18:297][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.11.30-20.14.18:297][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.11.30-20.14.18:399][  0]LogEngine: Initializing Engine...
+[2014.11.30-20.14.18:966][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.11.30-20.14.19:126][  0]LogInit: FAudioDevice initialized.
+[2014.11.30-20.14.19:189][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.11.30-20.14.19:215][  0]LogDerivedDataCache: Saved boot cache 0.03s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.30-20.14.19:233][  0]LogInit: Texture streaming: Enabled
+[2014.11.30-20.14.19:305][  0]LogInit: Transaction tracking system initialized
+[2014.11.30-20.14.19:473][  0]BlueprintLog: New page: Editor Load
+[2014.11.30-20.14.19:609][  0]LogAssetRegistry: FAssetRegistry took 0.0104 seconds to start up
+[2014.11.30-20.14.19:609][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.11.30-20.14.20:868][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-20.14.21:270][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-20.14.22:056][  0]LogConsoleResponse:Display: 
+[2014.11.30-20.14.23:238][  0]SourceControl: Info Source control is disabled
+[2014.11.30-20.14.31:385][  0]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.30-20.14.31:397][  0]LightingResults: New page: Lighting Build
+[2014.11.30-20.14.31:405][  0]MapCheck: New page: Map Check
+[2014.11.30-20.14.31:405][  0]LightingResults: New page: Lighting Build
+[2014.11.30-20.14.31:420][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000015F99A80
+[2014.11.30-20.14.32:180][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.30-20.14.32:180][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.30-20.14.32:180][  0]Cmd: MAP CHECKDEP
+[2014.11.30-20.14.32:180][  0]MapCheck: New page: Example_Map - Nov 30, 2014, 10:14:32 AM
+[2014.11.30-20.14.32:277][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 96.987ms to complete.
+[2014.11.30-20.14.32:278][  0]LogFileHelpers: Loading map 'Example_Map' took 0.893
+[2014.11.30-20.14.32:332][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_84c0_0///////STATCAT_Advanced//// old //STATGROUP_Threads//SplashScreenThread///Thread_8390_0///////STATCAT_Advanced////
+[2014.11.30-20.14.32:332][  0]LogCollectionManager: Loaded 0 collections in 0.000984 seconds
+[2014.11.30-20.14.32:507][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.11.30-20.14.32:525][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.11.30-20.14.32:568][  0]LogLoad: Full Startup: 47.77 seconds (BP compile: 0.09 seconds)
+[2014.11.30-20.14.32:582][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.30-20.14.32:821][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
+[2014.11.30-20.14.33:427][  2]LogAssetRegistry: Asset discovery search completed in 13.8285 seconds
+[2014.11.30-20.17.08:230][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:230][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:318][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.17.08:319][920]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-20.23.58:183][978]LogRenderer:Warning: Reallocating scene render targets to support 1256x728.
+[2014.11.30-20.24.28:706][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.28:709][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.28:720][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.28:722][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.28:723][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.28:725][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.28:727][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.28:729][906]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:666][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:670][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:678][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:679][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:681][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:683][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:685][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.24.32:686][  9]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.30-20.37.09:208][348]LogHttp:Warning: Timeout processing Http request. 0000000029A93AC0 url=http://et2.epicgames.com/ET2/CollectData.1?SessionID=%7BE19DB3F6-4AE1-5917-9563-28AFBDF3CC13%7D&AppID=Rocket.Release&AppVersion=4.5.1-2336687%2B%2B%2Bdepot%2BUE4-Releases%2B4.5&UserID=1cd395ba8454b0fbdf3b67cda2e55af9&IsEditor=1
+[2014.11.30-20.37.09:447][349]LogHttp:Warning: InternetStatusCallbackWinInet: on invalid request 0000000029A93AC0. 
+[2014.11.30-20.37.09:447][349]LogHttp:Warning: InternetStatusCallbackWinInet: on invalid request 0000000029A93AC0. 
+[2014.11.30-20.37.09:447][349]LogHttp:Warning: InternetStatusCallbackWinInet: on invalid request 0000000029A93AC0. 
+[2014.11.30-20.37.09:447][349]LogHttp:Warning: InternetStatusCallbackWinInet: on invalid request 0000000029A93AC0. 
+[2014.11.30-20.44.09:807][710]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.30-20.44.09:808][710]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.11.30-20.44.09:970][710]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.30-20.44.10:262][710]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_0) Not registered. Aborting.
+[2014.11.30-20.44.10:355][710]LogPlayLevel: PIE:  Blueprint regeneration took 547 ms (2 blueprints)
+[2014.11.30-20.44.10:355][710]PIE: New page: SIE session: Example_Map (Nov 30, 2014, 10:44:10 AM)
+[2014.11.30-20.44.10:471][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114994s)
+[2014.11.30-20.44.10:477][710]LogPlayLevel: PIE: World Init took: (0.006301s)
+[2014.11.30-20.44.10:478][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.122094s)
+[2014.11.30-20.44.10:611][710]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-20.44.10:614][710]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.30-20.44.10:617][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2014.11.30-15.44.10
+[2014.11.30-20.44.10:618][710]LogWorld: Bringing up level for play took: 0.003489
+[2014.11.30-20.44.10:623][710]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.154
+[2014.11.30-20.44.13:285][753]LogPackageName: SearchForPackageOnDisk took   0.146s to resolve Level1.umap
+[2014.11.30-20.44.13:416][753]LogPackageName: SearchForPackageOnDisk took   0.129s to resolve Level1.umap
+[2014.11.30-20.44.13:416][753]LogNet: Browse: /Game/Maps/Level1
+[2014.11.30-20.44.13:416][753]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.11.30-20.44.13:472][753]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002A56F600
+[2014.11.30-20.44.13:472][753]Cmd: MEM
+[2014.11.30-20.44.13:525][753]LogMemory: Platform Memory Stats for Windows
+[2014.11.30-20.44.13:525][753]LogMemory: Process Physical Memory: 606.89 MB used, 619.06 MB peak
+[2014.11.30-20.44.13:525][753]LogMemory: Process Virtual Memory: 617.84 MB used, 626.66 MB peak
+[2014.11.30-20.44.13:525][753]LogMemory: Physical Memory: 3552.81 MB used, 7915.94 MB total
+[2014.11.30-20.44.13:525][753]LogMemory: Virtual Memory: 1084.48 MB used, 8388608.00 MB total
+[2014.11.30-20.44.13:525][753]LogMemory: 
+[2014.11.30-20.44.13:525][753]Allocator Stats for TBB: (not implemented)
+[2014.11.30-20.44.14:661][753]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-20.44.14:664][753]LogAIModule: Creating AISystem for world Level1
+[2014.11.30-20.44.14:667][753]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2014.11.30-15.44.14
+[2014.11.30-20.44.14:668][753]LogWorld: Bringing up level for play took: 0.003546
+[2014.11.30-20.44.54:526][574]LogProjectileMovement:Warning: Projectile_C_14 is outside the world bounds!
+[2014.11.30-20.44.56:888][574]LogOutputDevice: === Handled error: ===
+
+Ensure condition failed: this->IsBound() [File:d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\core\public\delegates\DelegateSignatureImpl.inl] [Line: 2039]
+Unable to bind delegate to '&UMovementComponent::PhysicsVolumeChanged' (function might not be marked as a UFUNCTION)
+Stack: 
+UE4Editor-Core.dll!UnknownFunction (0x000007fee2768f46) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee25e7148) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee25e73a7) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda00b5a7) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda00b648) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda074604) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda0ecce8) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda12462e) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed9c24217) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed9c33376) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda2ff8b6) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda30badb) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee2516514) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee251669d) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fee25347c5) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda32e75f) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007feda331005) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed9ff4d96) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed9ffbdcf) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fedd99ebb2) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fedddff966) + 0 bytes [UnknownFile:0]
+UE4Editor.exe!FEngineLoop::Tick() (0x000000013fc3a8f4) + 0 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\launchengineloop.cpp:2129]
+UE4Editor.exe!GuardedMain() (0x000000013fc2f9df) + 0 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\launch.cpp:133]
+UE4Editor.exe!GuardedMainWrapper() (0x000000013fc2fa4a) + 5 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:125]
+UE4Editor.exe!WinMain() (0x000000013fc3bf19) + 17 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:201]
+UE4Editor.exe!__tmainCRTStartup() (0x000000013fc3cdc9) + 21 bytes [f:\dd\vctools\crt\crtw32\dllstuff\crtexe.c:618]
+kernel32.dll!UnknownFunction (0x0000000077ad59ed) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x0000000077c0c541) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x0000000077c0c541) + 0 bytes [UnknownFile:0]
+
+[2014.11.30-20.45.03:300][646]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002A5AC400
+[2014.11.30-20.45.05:578][713]Cmd: SELECT NONE
+[2014.11.30-21.10.04:906][540]LogRenderer:Warning: Reallocating scene render targets to support 1256x768.
+[2014.11.30-21.10.04:906][540]LogD3D11RHI:Error: Direct3DDevice->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.5\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:159 
+ with error E_OUTOFMEMORY
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     55 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     54 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     53 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     52 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereInscatter
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    118 = 7536 KB (2D 1256x768 PF_FloatRGBA RT) SeparateTranslucency
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    108 = 3768 KB (2D 1256x768 PF_A2B10G10R10 RT) GBufferA
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    110 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT sRGB) GBufferC
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    109 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT) GBufferB
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    111 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT) GBufferD
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    112 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT) GBufferE
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     84 = 3768 KB (2D 1256x768 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    117 = 3768 KB (2D 1256x768 PF_FloatRGB RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    113 = 3768 KB (2D 1256x768 PF_FloatRGB RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    119 = 3768 KB (2D 1256x768 PF_FloatRGB RT VRam) BokehDOFRecombine VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     86 = 2048 KB (2D 512x512 PF_FloatRGBA RT) TranslucencyShadowTransmission0
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     87 = 2048 KB (2D 512x512 PF_FloatRGBA RT) TranslucencyShadowTransmission1
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     36 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_0
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     37 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_1
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     38 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_2
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     75 = 2048 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     85 = 1884 KB (2D 628x384 PF_DepthStencil) SmallDepthZ
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    114 = 1024 KB (2D 256x256 PF_A32B32G32R32F) HZBBoundsCenter
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    115 = 1024 KB (2D 256x256 PF_A32B32G32R32F) HZBBoundsExtent
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    102 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    103 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     95 = 942 KB (2D 1256x768 PF_G8 RT) ScreenSpaceAO
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    121 = 942 KB (2D 628x384 PF_FloatRGB RT VRam) BloomSetup VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    120 = 942 KB (2D 628x384 PF_FloatRGB RT VRam) SceneColorHalfRes VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     88 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     45 = 683 KB (2D 512x256 PF_R32_FLOAT RT) HZB
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     33 = 683 KB (2D 512x256 PF_R32_FLOAT RT) HZB
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     94 = 512 KB (2D 512x512 PF_ShadowDepth) PreShadowCacheDepthZ
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     93 = 512 KB (2D 512x512 PF_ShadowDepth) ShadowDepthZ
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    116 = 256 KB (2D 256x256 PF_B8G8R8A8 RT) HZBResultsGPU
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     77 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     78 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    122 = 236 KB (2D 314x192 PF_FloatRGB RT VRam) BloomDownsample1 VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     89 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     49 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    123 = 118 KB (2D 157x192 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     96 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolume0
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     98 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolume1
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    100 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolume2
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     97 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolumeDir0
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     99 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolumeDir1
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    101 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolumeDir2
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      7 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    104 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    105 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    124 = 59 KB (2D 157x96 PF_FloatRGB RT VRam) BloomDownsample2 VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     90 = 48 KB (Cube 64 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    125 = 30 KB (2D 79x96 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     11 = 16 KB (2D 128x32 PF_G16R16 VRam) PreintegratedGF VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     10 = 16 KB (2D 64x64 PF_B8G8R8A8) SSAORandomization
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      9 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    126 = 15 KB (2D 79x48 PF_FloatRGB RT VRam) BloomDownsample3 VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     91 = 12 KB (Cube 32 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     92 = 12 KB (Cube 32 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    127 = 8 KB (2D 40x48 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     51 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     50 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    128 = 4 KB (2D 40x24 PF_FloatRGB RT VRam) BloomDownsample4 VRamInKB(Start/Size):<NONE>
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     59 = 1 KB (2D 1x1 PF_R32_FLOAT RT) EyeAdaptation
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:     28 = 1 KB (2D 1x1 PF_R32_FLOAT RT) EyeAdaptation
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    107 = 1 KB (2D 1x1 PF_R32_FLOAT RT) ReflectionBrightness0
+[2014.11.30-21.10.12:445][540]LogConsoleResponse:    106 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2014.11.30-21.10.12:445][540]LogConsoleResponse: 
+[2014.11.30-21.10.12:445][540]LogConsoleResponse: Pool: 74/100 MB (referenced/allocated)
+[2014.11.30-21.10.12:445][540]LogWindows: FPlatformMisc::RequestExit(1)
+[2014.11.30-21.10.12:445][540]Log file closed, 11/30/14 16:10:12

@@ -1,0 +1,570 @@
+﻿Log file open, 11/30/14 00:38:45
+LogInit:Display: Running engine for game: SUCCUBEUS
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.11.30-05.38.45:489][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.11.30-05.38.45:519][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.11.30-05.38.45:739][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.11.30-05.38.45:748][  0]LogInit: Object subsystem initialized
+[2014.11.30-05.38.45:751][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.11.30-05.38.45:751][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.30-05.38.45:751][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.11.30-05.38.45:751][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.30-05.38.45:751][  0]LogInit: Selected Device Profile: [Windows]
+[2014.11.30-05.38.45:751][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.11.30-05.38.45:760][  0]LogInit: Computer: JOHNSS18-PC
+[2014.11.30-05.38.45:760][  0]LogInit: User: johnss18
+[2014.11.30-05.38.45:763][  0]LogInit: CPU Page size=4096, Cores=2
+[2014.11.30-05.38.45:763][  0]LogInit: High frequency timer resolution =2.728261 MHz
+[2014.11.30-05.38.45:763][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx) Virtual=8192.0GB
+[2014.11.30-05.38.45:764][  0]LogMemory: Platform Memory Stats for Windows
+[2014.11.30-05.38.45:764][  0]LogMemory: Process Physical Memory: 64.10 MB used, 64.10 MB peak
+[2014.11.30-05.38.45:764][  0]LogMemory: Process Virtual Memory: 41.34 MB used, 41.34 MB peak
+[2014.11.30-05.38.45:764][  0]LogMemory: Physical Memory: 4123.49 MB used, 7915.94 MB total
+[2014.11.30-05.38.45:764][  0]LogMemory: Virtual Memory: 278.36 MB used, 8388608.00 MB total
+[2014.11.30-05.38.45:799][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics 4000 (Feature Level 11_0)
+[2014.11.30-05.38.45:799][  0]LogD3D11RHI: Adapter has 64MB of dedicated video memory, 0MB of dedicated system memory, and 1632MB of shared system memory, 1 output[s]
+[2014.11.30-05.38.45:799][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.11.30-05.38.45:806][  0]LogRHI: Texture pool is 616 MB (70% of 880 MB)
+[2014.11.30-05.38.45:817][  0]LogD3D11RHI: Async texture creation enabled
+[2014.11.30-05.38.46:375][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.11.30-05.38.46:641][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.11.30-05.38.52:538][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-05.38.53:310][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-05.38.53:377][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.11.30-05.38.54:022][  0]LogDerivedDataCache: Loaded boot cache 0.65s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.30-05.38.54:022][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.11.30-05.38.54:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.11.30-05.38.54:022][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.11.30-05.38.54:158][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.11.30-05.38.54:192][  0]LogDerivedDataCache: Using Local data cache path C:/Users/johnss18/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.11.30-05.39.01:798][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.11.30-05.39.01:798][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.11.30-05.39.02:983][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.30-05.39.03:043][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.30-05.39.05:106][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.11.30-05.39.23:959][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.11.30-05.39.24:122][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.11.30-05.39.24:889][  0]SourceControl: Info Source control is disabled
+[2014.11.30-05.39.24:890][  0]SourceControl: Info Source control is disabled
+[2014.11.30-05.39.24:898][  0]SourceControl: Info Source control is disabled
+[2014.11.30-05.39.25:188][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.11.30-05.39.25:188][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.11.30-05.39.25:241][  0]LogEngine: Initializing Engine...
+[2014.11.30-05.39.26:051][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.11.30-05.39.26:132][  0]LogInit: FAudioDevice initialized.
+[2014.11.30-05.39.26:149][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.11.30-05.39.26:170][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.30-05.39.26:173][  0]LogInit: Texture streaming: Enabled
+[2014.11.30-05.39.26:216][  0]LogInit: Transaction tracking system initialized
+[2014.11.30-05.39.26:302][  0]BlueprintLog: New page: Editor Load
+[2014.11.30-05.39.26:330][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2014.11.30-05.39.26:330][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.11.30-05.39.26:800][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-05.39.27:194][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-05.39.27:632][  0]LogConsoleResponse:Display: 
+[2014.11.30-05.39.30:862][  0]SourceControl: Info Source control is disabled
+[2014.11.30-05.39.30:862][  0]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.30-05.39.30:863][  0]LightingResults: New page: Lighting Build
+[2014.11.30-05.39.30:871][  0]MapCheck: New page: Map Check
+[2014.11.30-05.39.30:871][  0]LightingResults: New page: Lighting Build
+[2014.11.30-05.39.30:894][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001DDADA80
+[2014.11.30-05.39.34:619][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.30-05.39.34:619][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.30-05.39.34:620][  0]Cmd: MAP CHECKDEP
+[2014.11.30-05.39.34:620][  0]MapCheck: New page: Example_Map - Nov 29, 2014, 7:39:34 PM
+[2014.11.30-05.39.34:706][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 86.028ms to complete.
+[2014.11.30-05.39.34:706][  0]LogFileHelpers: Loading map 'Example_Map' took 3.844
+[2014.11.30-05.39.34:912][  0]LogCollectionManager: Loaded 0 collections in 0.000946 seconds
+[2014.11.30-05.39.35:192][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.11.30-05.39.35:219][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.11.30-05.39.35:263][  0]LogLoad: Full Startup: 54.03 seconds (BP compile: 0.50 seconds)
+[2014.11.30-05.39.35:604][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.30-05.39.36:258][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
+[2014.11.30-05.39.55:699][163]LogAssetRegistry: Asset discovery search completed in 29.3786 seconds
+[2014.11.30-05.39.57:245][205]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.30-05.39.57:245][205]LightingResults: New page: Lighting Build
+[2014.11.30-05.39.57:271][205]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.30-05.39.57:272][205]MapCheck: New page: Map Check
+[2014.11.30-05.39.57:272][205]LightingResults: New page: Lighting Build
+[2014.11.30-05.39.57:300][205]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001ADE8720
+[2014.11.30-05.39.57:322][205]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.30-05.39.57:323][205]LogAIModule: Creating AISystem for world Level1
+[2014.11.30-05.39.57:372][205]Cmd: MAP CHECKDEP
+[2014.11.30-05.39.57:372][205]MapCheck: New page: Level1 - Nov 29, 2014, 7:39:57 PM
+[2014.11.30-05.39.57:456][205]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 83.169ms to complete.
+[2014.11.30-05.39.57:456][205]LogFileHelpers: Loading map 'Level1' took 0.221
+[2014.11.30-05.40.04:226][467]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.30-05.40.04:226][467]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.30-05.40.04:323][467]LogPlayLevel: PIE:  Blueprint regeneration took 97 ms (1 blueprints)
+[2014.11.30-05.40.04:323][467]PIE: New page: PIE session: Level1 (Nov 29, 2014, 7:40:04 PM)
+[2014.11.30-05.40.04:327][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003273s)
+[2014.11.30-05.40.04:328][467]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2014.11.30-05.40.04:328][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004313s)
+[2014.11.30-05.40.04:699][467]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-05.40.04:760][467]LogAIModule: Creating AISystem for world Level1
+[2014.11.30-05.40.04:760][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2014.11.30-00.40.04
+[2014.11.30-05.40.04:761][467]LogWorld: Bringing up level for play took: 0.000930
+[2014.11.30-05.40.04:811][467]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.134
+[2014.11.30-05.40.25:947][896]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000029419D00
+[2014.11.30-05.41.19:988][834]LogTexture:Display: Building textures: Texture2D_3 (BGRA8)
+[2014.11.30-05.41.20:007][834]LogTexture:Display: Building textures: Texture2D_4 (BGRA8)
+[2014.11.30-05.41.20:023][834]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2014.11.30-05.41.20:042][834]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2014.11.30-05.41.20:060][834]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2014.11.30-05.41.20:153][834]LogTexture:Display: Building textures: HQ_Lightmap0_10 (AutoDXT)
+[2014.11.30-05.41.20:201][834]LogTexture:Display: Building textures: HQ_Lightmap0_11 (AutoDXT)
+[2014.11.30-05.41.20:255][834]LogTexture:Display: Building textures: HQ_Lightmap0_12 (AutoDXT)
+[2014.11.30-05.41.20:314][834]LogTexture:Display: Building textures: HQ_Lightmap0_13 (AutoDXT)
+[2014.11.30-05.41.20:367][834]LogTexture:Display: Building textures: HQ_Lightmap0_14 (AutoDXT)
+[2014.11.30-05.41.20:421][834]LogTexture:Display: Building textures: HQ_Lightmap0_15 (AutoDXT)
+[2014.11.30-05.41.20:473][834]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT)
+[2014.11.30-05.41.20:528][834]LogTexture:Display: Building textures: HQ_Lightmap0_17 (AutoDXT)
+[2014.11.30-05.41.20:578][834]LogTexture:Display: Building textures: HQ_Lightmap0_18 (AutoDXT)
+[2014.11.30-05.41.20:638][834]LogTexture:Display: Building textures: HQ_Lightmap0_19 (AutoDXT)
+[2014.11.30-05.41.20:696][834]LogTexture:Display: Building textures: HQ_Lightmap0_20 (AutoDXT)
+[2014.11.30-05.41.20:755][834]LogTexture:Display: Building textures: HQ_Lightmap0_21 (AutoDXT)
+[2014.11.30-05.41.20:817][834]LogTexture:Display: Building textures: HQ_Lightmap0_22 (AutoDXT)
+[2014.11.30-05.41.20:876][834]LogTexture:Display: Building textures: HQ_Lightmap0_23 (AutoDXT)
+[2014.11.30-05.41.20:933][834]LogTexture:Display: Building textures: HQ_Lightmap0_24 (AutoDXT)
+[2014.11.30-05.41.20:984][834]LogTexture:Display: Building textures: HQ_Lightmap0_25 (AutoDXT)
+[2014.11.30-05.41.21:036][834]LogTexture:Display: Building textures: HQ_Lightmap0_26 (AutoDXT)
+[2014.11.30-05.41.21:089][834]LogTexture:Display: Building textures: HQ_Lightmap0_27 (AutoDXT)
+[2014.11.30-05.41.21:138][834]LogTexture:Display: Building textures: HQ_Lightmap0_28 (AutoDXT)
+[2014.11.30-05.41.21:188][834]LogTexture:Display: Building textures: HQ_Lightmap0_29 (AutoDXT)
+[2014.11.30-05.41.21:253][834]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2014.11.30-05.41.21:308][834]LogTexture:Display: Building textures: HQ_Lightmap0_30 (AutoDXT)
+[2014.11.30-05.41.21:367][834]LogTexture:Display: Building textures: HQ_Lightmap0_31 (AutoDXT)
+[2014.11.30-05.41.21:428][834]LogTexture:Display: Building textures: HQ_Lightmap0_32 (AutoDXT)
+[2014.11.30-05.41.21:480][834]LogTexture:Display: Building textures: HQ_Lightmap0_33 (AutoDXT)
+[2014.11.30-05.41.21:545][834]LogTexture:Display: Building textures: HQ_Lightmap0_34 (AutoDXT)
+[2014.11.30-05.41.21:595][834]LogTexture:Display: Building textures: HQ_Lightmap0_35 (AutoDXT)
+[2014.11.30-05.41.21:646][834]LogTexture:Display: Building textures: HQ_Lightmap0_36 (AutoDXT)
+[2014.11.30-05.41.21:704][834]LogTexture:Display: Building textures: HQ_Lightmap0_37 (AutoDXT)
+[2014.11.30-05.41.21:764][834]LogTexture:Display: Building textures: HQ_Lightmap0_38 (AutoDXT)
+[2014.11.30-05.41.21:816][834]LogTexture:Display: Building textures: HQ_Lightmap0_39 (AutoDXT)
+[2014.11.30-05.41.21:866][834]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2014.11.30-05.41.21:922][834]LogTexture:Display: Building textures: HQ_Lightmap0_40 (AutoDXT)
+[2014.11.30-05.41.21:989][834]LogTexture:Display: Building textures: HQ_Lightmap0_41 (AutoDXT)
+[2014.11.30-05.41.22:063][834]LogTexture:Display: Building textures: HQ_Lightmap0_42 (AutoDXT)
+[2014.11.30-05.41.22:140][834]LogTexture:Display: Building textures: HQ_Lightmap0_43 (AutoDXT)
+[2014.11.30-05.41.22:212][834]LogTexture:Display: Building textures: HQ_Lightmap0_44 (AutoDXT)
+[2014.11.30-05.41.22:281][834]LogTexture:Display: Building textures: HQ_Lightmap0_45 (AutoDXT)
+[2014.11.30-05.41.22:349][834]LogTexture:Display: Building textures: HQ_Lightmap0_46 (AutoDXT)
+[2014.11.30-05.41.22:416][834]LogTexture:Display: Building textures: HQ_Lightmap0_47 (AutoDXT)
+[2014.11.30-05.41.22:483][834]LogTexture:Display: Building textures: HQ_Lightmap0_48 (AutoDXT)
+[2014.11.30-05.41.22:549][834]LogTexture:Display: Building textures: HQ_Lightmap0_49 (AutoDXT)
+[2014.11.30-05.41.22:622][834]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2014.11.30-05.41.22:680][834]LogTexture:Display: Building textures: HQ_Lightmap0_50 (AutoDXT)
+[2014.11.30-05.41.22:742][834]LogTexture:Display: Building textures: HQ_Lightmap0_51 (AutoDXT)
+[2014.11.30-05.41.22:790][834]LogTexture:Display: Building textures: HQ_Lightmap0_52 (AutoDXT)
+[2014.11.30-05.41.22:847][834]LogTexture:Display: Building textures: HQ_Lightmap0_53 (AutoDXT)
+[2014.11.30-05.41.22:897][834]LogTexture:Display: Building textures: HQ_Lightmap0_54 (AutoDXT)
+[2014.11.30-05.41.22:951][834]LogTexture:Display: Building textures: HQ_Lightmap0_55 (AutoDXT)
+[2014.11.30-05.41.23:013][834]LogTexture:Display: Building textures: HQ_Lightmap0_56 (AutoDXT)
+[2014.11.30-05.41.23:071][834]LogTexture:Display: Building textures: HQ_Lightmap0_57 (AutoDXT)
+[2014.11.30-05.41.23:136][834]LogTexture:Display: Building textures: HQ_Lightmap0_58 (AutoDXT)
+[2014.11.30-05.41.23:184][834]LogTexture:Display: Building textures: HQ_Lightmap0_59 (AutoDXT)
+[2014.11.30-05.41.23:232][834]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2014.11.30-05.41.23:292][834]LogTexture:Display: Building textures: HQ_Lightmap0_60 (AutoDXT)
+[2014.11.30-05.41.23:344][834]LogTexture:Display: Building textures: HQ_Lightmap0_61 (AutoDXT)
+[2014.11.30-05.41.23:390][834]LogTexture:Display: Building textures: HQ_Lightmap0_62 (AutoDXT)
+[2014.11.30-05.41.23:449][834]LogTexture:Display: Building textures: HQ_Lightmap0_63 (AutoDXT)
+[2014.11.30-05.41.23:497][834]LogTexture:Display: Building textures: HQ_Lightmap0_64 (AutoDXT)
+[2014.11.30-05.41.23:562][834]LogTexture:Display: Building textures: HQ_Lightmap0_65 (AutoDXT)
+[2014.11.30-05.41.23:608][834]LogTexture:Display: Building textures: HQ_Lightmap0_66 (AutoDXT)
+[2014.11.30-05.41.23:613][834]LogTexture:Display: Building textures: HQ_Lightmap0_7 (AutoDXT)
+[2014.11.30-05.41.23:676][834]LogTexture:Display: Building textures: HQ_Lightmap0_8 (AutoDXT)
+[2014.11.30-05.41.23:739][834]LogTexture:Display: Building textures: HQ_Lightmap0_9 (AutoDXT)
+[2014.11.30-05.41.23:799][834]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2014.11.30-05.41.23:826][834]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2014.11.30-05.41.23:865][834]LogTexture:Display: Building textures: LQ_Lightmap_0_10 (DXT1)
+[2014.11.30-05.41.23:897][834]LogTexture:Display: Building textures: LQ_Lightmap_0_11 (DXT1)
+[2014.11.30-05.41.23:948][834]LogTexture:Display: Building textures: LQ_Lightmap_0_12 (DXT1)
+[2014.11.30-05.41.24:004][834]LogTexture:Display: Building textures: LQ_Lightmap_0_13 (DXT1)
+[2014.11.30-05.41.24:062][834]LogTexture:Display: Building textures: LQ_Lightmap_0_14 (DXT1)
+[2014.11.30-05.41.24:120][834]LogTexture:Display: Building textures: LQ_Lightmap_0_15 (DXT1)
+[2014.11.30-05.41.24:182][834]LogTexture:Display: Building textures: LQ_Lightmap_0_16 (DXT1)
+[2014.11.30-05.41.24:244][834]LogTexture:Display: Building textures: LQ_Lightmap_0_17 (DXT1)
+[2014.11.30-05.41.24:294][834]LogTexture:Display: Building textures: LQ_Lightmap_0_18 (DXT1)
+[2014.11.30-05.41.24:349][834]LogTexture:Display: Building textures: LQ_Lightmap_0_19 (DXT1)
+[2014.11.30-05.41.24:400][834]LogTexture:Display: Building textures: LQ_Lightmap_0_20 (DXT1)
+[2014.11.30-05.41.24:455][834]LogTexture:Display: Building textures: LQ_Lightmap_0_21 (DXT1)
+[2014.11.30-05.41.24:512][834]LogTexture:Display: Building textures: LQ_Lightmap_0_22 (DXT1)
+[2014.11.30-05.41.24:564][834]LogTexture:Display: Building textures: LQ_Lightmap_0_23 (DXT1)
+[2014.11.30-05.41.24:616][834]LogTexture:Display: Building textures: LQ_Lightmap_0_24 (DXT1)
+[2014.11.30-05.41.24:668][834]LogTexture:Display: Building textures: LQ_Lightmap_0_25 (DXT1)
+[2014.11.30-05.41.24:723][834]LogTexture:Display: Building textures: LQ_Lightmap_0_26 (DXT1)
+[2014.11.30-05.41.24:765][834]LogTexture:Display: Building textures: LQ_Lightmap_0_27 (DXT1)
+[2014.11.30-05.41.24:819][834]LogTexture:Display: Building textures: LQ_Lightmap_0_28 (DXT1)
+[2014.11.30-05.41.24:872][834]LogTexture:Display: Building textures: LQ_Lightmap_0_29 (DXT1)
+[2014.11.30-05.41.24:923][834]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2014.11.30-05.41.24:969][834]LogTexture:Display: Building textures: LQ_Lightmap_0_30 (DXT1)
+[2014.11.30-05.41.25:016][834]LogTexture:Display: Building textures: LQ_Lightmap_0_31 (DXT1)
+[2014.11.30-05.41.25:062][834]LogTexture:Display: Building textures: LQ_Lightmap_0_32 (DXT1)
+[2014.11.30-05.41.25:109][834]LogTexture:Display: Building textures: LQ_Lightmap_0_33 (DXT1)
+[2014.11.30-05.41.25:153][834]LogTexture:Display: Building textures: LQ_Lightmap_0_34 (DXT1)
+[2014.11.30-05.41.25:191][834]LogTexture:Display: Building textures: LQ_Lightmap_0_35 (DXT1)
+[2014.11.30-05.41.25:239][834]LogTexture:Display: Building textures: LQ_Lightmap_0_36 (DXT1)
+[2014.11.30-05.41.25:289][834]LogTexture:Display: Building textures: LQ_Lightmap_0_37 (DXT1)
+[2014.11.30-05.41.25:332][834]LogTexture:Display: Building textures: LQ_Lightmap_0_38 (DXT1)
+[2014.11.30-05.41.25:378][834]LogTexture:Display: Building textures: LQ_Lightmap_0_39 (DXT1)
+[2014.11.30-05.41.25:422][834]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2014.11.30-05.41.25:470][834]LogTexture:Display: Building textures: LQ_Lightmap_0_40 (DXT1)
+[2014.11.30-05.41.25:514][834]LogTexture:Display: Building textures: LQ_Lightmap_0_41 (DXT1)
+[2014.11.30-05.41.25:559][834]LogTexture:Display: Building textures: LQ_Lightmap_0_42 (DXT1)
+[2014.11.30-05.41.25:602][834]LogTexture:Display: Building textures: LQ_Lightmap_0_43 (DXT1)
+[2014.11.30-05.41.25:647][834]LogTexture:Display: Building textures: LQ_Lightmap_0_44 (DXT1)
+[2014.11.30-05.41.25:696][834]LogTexture:Display: Building textures: LQ_Lightmap_0_45 (DXT1)
+[2014.11.30-05.41.25:742][834]LogTexture:Display: Building textures: LQ_Lightmap_0_46 (DXT1)
+[2014.11.30-05.41.25:787][834]LogTexture:Display: Building textures: LQ_Lightmap_0_47 (DXT1)
+[2014.11.30-05.41.25:832][834]LogTexture:Display: Building textures: LQ_Lightmap_0_48 (DXT1)
+[2014.11.30-05.41.25:883][834]LogTexture:Display: Building textures: LQ_Lightmap_0_49 (DXT1)
+[2014.11.30-05.41.25:933][834]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2014.11.30-05.41.25:986][834]LogTexture:Display: Building textures: LQ_Lightmap_0_50 (DXT1)
+[2014.11.30-05.41.26:033][834]LogTexture:Display: Building textures: LQ_Lightmap_0_51 (DXT1)
+[2014.11.30-05.41.26:079][834]LogTexture:Display: Building textures: LQ_Lightmap_0_52 (DXT1)
+[2014.11.30-05.41.26:130][834]LogTexture:Display: Building textures: LQ_Lightmap_0_53 (DXT1)
+[2014.11.30-05.41.26:193][834]LogTexture:Display: Building textures: LQ_Lightmap_0_54 (DXT1)
+[2014.11.30-05.41.26:249][834]LogTexture:Display: Building textures: LQ_Lightmap_0_55 (DXT1)
+[2014.11.30-05.41.26:304][834]LogTexture:Display: Building textures: LQ_Lightmap_0_56 (DXT1)
+[2014.11.30-05.41.26:356][834]LogTexture:Display: Building textures: LQ_Lightmap_0_57 (DXT1)
+[2014.11.30-05.41.26:408][834]LogTexture:Display: Building textures: LQ_Lightmap_0_58 (DXT1)
+[2014.11.30-05.41.26:452][834]LogTexture:Display: Building textures: LQ_Lightmap_0_59 (DXT1)
+[2014.11.30-05.41.26:499][834]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
+[2014.11.30-05.41.26:545][834]LogTexture:Display: Building textures: LQ_Lightmap_0_60 (DXT1)
+[2014.11.30-05.41.26:593][834]LogTexture:Display: Building textures: LQ_Lightmap_0_61 (DXT1)
+[2014.11.30-05.41.26:631][834]LogTexture:Display: Building textures: LQ_Lightmap_0_62 (DXT1)
+[2014.11.30-05.41.26:673][834]LogTexture:Display: Building textures: LQ_Lightmap_0_63 (DXT1)
+[2014.11.30-05.41.26:720][834]LogTexture:Display: Building textures: LQ_Lightmap_0_64 (DXT1)
+[2014.11.30-05.41.26:766][834]LogTexture:Display: Building textures: LQ_Lightmap_0_65 (DXT1)
+[2014.11.30-05.41.26:819][834]LogTexture:Display: Building textures: LQ_Lightmap_0_66 (DXT1)
+[2014.11.30-05.41.26:824][834]LogTexture:Display: Building textures: LQ_Lightmap_0_7 (DXT1)
+[2014.11.30-05.41.26:891][834]LogTexture:Display: Building textures: LQ_Lightmap_0_8 (DXT1)
+[2014.11.30-05.41.26:955][834]LogTexture:Display: Building textures: LQ_Lightmap_0_9 (DXT1)
+[2014.11.30-05.41.27:015][834]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2014.11.30-05.41.27:022][834]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
+[2014.11.30-05.41.27:026][834]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
+[2014.11.30-05.41.27:030][834]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (BGRA8)
+[2014.11.30-05.41.27:035][834]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (BGRA8)
+[2014.11.30-05.41.27:039][834]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (BGRA8)
+[2014.11.30-05.41.27:044][834]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (BGRA8)
+[2014.11.30-05.41.27:048][834]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (BGRA8)
+[2014.11.30-05.41.27:052][834]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (BGRA8)
+[2014.11.30-05.41.27:056][834]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (BGRA8)
+[2014.11.30-05.41.27:061][834]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (BGRA8)
+[2014.11.30-05.41.27:065][834]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (BGRA8)
+[2014.11.30-05.41.27:070][834]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (BGRA8)
+[2014.11.30-05.41.27:075][834]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
+[2014.11.30-05.41.27:080][834]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (BGRA8)
+[2014.11.30-05.41.27:085][834]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (BGRA8)
+[2014.11.30-05.41.27:091][834]LogTexture:Display: Building textures: ShadowMapTexture2D_22 (BGRA8)
+[2014.11.30-05.41.27:097][834]LogTexture:Display: Building textures: ShadowMapTexture2D_23 (BGRA8)
+[2014.11.30-05.41.27:103][834]LogTexture:Display: Building textures: ShadowMapTexture2D_24 (BGRA8)
+[2014.11.30-05.41.27:108][834]LogTexture:Display: Building textures: ShadowMapTexture2D_25 (BGRA8)
+[2014.11.30-05.41.27:114][834]LogTexture:Display: Building textures: ShadowMapTexture2D_26 (BGRA8)
+[2014.11.30-05.41.27:119][834]LogTexture:Display: Building textures: ShadowMapTexture2D_27 (BGRA8)
+[2014.11.30-05.41.27:125][834]LogTexture:Display: Building textures: ShadowMapTexture2D_28 (BGRA8)
+[2014.11.30-05.41.27:130][834]LogTexture:Display: Building textures: ShadowMapTexture2D_29 (BGRA8)
+[2014.11.30-05.41.27:136][834]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (BGRA8)
+[2014.11.30-05.41.27:142][834]LogTexture:Display: Building textures: ShadowMapTexture2D_30 (BGRA8)
+[2014.11.30-05.41.27:148][834]LogTexture:Display: Building textures: ShadowMapTexture2D_31 (BGRA8)
+[2014.11.30-05.41.27:155][834]LogTexture:Display: Building textures: ShadowMapTexture2D_32 (BGRA8)
+[2014.11.30-05.41.27:161][834]LogTexture:Display: Building textures: ShadowMapTexture2D_33 (BGRA8)
+[2014.11.30-05.41.27:166][834]LogTexture:Display: Building textures: ShadowMapTexture2D_34 (BGRA8)
+[2014.11.30-05.41.27:172][834]LogTexture:Display: Building textures: ShadowMapTexture2D_35 (BGRA8)
+[2014.11.30-05.41.27:177][834]LogTexture:Display: Building textures: ShadowMapTexture2D_36 (BGRA8)
+[2014.11.30-05.41.27:183][834]LogTexture:Display: Building textures: ShadowMapTexture2D_37 (BGRA8)
+[2014.11.30-05.41.27:189][834]LogTexture:Display: Building textures: ShadowMapTexture2D_38 (BGRA8)
+[2014.11.30-05.41.27:195][834]LogTexture:Display: Building textures: ShadowMapTexture2D_39 (BGRA8)
+[2014.11.30-05.41.27:200][834]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (BGRA8)
+[2014.11.30-05.41.27:206][834]LogTexture:Display: Building textures: ShadowMapTexture2D_40 (BGRA8)
+[2014.11.30-05.41.27:211][834]LogTexture:Display: Building textures: ShadowMapTexture2D_41 (BGRA8)
+[2014.11.30-05.41.27:216][834]LogTexture:Display: Building textures: ShadowMapTexture2D_42 (BGRA8)
+[2014.11.30-05.41.27:222][834]LogTexture:Display: Building textures: ShadowMapTexture2D_43 (BGRA8)
+[2014.11.30-05.41.27:227][834]LogTexture:Display: Building textures: ShadowMapTexture2D_44 (BGRA8)
+[2014.11.30-05.41.27:232][834]LogTexture:Display: Building textures: ShadowMapTexture2D_45 (BGRA8)
+[2014.11.30-05.41.27:237][834]LogTexture:Display: Building textures: ShadowMapTexture2D_46 (BGRA8)
+[2014.11.30-05.41.27:242][834]LogTexture:Display: Building textures: ShadowMapTexture2D_47 (BGRA8)
+[2014.11.30-05.41.27:247][834]LogTexture:Display: Building textures: ShadowMapTexture2D_48 (BGRA8)
+[2014.11.30-05.41.27:253][834]LogTexture:Display: Building textures: ShadowMapTexture2D_49 (BGRA8)
+[2014.11.30-05.41.27:258][834]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2014.11.30-05.41.27:263][834]LogTexture:Display: Building textures: ShadowMapTexture2D_50 (BGRA8)
+[2014.11.30-05.41.27:269][834]LogTexture:Display: Building textures: ShadowMapTexture2D_51 (BGRA8)
+[2014.11.30-05.41.27:275][834]LogTexture:Display: Building textures: ShadowMapTexture2D_52 (BGRA8)
+[2014.11.30-05.41.27:281][834]LogTexture:Display: Building textures: ShadowMapTexture2D_53 (BGRA8)
+[2014.11.30-05.41.27:286][834]LogTexture:Display: Building textures: ShadowMapTexture2D_54 (BGRA8)
+[2014.11.30-05.41.27:291][834]LogTexture:Display: Building textures: ShadowMapTexture2D_55 (BGRA8)
+[2014.11.30-05.41.27:295][834]LogTexture:Display: Building textures: ShadowMapTexture2D_56 (BGRA8)
+[2014.11.30-05.41.27:301][834]LogTexture:Display: Building textures: ShadowMapTexture2D_57 (BGRA8)
+[2014.11.30-05.41.27:306][834]LogTexture:Display: Building textures: ShadowMapTexture2D_58 (BGRA8)
+[2014.11.30-05.41.27:312][834]LogTexture:Display: Building textures: ShadowMapTexture2D_59 (BGRA8)
+[2014.11.30-05.41.27:317][834]LogTexture:Display: Building textures: ShadowMapTexture2D_60 (BGRA8)
+[2014.11.30-05.41.27:323][834]LogTexture:Display: Building textures: ShadowMapTexture2D_61 (BGRA8)
+[2014.11.30-05.41.27:329][834]LogTexture:Display: Building textures: ShadowMapTexture2D_62 (BGRA8)
+[2014.11.30-05.41.27:333][834]LogTexture:Display: Building textures: ShadowMapTexture2D_63 (BGRA8)
+[2014.11.30-05.41.27:338][834]LogTexture:Display: Building textures: ShadowMapTexture2D_64 (BGRA8)
+[2014.11.30-05.41.27:343][834]LogTexture:Display: Building textures: ShadowMapTexture2D_65 (BGRA8)
+[2014.11.30-05.41.27:346][834]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (BGRA8)
+[2014.11.30-05.41.27:351][834]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (BGRA8)
+[2014.11.30-05.41.27:356][834]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (BGRA8)
+[2014.11.30-05.41.27:481][834]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.30-05.41.27:482][834]LightingResults: New page: Lighting Build
+[2014.11.30-05.41.27:512][834]LoadErrors: New page: Loading map: Terrain.umap
+[2014.11.30-05.41.27:512][834]MapCheck: New page: Map Check
+[2014.11.30-05.41.27:513][834]LightingResults: New page: Lighting Build
+[2014.11.30-05.41.27:541][834]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000123A0220
+[2014.11.30-05.41.27:567][834]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.30-05.41.27:567][834]LogAIModule: Creating AISystem for world Terrain
+[2014.11.30-05.41.27:595][834]Cmd: MAP CHECKDEP
+[2014.11.30-05.41.27:595][834]MapCheck: New page: Terrain - Nov 29, 2014, 7:41:27 PM
+[2014.11.30-05.41.27:702][834]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 105.83ms to complete.
+[2014.11.30-05.41.27:702][834]LogFileHelpers: Loading map 'Terrain' took 0.222
+[2014.11.30-05.41.27:726][835]Cmd: UpdateLandscapeEditorData -warnings
+[2014.11.30-05.41.27:727][835]Cmd: UpdateLandscapeEditorData
+[2014.11.30-05.41.42:868][287]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.30-05.41.42:868][287]PIE: New page: PIE session: Terrain (Nov 29, 2014, 7:41:42 PM)
+[2014.11.30-05.41.42:904][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036268s)
+[2014.11.30-05.41.42:905][287]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2014.11.30-05.41.42:905][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Terrain.Terrain to /Game/Maps/UEDPIE_0_Terrain.Terrain (0.037538s)
+[2014.11.30-05.41.42:933][287]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-05.41.42:934][287]LogAIModule: Creating AISystem for world Terrain
+[2014.11.30-05.41.42:937][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2014.11.30-00.41.42
+[2014.11.30-05.41.42:938][287]LogWorld: Bringing up level for play took: 0.003736
+[2014.11.30-05.41.42:953][287]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Terrain -0.727
+[2014.11.30-05.41.55:382][ 96]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000291027A0
+[2014.11.30-05.56.28:633][113]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.30-05.56.45:663][456]LogMetaData: Removing '/Game/Maps/Projectile.Projectile:UserConstructionScript.K2Node_FunctionEntry_161' ref from Metadata '/Game/Maps/NewBlueprint.PackageMetaData'
+[2014.11.30-05.56.45:663][456]LogMetaData: Removing '/Game/Maps/Projectile.SKEL_Projectile_C' ref from Metadata '/Game/Maps/NewBlueprint.PackageMetaData'
+[2014.11.30-05.56.45:663][456]LogMetaData: Removing '/Game/Maps/Projectile.Projectile_C' ref from Metadata '/Game/Maps/NewBlueprint.PackageMetaData'
+[2014.11.30-05.56.45:722][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Projectile" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset" SILENT=true
+[2014.11.30-05.56.45:738][456]LogSavePackage: Save=13.747218ms
+[2014.11.30-05.56.45:738][456]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Projectile0A51D2CF4F5822DE7051B69AA9B04EBC.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset'
+[2014.11.30-05.57.42:523][577]LogRenderer:Warning: Reallocating scene render targets to support 1256x728.
+[2014.11.30-06.14.52:088][246]BlueprintLog: New page: Compile Projectile
+[2014.11.30-06.14.52:224][246]BlueprintEditorCompileResults: Info [2185.11] Compile of Projectile successful! [in 1 ms]
+[2014.11.30-06.15.17:635][968]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.30-06.15.20:213][ 82]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.30-06.15.22:251][177]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.30-06.15.31:023][567]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.30-06.15.34:642][730]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.30-06.15.36:046][793]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.30-06.15.38:125][886]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.30-06.15.43:357][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Projectile" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset" SILENT=true
+[2014.11.30-06.15.43:387][118]LogSavePackage: Save=18.578135ms
+[2014.11.30-06.15.43:387][118]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Projectile3AECCB404075BB5A8E19729E879B0CA7.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset'
+[2014.11.30-06.15.45:080][200]BlueprintLog: New page: Compile Projectile
+[2014.11.30-06.15.45:216][200]BlueprintEditorCompileResults: Info [2238.10] Compile of Projectile successful! [in 1 ms]
+[2014.11.30-06.16.03:184][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Projectile" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset" SILENT=true
+[2014.11.30-06.16.03:208][232]LogSavePackage: Save=16.182102ms
+[2014.11.30-06.16.03:208][232]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/ProjectileEB9A3FF041F057A7CDDD0C95BFE579DC.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset'
+[2014.11.30-06.16.04:856][310]BlueprintLog: New page: Compile Projectile
+[2014.11.30-06.16.04:999][310]BlueprintEditorCompileResults: Info [2257.88] Compile of Projectile successful! [in 1 ms]
+[2014.11.30-06.21.04:081][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Terrain' took 0.069
+[2014.11.30-06.21.04:128][853]LogSavePackage: Save=8.052749ms
+[2014.11.30-06.21.04:128][853]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/NewBlueprint_Auto11C57AE424F4879C642A79CB4D035CAE1.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/NewBlueprint_Auto1.uasset'
+[2014.11.30-06.21.04:195][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Projectile] ([1] browsable assets)...
+[2014.11.30-06.21.04:341][853]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Maps/Projectile.Projectile]
+[2014.11.30-06.21.04:341][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Projectile]
+[2014.11.30-06.21.04:344][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Projectile" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Projectile_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2014.11.30-06.21.04:659][853]LogSavePackage: Save=280.300171ms
+[2014.11.30-06.21.04:659][853]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Projectile_Auto1C351306A4B4669F905D8EBB742362999.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Projectile_Auto1.uasset'
+[2014.11.30-06.21.04:665][853]LogFileHelpers: Auto-saving content packages took 0.584
+[2014.11.30-06.23.44:779][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Projectile" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset" SILENT=true
+[2014.11.30-06.23.45:016][542]LogSavePackage: Save=229.383484ms
+[2014.11.30-06.23.45:016][542]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Projectile67D150EF41EECC797EE25888343A3C2F.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Projectile.uasset'
+[2014.11.30-06.23.45:674][577]BlueprintLog: New page: Compile Projectile
+[2014.11.30-06.23.45:728][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_1) Not registered. Aborting.
+[2014.11.30-06.23.45:764][577]BlueprintEditorCompileResults: Info [2718.68] Compile of Projectile successful! [in 1 ms]
+[2014.11.30-06.23.59:189][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2014.11.30-06.23.59:228][ 18]Aligned camera to fit all selected actors.
+[2014.11.30-06.24.07:698][338]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.30-06.24.07:698][338]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.11.30-06.24.07:758][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_2) Not registered. Aborting.
+[2014.11.30-06.24.07:795][338]LogPlayLevel: PIE:  Blueprint regeneration took 96 ms (1 blueprints)
+[2014.11.30-06.24.07:795][338]PIE: New page: SIE session: Terrain (Nov 29, 2014, 8:24:07 PM)
+[2014.11.30-06.24.07:835][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040403s)
+[2014.11.30-06.24.07:837][338]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2014.11.30-06.24.07:837][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Terrain.Terrain to /Game/Maps/UEDPIE_0_Terrain.Terrain (0.042627s)
+[2014.11.30-06.24.07:838][338]LogSelection:Warning: PIE object was selected: "Projectile_C /Game/Maps/UEDPIE_0_Terrain.Terrain:PersistentLevel.Projectile_15"
+[2014.11.30-06.24.07:865][338]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.24.07:867][338]LogAIModule: Creating AISystem for world Terrain
+[2014.11.30-06.24.07:871][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2014.11.30-01.24.07
+[2014.11.30-06.24.07:872][338]LogWorld: Bringing up level for play took: 0.005266
+[2014.11.30-06.24.07:874][338]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Terrain 0.436
+[2014.11.30-06.24.07:945][338]LogSelection:Warning: PIE object was selected: "Projectile_C /Game/Maps/UEDPIE_0_Terrain.Terrain:PersistentLevel.Projectile_15"
+[2014.11.30-06.24.11:860][455]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001990B7E0
+[2014.11.30-06.24.12:918][490]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.30-06.24.12:918][490]PIE: New page: SIE session: Terrain (Nov 29, 2014, 8:24:12 PM)
+[2014.11.30-06.24.12:963][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044929s)
+[2014.11.30-06.24.12:965][490]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2014.11.30-06.24.12:965][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Terrain.Terrain to /Game/Maps/UEDPIE_0_Terrain.Terrain (0.046577s)
+[2014.11.30-06.24.12:965][490]LogSelection:Warning: PIE object was selected: "Projectile_C /Game/Maps/UEDPIE_0_Terrain.Terrain:PersistentLevel.Projectile_15"
+[2014.11.30-06.24.12:996][490]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.24.12:997][490]LogAIModule: Creating AISystem for world Terrain
+[2014.11.30-06.24.13:003][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2014.11.30-01.24.13
+[2014.11.30-06.24.13:004][490]LogWorld: Bringing up level for play took: 0.006692
+[2014.11.30-06.24.13:006][490]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Terrain -0.432
+[2014.11.30-06.24.13:021][490]LogSelection:Warning: PIE object was selected: "Projectile_C /Game/Maps/UEDPIE_0_Terrain.Terrain:PersistentLevel.Projectile_15"
+[2014.11.30-06.24.15:582][572]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000031A296C0
+[2014.11.30-06.25.23:396][701]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.30-06.25.27:618][805]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
+[2014.11.30-06.25.28:207][820]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.11.30-06.25.42:160][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:160][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:160][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:160][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:160][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:160][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:160][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.25.42:161][730]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.27.13:809][ 57]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2014.11.30-06.31.12:337][930]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_3) Not registered. Aborting.
+[2014.11.30-06.31.12:337][930]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.11.30-06.31.13:874][930]LogSavePackage: Save=1409.452026ms
+[2014.11.30-06.31.13:874][930]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Terrain_Auto258AD25E844218E8373BA169646F50A41.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Terrain_Auto2.umap'
+[2014.11.30-06.31.13:885][930]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Terrain' took 1.548
+[2014.11.30-06.31.13:885][930]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.548
+[2014.11.30-06.31.13:891][930]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/MyCharacter] ([1] browsable assets)...
+[2014.11.30-06.31.13:926][930]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/MyCharacter.MyCharacter]
+[2014.11.30-06.31.13:926][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyCharacter]
+[2014.11.30-06.31.14:194][930]LogSavePackage: Save=235.523285ms
+[2014.11.30-06.31.14:194][930]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyCharacter_Auto2CFED19E24231BF6FE8CBEFAC69C0E569.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto2.uasset'
+[2014.11.30-06.31.14:203][930]LogFileHelpers: Auto-saving content packages took 0.318
+[2014.11.30-06.35.05:791][482]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.11.30-06.35.05:926][482]LogWindows:Error: Windows GetLastError: The operation completed successfully. (0)
+[2014.11.30-06.35.06:254][482]LogCrashTracker: 
+
+
+[2014.11.30-06.35.11:867][482]LogCrashTracker: 
+
+
+[2014.11.30-06.35.11:867][482]LogWindows: === Critical error: ===
+Assertion failed: StructPtrs.Num() != 0 [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.5\Engine\Source\Editor\DetailCustomizations\Private\KeyStructCustomization.cpp] [Line: 63] 
+
+
+
+KERNELBASE.dll!UnknownFunction (0x000007fefda2940d) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fed4d571c4) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fed4be98c8) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fed4bce892) + 0 bytes [UnknownFile:0]
+UE4Editor-DetailCustomizations.dll!UnknownFunction (0x000007fecac81194) + 0 bytes [UnknownFile:0]
+UE4Editor-DetailCustomizations.dll!UnknownFunction (0x000007fecac64526) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fed08d4d8a) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fed08e77f8) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fed08f08d6) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fed08d7032) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb2a1f) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb1098) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb2cd6) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb4494) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb1098) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb1098) + 0 bytes [UnknownFile:0]
+UE4Editor-PropertyEditor.dll!UnknownFunction (0x000007fecee1d50f) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cdd5e4) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb1098) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb1098) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb1098) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b71c5) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb4494) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb4494) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-Slate.dll!UnknownFunction (0x000007fed1cb4494) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b71c5) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b6f28) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b78af) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b7bba) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateCore.dll!UnknownFunction (0x000007fed51b72fc) + 0 bytes [UnknownFile:0]
+UnknownModule!UnknownFunction (0x000063a16e5f9071) + 0 bytes [UnknownFile:0]
+
+
+[2014.11.30-06.35.12:062][482]LogExit: Executing StaticShutdownAfterError
+[2014.11.30-06.35.12:579][482]LogWindows: FPlatformMisc::RequestExit(1)
+[2014.11.30-06.35.12:579][482]Log file closed, 11/30/14 01:35:12
