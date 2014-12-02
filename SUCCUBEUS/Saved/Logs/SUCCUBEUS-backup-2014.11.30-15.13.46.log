@@ -1,0 +1,375 @@
+﻿Log file open, 11/30/14 01:36:15
+LogInit:Display: Running engine for game: SUCCUBEUS
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.11.30-06.36.15:587][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.11.30-06.36.15:614][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.11.30-06.36.15:630][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.11.30-06.36.15:639][  0]LogInit: Object subsystem initialized
+[2014.11.30-06.36.15:641][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.11.30-06.36.15:641][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.30-06.36.15:642][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.11.30-06.36.15:642][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.30-06.36.15:642][  0]LogInit: Selected Device Profile: [Windows]
+[2014.11.30-06.36.15:642][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.11.30-06.36.15:647][  0]LogInit: Computer: JOHNSS18-PC
+[2014.11.30-06.36.15:647][  0]LogInit: User: johnss18
+[2014.11.30-06.36.15:650][  0]LogInit: CPU Page size=4096, Cores=2
+[2014.11.30-06.36.15:650][  0]LogInit: High frequency timer resolution =2.728261 MHz
+[2014.11.30-06.36.15:650][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx) Virtual=8192.0GB
+[2014.11.30-06.36.15:650][  0]LogMemory: Platform Memory Stats for Windows
+[2014.11.30-06.36.15:650][  0]LogMemory: Process Physical Memory: 64.06 MB used, 64.06 MB peak
+[2014.11.30-06.36.15:650][  0]LogMemory: Process Virtual Memory: 41.32 MB used, 41.32 MB peak
+[2014.11.30-06.36.15:650][  0]LogMemory: Physical Memory: 4222.03 MB used, 7915.94 MB total
+[2014.11.30-06.36.15:650][  0]LogMemory: Virtual Memory: 278.36 MB used, 8388608.00 MB total
+[2014.11.30-06.36.15:693][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics 4000 (Feature Level 11_0)
+[2014.11.30-06.36.15:694][  0]LogD3D11RHI: Adapter has 64MB of dedicated video memory, 0MB of dedicated system memory, and 1632MB of shared system memory, 1 output[s]
+[2014.11.30-06.36.15:694][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.11.30-06.36.15:702][  0]LogRHI: Texture pool is 616 MB (70% of 880 MB)
+[2014.11.30-06.36.15:724][  0]LogD3D11RHI: Async texture creation enabled
+[2014.11.30-06.36.15:768][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.11.30-06.36.15:915][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.11.30-06.36.20:487][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-06.36.20:906][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-06.36.20:952][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.11.30-06.36.21:024][  0]LogDerivedDataCache: Loaded boot cache 0.07s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.30-06.36.21:024][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.11.30-06.36.21:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.11.30-06.36.21:025][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.11.30-06.36.21:089][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.11.30-06.36.21:100][  0]LogDerivedDataCache: Using Local data cache path C:/Users/johnss18/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.11.30-06.36.21:271][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.11.30-06.36.21:271][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.11.30-06.36.21:529][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.30-06.36.21:532][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.30-06.36.21:690][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.11.30-06.36.22:365][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.11.30-06.36.22:516][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.11.30-06.36.22:630][  0]SourceControl: Info Source control is disabled
+[2014.11.30-06.36.22:631][  0]SourceControl: Info Source control is disabled
+[2014.11.30-06.36.22:636][  0]SourceControl: Info Source control is disabled
+[2014.11.30-06.36.22:737][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.11.30-06.36.22:737][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.11.30-06.36.22:788][  0]LogEngine: Initializing Engine...
+[2014.11.30-06.36.22:913][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.11.30-06.36.22:993][  0]LogInit: FAudioDevice initialized.
+[2014.11.30-06.36.23:011][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.11.30-06.36.23:034][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/johnss18/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.30-06.36.23:073][  0]LogInit: Texture streaming: Enabled
+[2014.11.30-06.36.23:114][  0]LogInit: Transaction tracking system initialized
+[2014.11.30-06.36.23:195][  0]BlueprintLog: New page: Editor Load
+[2014.11.30-06.36.23:222][  0]LogAssetRegistry: FAssetRegistry took 0.0099 seconds to start up
+[2014.11.30-06.36.23:222][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.11.30-06.36.23:692][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-06.36.24:009][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.30-06.36.24:215][  0]LogConsoleResponse:Display: 
+[2014.11.30-06.36.24:385][  0]SourceControl: Info Source control is disabled
+[2014.11.30-06.37.01:968][  0]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.30-06.37.01:969][  0]LightingResults: New page: Lighting Build
+[2014.11.30-06.37.01:980][  0]MapCheck: New page: Map Check
+[2014.11.30-06.37.01:980][  0]LightingResults: New page: Lighting Build
+[2014.11.30-06.37.02:279][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000015F81A80
+[2014.11.30-06.37.02:331][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.30-06.37.02:331][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.30-06.37.02:331][  0]Cmd: MAP CHECKDEP
+[2014.11.30-06.37.02:331][  0]MapCheck: New page: Example_Map - Nov 29, 2014, 8:37:02 PM
+[2014.11.30-06.37.02:417][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 85.159ms to complete.
+[2014.11.30-06.37.02:417][  0]LogFileHelpers: Loading map 'Example_Map' took 0.449
+[2014.11.30-06.37.02:457][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_5020_0///////STATCAT_Advanced//// old //STATGROUP_Threads//SplashScreenThread///Thread_7958_0///////STATCAT_Advanced////
+[2014.11.30-06.37.02:457][  0]LogCollectionManager: Loaded 0 collections in 0.001521 seconds
+[2014.11.30-06.37.02:575][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.11.30-06.37.02:601][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.11.30-06.37.02:640][  0]LogLoad: Full Startup: 49.11 seconds (BP compile: 0.08 seconds)
+[2014.11.30-06.37.02:656][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.11.30-06.37.02:808][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
+[2014.11.30-06.37.03:320][  2]LogAssetRegistry: Asset discovery search completed in 40.1073 seconds
+[2014.11.30-06.37.07:285][104]LogBlueprint:Error: [compiler] Error Default value '' for  Spawn Transform  is invalid: 'Literal values are not allowed for pass-by-reference parameters.'
+[2014.11.30-06.37.07:285][104]LogBlueprint:Error: [compiler] Error Default value '' for  Spawn Transform  is invalid: 'Literal values are not allowed for pass-by-reference parameters.'
+[2014.11.30-06.37.07:287][104]LogBlueprint:Warning: [compiler] Warning [0053.76] Compile of MyCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 26 ms]
+[2014.11.30-06.37.07:309][104]LogBlueprint:Error: [compiler] Error Default value '' for  Spawn Transform  is invalid: 'Literal values are not allowed for pass-by-reference parameters.'
+[2014.11.30-06.37.07:310][104]LogBlueprint:Error: [compiler] Error Default value '' for  Spawn Transform  is invalid: 'Literal values are not allowed for pass-by-reference parameters.'
+[2014.11.30-06.37.07:311][104]LogBlueprint:Warning: [compiler] Warning [0053.78] Compile of MyCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 11 ms]
+[2014.11.30-06.37.20:908][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:908][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:911][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.20:912][947]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.37.23:409][156]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.37.27:899][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.39.55:119][200]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.39.55:119][200]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.39.55:119][200]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.39.55:119][200]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.39.55:120][200]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.39.55:120][200]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.39.58:815][451]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.41.08:707][234]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.30-06.41.12:348][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.41.22:844][ 18]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.41.31:466][634]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.42.05:465][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.42.36:721][170]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.42.47:388][925]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.43.15:868][884]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.30-06.44.58:280][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyCharacter" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyCharacter.uasset" SILENT=true
+[2014.11.30-06.44.58:533][739]LogSavePackage: Save=241.176346ms
+[2014.11.30-06.44.58:533][739]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyCharacter62C59B3148D04A4C38405C82E2BF8771.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyCharacter.uasset'
+[2014.11.30-06.44.59:326][801]BlueprintLog: New page: Compile MyCharacter
+[2014.11.30-06.44.59:465][801]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_0) Not registered. Aborting.
+[2014.11.30-06.44.59:465][801]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.11.30-06.44.59:571][801]BlueprintEditorCompileResults: Info [0525.86] Compile of MyCharacter successful! [in 56 ms]
+[2014.11.30-06.45.03:488][  2]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.30-06.45.03:488][  2]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.11.30-06.45.03:540][  2]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.11.30-06.45.03:668][  2]LogPlayLevel: PIE:  Blueprint regeneration took 179 ms (2 blueprints)
+[2014.11.30-06.45.03:668][  2]PIE: New page: SIE session: Example_Map (Nov 29, 2014, 8:45:03 PM)
+[2014.11.30-06.45.03:706][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037753s)
+[2014.11.30-06.45.03:709][  2]LogPlayLevel: PIE: World Init took: (0.003211s)
+[2014.11.30-06.45.03:709][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.041317s)
+[2014.11.30-06.45.03:773][  2]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.45.03:774][  2]LogAIModule: Creating AISystem for world Example_Map
+[2014.11.30-06.45.03:775][  2]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2014.11.30-01.45.03
+[2014.11.30-06.45.03:776][  2]LogWorld: Bringing up level for play took: 0.001232
+[2014.11.30-06.45.03:868][  2]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.391
+[2014.11.30-06.45.05:767][ 54]LogPackageName: SearchForPackageOnDisk took   0.050s to resolve Level1.umap
+[2014.11.30-06.45.05:828][ 54]LogPackageName: SearchForPackageOnDisk took   0.060s to resolve Level1.umap
+[2014.11.30-06.45.05:859][ 54]LogNet: Browse: /Game/Maps/Level1
+[2014.11.30-06.45.05:882][ 54]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.11.30-06.45.05:953][ 54]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000023F41080
+[2014.11.30-06.45.05:953][ 54]Cmd: MEM
+[2014.11.30-06.45.05:987][ 54]LogMemory: Platform Memory Stats for Windows
+[2014.11.30-06.45.05:987][ 54]LogMemory: Process Physical Memory: 598.66 MB used, 620.92 MB peak
+[2014.11.30-06.45.05:987][ 54]LogMemory: Process Virtual Memory: 659.98 MB used, 682.07 MB peak
+[2014.11.30-06.45.05:987][ 54]LogMemory: Physical Memory: 5001.41 MB used, 7915.94 MB total
+[2014.11.30-06.45.05:987][ 54]LogMemory: Virtual Memory: 1136.96 MB used, 8388608.00 MB total
+[2014.11.30-06.45.05:987][ 54]LogMemory: 
+[2014.11.30-06.45.05:987][ 54]Allocator Stats for TBB: (not implemented)
+[2014.11.30-06.45.06:948][ 54]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.45.06:949][ 54]LogAIModule: Creating AISystem for world Level1
+[2014.11.30-06.45.06:950][ 54]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2014.11.30-01.45.06
+[2014.11.30-06.45.06:950][ 54]LogWorld: Bringing up level for play took: 0.001125
+[2014.11.30-06.45.09:708][140]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2014.11.30-06.45.09:708][140]LogSelection:Warning: PIE object was selected: "BP_Sky_Sphere_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Sky_Shere_74"
+[2014.11.30-06.45.13:156][254]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000195FDEE0
+[2014.11.30-06.45.26:582][628]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_1) Not registered. Aborting.
+[2014.11.30-06.45.26:622][628]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.30-06.45.26:622][628]LightingResults: New page: Lighting Build
+[2014.11.30-06.45.26:651][628]LoadErrors: New page: Loading map: Level1.umap
+[2014.11.30-06.45.26:652][628]MapCheck: New page: Map Check
+[2014.11.30-06.45.26:652][628]LightingResults: New page: Lighting Build
+[2014.11.30-06.45.26:689][628]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000196EF6A0
+[2014.11.30-06.45.26:709][628]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.30-06.45.26:709][628]LogAIModule: Creating AISystem for world Level1
+[2014.11.30-06.45.26:753][628]Cmd: MAP CHECKDEP
+[2014.11.30-06.45.26:753][628]MapCheck: New page: Level1 - Nov 29, 2014, 8:45:26 PM
+[2014.11.30-06.45.26:883][628]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 129.973ms to complete.
+[2014.11.30-06.45.26:883][628]LogFileHelpers: Loading map 'Level1' took 0.262
+[2014.11.30-06.45.28:987][696]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.30-06.45.28:987][696]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.11.30-06.45.29:056][696]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_2) Not registered. Aborting.
+[2014.11.30-06.45.29:100][696]LogPlayLevel: PIE:  Blueprint regeneration took 113 ms (1 blueprints)
+[2014.11.30-06.45.29:100][696]PIE: New page: SIE session: Level1 (Nov 29, 2014, 8:45:29 PM)
+[2014.11.30-06.45.29:103][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003160s)
+[2014.11.30-06.45.29:104][696]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2014.11.30-06.45.29:104][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004254s)
+[2014.11.30-06.45.29:131][696]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.45.29:132][696]LogAIModule: Creating AISystem for world Level1
+[2014.11.30-06.45.29:133][696]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2014.11.30-01.45.29
+[2014.11.30-06.45.29:133][696]LogWorld: Bringing up level for play took: 0.000771
+[2014.11.30-06.45.29:135][696]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.342
+[2014.11.30-06.45.34:273][864]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2014.11.30-06.45.34:273][864]LogSelection:Warning: PIE object was selected: "BP_Sky_Sphere_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Sky_Shere_74"
+[2014.11.30-06.45.36:531][939]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013FE3380
+[2014.11.30-06.45.40:518][ 51]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_3) Not registered. Aborting.
+[2014.11.30-06.45.40:605][ 51]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/AiSandbox.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.30-06.45.40:605][ 51]LightingResults: New page: Lighting Build
+[2014.11.30-06.45.40:649][ 51]LoadErrors: New page: Loading map: AiSandbox.umap
+[2014.11.30-06.45.40:650][ 51]MapCheck: New page: Map Check
+[2014.11.30-06.45.40:650][ 51]LightingResults: New page: Lighting Build
+[2014.11.30-06.45.40:701][ 51]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000026175300
+[2014.11.30-06.45.40:745][ 51]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.30-06.45.40:766][ 51]LogAIModule: Creating AISystem for world AiSandbox
+[2014.11.30-06.45.40:793][ 51]Cmd: MAP CHECKDEP
+[2014.11.30-06.45.40:793][ 51]MapCheck: New page: AiSandbox - Nov 29, 2014, 8:45:40 PM
+[2014.11.30-06.45.40:929][ 51]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 136.237ms to complete.
+[2014.11.30-06.45.40:929][ 51]LogFileHelpers: Loading map 'AiSandbox' took 0.327
+[2014.11.30-06.45.44:021][175]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.30-06.45.44:021][175]PIE: New page: SIE session: AiSandbox (Nov 29, 2014, 8:45:44 PM)
+[2014.11.30-06.45.44:085][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063688s)
+[2014.11.30-06.45.44:087][175]LogPlayLevel: PIE: World Init took: (0.001818s)
+[2014.11.30-06.45.44:087][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AiSandbox.AiSandbox to /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox (0.066025s)
+[2014.11.30-06.45.44:121][175]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.45.44:123][175]LogAIModule: Creating AISystem for world AiSandbox
+[2014.11.30-06.45.44:126][175]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.11.30-06.45.44:126][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox up for play (max tick rate 0) at 2014.11.30-01.45.44
+[2014.11.30-06.45.44:211][175]LogWorld: Bringing up level for play took: 0.087506
+[2014.11.30-06.45.44:239][175]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_AiSandbox 0.761
+[2014.11.30-06.45.48:193][278]LogSelection:Warning: PIE object was selected: "Brush /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.Floor"
+[2014.11.30-06.45.50:878][352]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_4) Not registered. Aborting.
+[2014.11.30-06.45.50:916][352]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000197EFE20
+[2014.11.30-06.46.14:201][466]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.30-06.46.19:693][596]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
+[2014.11.30-06.46.27:552][878]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.30-06.46.29:877][937]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.11.30-06.46.38:114][428]LogRenderer:Warning: Reallocating scene render targets to support 1256x728.
+[2014.11.30-06.46.43:354][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyCharacter" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyCharacter.uasset" SILENT=true
+[2014.11.30-06.46.43:663][638]LogSavePackage: Save=301.188202ms
+[2014.11.30-06.46.43:663][638]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyCharacter049728584FB7752E22230FB3638300A2.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyCharacter.uasset'
+[2014.11.30-06.46.44:555][680]BlueprintLog: New page: Compile MyCharacter
+[2014.11.30-06.46.44:719][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_5) Not registered. Aborting.
+[2014.11.30-06.46.44:719][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.11.30-06.46.44:815][680]BlueprintEditorCompileResults: Info [0631.11] Compile of MyCharacter successful! [in 68 ms]
+[2014.11.30-06.46.56:345][ 30]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.30-06.46.56:345][ 30]PIE: New page: SIE session: AiSandbox (Nov 29, 2014, 8:46:56 PM)
+[2014.11.30-06.46.56:414][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068899s)
+[2014.11.30-06.46.56:416][ 30]LogPlayLevel: PIE: World Init took: (0.002308s)
+[2014.11.30-06.46.56:416][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AiSandbox.AiSandbox to /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox (0.071689s)
+[2014.11.30-06.46.56:467][ 30]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.46.56:469][ 30]LogAIModule: Creating AISystem for world AiSandbox
+[2014.11.30-06.46.56:472][ 30]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.11.30-06.46.56:472][ 30]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox up for play (max tick rate 0) at 2014.11.30-01.46.56
+[2014.11.30-06.46.56:475][ 30]LogWorld: Bringing up level for play took: 0.005937
+[2014.11.30-06.46.56:477][ 30]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_AiSandbox 0.998
+[2014.11.30-06.47.05:604][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2014.11.30-06.47.05:670][339]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001C1A0F40
+[2014.11.30-06.47.15:419][572]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.30-06.47.15:419][572]PIE: New page: SIE session: AiSandbox (Nov 29, 2014, 8:47:15 PM)
+[2014.11.30-06.47.15:477][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057294s)
+[2014.11.30-06.47.15:479][572]LogPlayLevel: PIE: World Init took: (0.002598s)
+[2014.11.30-06.47.15:479][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AiSandbox.AiSandbox to /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox (0.060172s)
+[2014.11.30-06.47.15:554][572]LogSelection:Warning: PIE object was selected: "MyCharacter_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.MyCharacter_19"
+[2014.11.30-06.47.15:581][572]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.47.15:582][572]LogAIModule: Creating AISystem for world AiSandbox
+[2014.11.30-06.47.15:585][572]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.11.30-06.47.15:585][572]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox up for play (max tick rate 0) at 2014.11.30-01.47.15
+[2014.11.30-06.47.15:594][572]LogWorld: Bringing up level for play took: 0.011870
+[2014.11.30-06.47.15:596][572]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_AiSandbox 0.116
+[2014.11.30-06.47.15:666][572]LogSelection:Warning: PIE object was selected: "MyCharacter_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.MyCharacter_19"
+[2014.11.30-06.47.16:995][604]LogSelection:Warning: PIE object was selected: "Brush /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.BoxBrush"
+[2014.11.30-06.47.18:544][642]LogEditorViewport: Clicking on Actor (LMB): MyCharacter_C (MyCharacter)
+[2014.11.30-06.47.18:544][642]LogSelection:Warning: PIE object was selected: "MyCharacter_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.MyCharacter_19"
+[2014.11.30-06.47.20:038][672]LogSelection:Warning: PIE object was selected: "Brush /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.Floor"
+[2014.11.30-06.47.23:237][754]LogEditorViewport: Clicking on Actor (LMB): MyCharacter_C (MyCharacter)
+[2014.11.30-06.47.23:237][754]LogSelection:Warning: PIE object was selected: "MyCharacter_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.MyCharacter_19"
+[2014.11.30-06.47.28:759][879]LogSelection:Warning: PIE object was selected: "Brush /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.Floor"
+[2014.11.30-06.47.30:506][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2014.11.30-06.47.30:506][920]LogSelection:Warning: PIE object was selected: "BP_Sky_Sphere_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.SkySphereBlueprint"
+[2014.11.30-06.47.31:192][939]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2014.11.30-06.47.31:192][939]LogSelection:Warning: PIE object was selected: "BP_Sky_Sphere_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.SkySphereBlueprint"
+[2014.11.30-06.47.31:475][946]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2014.11.30-06.47.31:475][946]LogSelection:Warning: PIE object was selected: "BP_Sky_Sphere_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.SkySphereBlueprint"
+[2014.11.30-06.47.34:053][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2014.11.30-06.47.34:053][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_6) Not registered. Aborting.
+[2014.11.30-06.47.34:127][ 19]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002E3942C0
+[2014.11.30-06.47.35:226][ 53]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.30-06.47.35:226][ 53]PIE: New page: SIE session: AiSandbox (Nov 29, 2014, 8:47:35 PM)
+[2014.11.30-06.47.35:282][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055467s)
+[2014.11.30-06.47.35:283][ 53]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2014.11.30-06.47.35:284][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AiSandbox.AiSandbox to /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox (0.057601s)
+[2014.11.30-06.47.35:285][ 53]LogSelection:Warning: PIE object was selected: "BP_Sky_Sphere_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.SkySphereBlueprint"
+[2014.11.30-06.47.35:336][ 53]LogWorld: Game class is 'MyGame_C'
+[2014.11.30-06.47.35:338][ 53]LogAIModule: Creating AISystem for world AiSandbox
+[2014.11.30-06.47.35:341][ 53]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.11.30-06.47.35:341][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox up for play (max tick rate 0) at 2014.11.30-01.47.35
+[2014.11.30-06.47.35:344][ 53]LogWorld: Bringing up level for play took: 0.006364
+[2014.11.30-06.47.35:347][ 53]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_AiSandbox -0.134
+[2014.11.30-06.47.35:363][ 53]LogSelection:Warning: PIE object was selected: "BP_Sky_Sphere_C /Game/Maps/UEDPIE_0_AiSandbox.AiSandbox:PersistentLevel.SkySphereBlueprint"
+[2014.11.30-06.48.15:760][139]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000381B51C0
+[2014.11.30-06.56.55:859][304]LogSavePackage: Save=79.320854ms
+[2014.11.30-06.56.55:859][304]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/AiSandbox_Auto15F74B2144F6CA8778978049A599A7C8C.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/AiSandbox_Auto1.umap'
+[2014.11.30-06.56.55:869][304]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/AiSandbox' took 0.169
+[2014.11.30-06.56.55:869][304]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.169
+[2014.11.30-16.56.03:259][132]LogRenderer:Warning: Reallocating scene render targets to support 1256x768.
+[2014.11.30-16.56.09:972][133]LogD3D11RHI:Error: Direct3DDevice->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.5\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:159 
+ with error E_OUTOFMEMORY
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     48 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     49 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     50 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     51 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereInscatter
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    118 = 7536 KB (2D 1256x768 PF_FloatRGBA RT) SeparateTranslucency
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    108 = 3768 KB (2D 1256x768 PF_A2B10G10R10 RT) GBufferA
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    110 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT sRGB) GBufferC
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    109 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT) GBufferB
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    111 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT) GBufferD
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    112 = 3768 KB (2D 1256x768 PF_B8G8R8A8 RT) GBufferE
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     84 = 3768 KB (2D 1256x768 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    117 = 3768 KB (2D 1256x768 PF_FloatRGB RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    113 = 3768 KB (2D 1256x768 PF_FloatRGB RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    119 = 3768 KB (2D 1256x768 PF_FloatRGB RT VRam) BokehDOFRecombine VRamInKB(Start/Size):<NONE>
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     86 = 2048 KB (2D 512x512 PF_FloatRGBA RT) TranslucencyShadowTransmission0
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     87 = 2048 KB (2D 512x512 PF_FloatRGBA RT) TranslucencyShadowTransmission1
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     75 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_0
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     76 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_1
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     77 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_2
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     39 = 2048 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     85 = 1884 KB (2D 628x384 PF_DepthStencil) SmallDepthZ
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    114 = 1024 KB (2D 256x256 PF_A32B32G32R32F) HZBBoundsCenter
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    115 = 1024 KB (2D 256x256 PF_A32B32G32R32F) HZBBoundsExtent
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    102 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    103 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     95 = 942 KB (2D 1256x768 PF_G8 RT) ScreenSpaceAO
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    120 = 942 KB (2D 628x384 PF_FloatRGB RT VRam) SceneColorHalfRes VRamInKB(Start/Size):<NONE>
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     88 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     33 = 683 KB (2D 512x256 PF_R32_FLOAT RT) HZB
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     45 = 683 KB (2D 512x256 PF_R32_FLOAT RT) HZB
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     94 = 512 KB (2D 512x512 PF_ShadowDepth) PreShadowCacheDepthZ
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     93 = 512 KB (2D 512x512 PF_ShadowDepth) ShadowDepthZ
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    116 = 256 KB (2D 256x256 PF_B8G8R8A8 RT) HZBResultsGPU
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     37 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     36 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     89 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     54 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     96 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolume0
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     98 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolume1
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    100 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolume2
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     97 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolumeDir0
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     99 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolumeDir1
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    101 = 108 KB (3D 24x24x24 PF_FloatRGBA RT) TranslucentVolumeDir2
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      7 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    104 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    105 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     90 = 48 KB (Cube 64 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     11 = 16 KB (2D 128x32 PF_G16R16 VRam) PreintegratedGF VRamInKB(Start/Size):<NONE>
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     10 = 16 KB (2D 64x64 PF_B8G8R8A8) SSAORandomization
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      9 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     92 = 12 KB (Cube 32 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     91 = 12 KB (Cube 32 PF_ShadowDepth) CubeShadowDepthZ[]
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     52 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     53 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     28 = 1 KB (2D 1x1 PF_R32_FLOAT RT) EyeAdaptation
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:     56 = 1 KB (2D 1x1 PF_R32_FLOAT RT) EyeAdaptation
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    107 = 1 KB (2D 1x1 PF_R32_FLOAT RT) ReflectionBrightness0
+[2014.11.30-16.56.32:680][133]LogConsoleResponse:    106 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2014.11.30-16.56.32:680][133]LogConsoleResponse: 
+[2014.11.30-16.56.32:680][133]LogConsoleResponse: Pool: 74/99 MB (referenced/allocated)
+[2014.11.30-16.56.32:680][133]LogWindows: FPlatformMisc::RequestExit(1)
+[2014.11.30-16.56.32:680][133]Log file closed, 11/30/14 11:56:32
