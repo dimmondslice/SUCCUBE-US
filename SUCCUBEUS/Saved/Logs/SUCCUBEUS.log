@@ -176,4 +176,400 @@ LogInit: Rocket: 1
 [2014.12.02-03.34.51:963][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day2" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day2.uasset" SILENT=true
 [2014.12.02-03.34.52:503][649]LogSavePackage: Save=535.737610ms
 [2014.12.02-03.34.52:503][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day2A15022DA48DCD7741FC79A9A71671290.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day2.uasset'
-[2
+[2014.12.02-03.34.52:532][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day3" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day3.uasset" SILENT=true
+[2014.12.02-03.34.53:064][649]LogSavePackage: Save=526.671021ms
+[2014.12.02-03.34.53:064][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day3C8ED76C849C0FA1EC21D0EB4E6C963CD.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day3.uasset'
+[2014.12.02-03.34.53:082][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day4" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day4.uasset" SILENT=true
+[2014.12.02-03.34.53:561][649]LogSavePackage: Save=476.582703ms
+[2014.12.02-03.34.53:561][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day4CE864D6941645D9FE3292D9E708A30AB.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day4.uasset'
+[2014.12.02-03.34.53:588][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day5" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day5.uasset" SILENT=true
+[2014.12.02-03.34.54:163][649]LogSavePackage: Save=569.436340ms
+[2014.12.02-03.34.54:163][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day542BAFB58477B004CA7622FA98D9A51FC.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day5.uasset'
+[2014.12.02-03.34.54:183][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day6" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day6.uasset" SILENT=true
+[2014.12.02-03.34.54:755][649]LogSavePackage: Save=567.395508ms
+[2014.12.02-03.34.54:755][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day6010B46084110053276799994F056033F.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day6.uasset'
+[2014.12.02-03.34.54:775][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/day7" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day7.uasset" SILENT=true
+[2014.12.02-03.34.55:215][649]LogSavePackage: Save=437.797180ms
+[2014.12.02-03.34.55:215][649]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/day77E5F827D47651B3767D5FC984697D8CC.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/day7.uasset'
+[2014.12.02-03.35.29:466][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2014.12.02-03.36.00:403][817]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.36.34:717][974]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.38.16:289][349]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.38.17:995][413]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.40.28:136][497]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.40.39:097][899]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.40.39:122][899]LogTTFontImport:Warning: OutPutGlyph X=37 Y=10 FontHeight=10 FontWidth=2 Char=0020 U=37 V=11 =Usize=2 VSIze=10
+[2014.12.02-03.40.39:141][899]LogTTFontImport:Warning: OutPutGlyph X=244 Y=41 FontHeight=10 FontWidth=2 Char=00a0 U=244 V=42 =Usize=2 VSIze=10
+[2014.12.02-03.40.39:175][899]LogTexture:Display: Building textures: Black_Chancery_PageA (AutoDXT)
+[2014.12.02-03.40.39:186][899]LogTTFontImport:Warning: ImportTrueTypeFont: Total Time 0.07
+[2014.12.02-03.40.44:228][ 58]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.40.50:097][241]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.41.04:960][841]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.41.08:966][944]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.41.17:856][235]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.42.11:101][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.02-03.42.11:437][970]LogSavePackage: Save=250.621185ms
+[2014.12.02-03.42.11:437][970]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Example_Map7D3853E643FA906D24633BB1138F7457.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap'
+[2014.12.02-03.42.20:584][246]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D328400
+[2014.12.02-03.42.20:615][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.02-03.42.20:706][246]LogSavePackage: Save=35.444191ms
+[2014.12.02-03.42.20:706][246]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu08A7731F4219BA8724278EBE1B642475.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.02-03.42.20:725][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/Black_Chancery" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/Black_Chancery.uasset" SILENT=true
+[2014.12.02-03.42.20:793][246]LogSavePackage: Save=65.418594ms
+[2014.12.02-03.42.20:793][246]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Black_Chancery546699AF4D0DCF065AEBF499F477A280.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/Black_Chancery.uasset'
+[2014.12.02-03.42.48:069][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.42.51:605][709]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.43.28:243][504]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.43.32:474][630]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.43.49:469][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.43.56:064][309]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.50.16:541][254]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/resume.png)
+[2014.12.02-03.50.18:628][254]0.000017 seconds to analyze Texture2D /Game/Blueprints/Assets/resume.resume
+
+[2014.12.02-03.50.18:629][254]LogTexture:Display: Building textures: resume (BGRA8)
+[2014.12.02-03.50.18:644][254]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/quit.png)
+[2014.12.02-03.50.18:645][254]0.000016 seconds to analyze Texture2D /Game/Blueprints/Assets/quit.quit
+
+[2014.12.02-03.50.18:650][254]LogTexture:Display: Building textures: quit (BGRA8)
+[2014.12.02-03.50.18:662][254]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/play.png)
+[2014.12.02-03.50.18:665][254]0.000015 seconds to analyze Texture2D /Game/Blueprints/Assets/play.play
+
+[2014.12.02-03.50.18:666][254]LogTexture:Display: Building textures: play (BGRA8)
+[2014.12.02-03.50.18:688][254]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.12.02-03.50.18:688][254]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.50.18:689][254]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.50.18:690][254]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.50.24:100][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.02-03.50.24:213][431]LogSavePackage: Save=77.110291ms
+[2014.12.02-03.50.24:213][431]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu7537EF7F44346EF2DADE59B28E05D209.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.02-03.50.24:235][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/resume" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/resume.uasset" SILENT=true
+[2014.12.02-03.50.24:416][431]LogSavePackage: Save=178.419876ms
+[2014.12.02-03.50.24:416][431]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/resume20A2129E4582106F172F80B1F82BD790.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/resume.uasset'
+[2014.12.02-03.50.24:437][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/quit" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/quit.uasset" SILENT=true
+[2014.12.02-03.50.24:596][431]LogSavePackage: Save=154.354004ms
+[2014.12.02-03.50.24:596][431]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/quitA318D28445797462F075FB8E76A5E1E8.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/quit.uasset'
+[2014.12.02-03.50.24:620][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/play" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/play.uasset" SILENT=true
+[2014.12.02-03.50.24:780][431]LogSavePackage: Save=157.237885ms
+[2014.12.02-03.50.24:780][431]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/play8D5A3A8046FF66E0707DC398D8F7EF16.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/play.uasset'
+[2014.12.02-03.50.44:262][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.50.44:262][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.11:879][813]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.11:879][813]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.21:414][ 79]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.21:414][ 79]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.28:516][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.28:516][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.49:455][782]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.51.49:455][782]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.01:509][143]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.01:510][143]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.03:381][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.03:381][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.16:113][535]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.16:113][535]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.19:052][621]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.19:052][621]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.19:489][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Example_Map' took 0.023
+[2014.12.02-03.52.19:503][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu] ([1] browsable assets)...
+[2014.12.02-03.52.19:515][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu]
+[2014.12.02-03.52.19:709][627]LogSavePackage: Save=46.359936ms
+[2014.12.02-03.52.19:710][627]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu_Auto1815FF4AE4970A9CB2122E89186A95529.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Blueprints/MainMenu_Auto1.uasset'
+[2014.12.02-03.52.19:725][627]LogFileHelpers: Auto-saving content packages took 0.236
+[2014.12.02-03.52.29:673][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.29:673][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.38:270][158]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.38:270][158]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.46:171][374]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.52.46:171][374]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.53.02:502][830]LogEditorTransaction: Undo Set Vector Property
+[2014.12.02-03.53.02:542][830]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.53.02:542][830]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.53.03:008][836]Cmd: TRANSACTION UNDO
+[2014.12.02-03.53.03:008][836]LogEditorTransaction: Undo Edit X
+[2014.12.02-03.53.12:619][ 81]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.53.12:619][ 81]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.53.17:148][208]LogEditorTransaction: Undo Edit Right
+[2014.12.02-03.54.42:694][966]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/play.png)
+[2014.12.02-03.54.53:452][966]LogTexture:Display: Building textures: play (AutoDXT)
+[2014.12.02-03.54.53:524][966]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.12.02-03.54.53:524][966]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.54.56:151][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.02-03.54.56:233][ 50]LogSavePackage: Save=63.399727ms
+[2014.12.02-03.54.56:233][ 50]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu8A529A8945664B84C5149CB53F2824DB.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.02-03.54.56:254][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/play" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/play.uasset" SILENT=true
+[2014.12.02-03.54.56:408][ 50]LogSavePackage: Save=139.749100ms
+[2014.12.02-03.54.56:408][ 50]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/playF53227744B5CBD5A6AB450B5393CA722.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/play.uasset'
+[2014.12.02-03.58.07:822][953]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.07:822][953]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.07:822][953]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.07:822][953]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.07:822][953]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.21:873][ 59]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/resume.png)
+[2014.12.02-03.58.24:545][ 59]LogTexture:Display: Building textures: resume (BGRA8)
+[2014.12.02-03.58.24:555][ 59]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/quit.png)
+[2014.12.02-03.58.24:560][ 59]LogTexture:Display: Building textures: quit (BGRA8)
+[2014.12.02-03.58.24:570][ 59]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/play.png)
+[2014.12.02-03.58.24:574][ 59]LogTexture:Display: Building textures: play (BGRA8)
+[2014.12.02-03.58.24:594][ 59]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.12.02-03.58.24:594][ 59]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.58.24:595][ 59]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.58.24:595][ 59]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-03.58.26:590][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.02-03.58.26:658][133]LogSavePackage: Save=42.770470ms
+[2014.12.02-03.58.26:658][133]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu032B25EA4258C108287268B8BEF68402.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.02-03.58.26:678][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/resume" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/resume.uasset" SILENT=true
+[2014.12.02-03.58.26:853][133]LogSavePackage: Save=159.713821ms
+[2014.12.02-03.58.26:853][133]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/resume2AA69EAD4FECC36CCDF2D3BAB9D66D40.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/resume.uasset'
+[2014.12.02-03.58.26:872][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/quit" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/quit.uasset" SILENT=true
+[2014.12.02-03.58.27:053][133]LogSavePackage: Save=160.751114ms
+[2014.12.02-03.58.27:053][133]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/quit6EC4988A431153D9DA030A99E01A2778.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/quit.uasset'
+[2014.12.02-03.58.27:074][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/play" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/play.uasset" SILENT=true
+[2014.12.02-03.58.27:267][133]LogSavePackage: Save=179.662430ms
+[2014.12.02-03.58.27:267][133]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/play8A8560EE47CB897FC3E6E68B9B31917D.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/play.uasset'
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.29:412][194]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.31:095][240]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.58.39:105][481]BlueprintLog: New page: Compile MainMenu
+[2014.12.02-03.58.39:273][481]BlueprintEditorCompileResults: Info [1909.72] Compile of MainMenu successful! [in 17 ms]
+[2014.12.02-03.58.40:270][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.02-03.58.40:347][503]LogSavePackage: Save=51.542355ms
+[2014.12.02-03.58.40:347][503]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu2947D0B849E62543071BFAB2988266B2.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.02-03.58.47:652][732]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.06:068][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.12:204][433]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-03.59.19:794][648]BlueprintLog: New page: Compile PauseMenu
+[2014.12.02-03.59.19:946][648]BlueprintEditorCompileResults: Info [1950.39] Compile of PauseMenu successful! [in 4 ms]
+[2014.12.02-03.59.20:656][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PauseMenu" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset" SILENT=true
+[2014.12.02-03.59.20:733][665]LogSavePackage: Save=49.132763ms
+[2014.12.02-03.59.20:734][665]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenu25E2BE914AFC0ED09FEDD0BE503DAE1E.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/PauseMenu.uasset'
+[2014.12.02-04.00.45:695][277]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-04.00.49:940][349]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 ../../../../../../Users/Devin/Documents/College/Junior/Game Dev/Unreal/paused.png)
+[2014.12.02-04.00.51:226][349]0.000022 seconds to analyze Texture2D /Game/Blueprints/Assets/paused.paused
+
+[2014.12.02-04.00.51:231][349]LogTexture:Display: Building textures: paused (BGRA8)
+[2014.12.02-04.00.51:250][349]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.12.02-04.00.51:251][349]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2014.12.02-04.00.53:208][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/paused" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/paused.uasset" SILENT=true
+[2014.12.02-04.00.53:358][416]LogSavePackage: Save=143.582306ms
+[2014.12.02-04.00.53:358][416]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/paused836AAD1E4EA74C91B02F12A25CDBD722.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Assets/paused.uasset'
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.11:154][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.47:008][245]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.51:460][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.01.57:929][528]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.06:087][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.17:495][ 22]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:974][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:974][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:974][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:974][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:975][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:975][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:975][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:975][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.34:975][468]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.40:119][606]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.43:558][691]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.45:594][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Example_Map' took 0.033
+[2014.12.02-04.02.45:613][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PauseMenu] ([1] browsable assets)...
+[2014.12.02-04.02.45:628][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PauseMenu]
+[2014.12.02-04.02.45:808][744]LogSavePackage: Save=38.290325ms
+[2014.12.02-04.02.45:808][744]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/PauseMenu_Auto24F938A694375DE405619F68CFDFE835E.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Blueprints/PauseMenu_Auto2.uasset'
+[2014.12.02-04.02.45:818][744]LogFileHelpers: Auto-saving content packages took 0.224
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.52:380][921]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.02.55:443][999]LogEditorTransaction: Undo Edit X
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.02:625][181]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.08:686][336]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.13:529][473]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.20:213][661]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.22:113][715]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.28:707][894]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.33:062][ 14]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.38:547][155]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:693][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:693][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:693][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:693][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:693][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:694][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:694][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:694][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.44:694][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.03.58:778][700]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.04.11:558][ 61]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.04.11:559][ 61]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.04.11:559][ 61]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.04.11:559][ 61]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.04.11:559][ 61]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.04.11:559][ 61]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.02-04.04.11:559][ 61]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while 
