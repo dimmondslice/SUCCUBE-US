@@ -7673,4 +7673,1004 @@ Referencers of BlueprintGeneratedClass /Game/Maps/MainLevel.MainLevel_C:
 [2014.12.03-18.26.14:523][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.651
 [2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
 [2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
-[2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivatin
+[2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:746][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:747][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:747][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:747][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:747][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.27.58:747][517]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.32.39:222][923]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-18.32.44:390][111]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_91) Not registered. Aborting.
+[2014.12.03-18.32.44:390][111]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_14) Not registered. Aborting.
+[2014.12.03-18.32.45:818][111]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-18.32.45:818][111]LightingResults: New page: Lighting Build
+[2014.12.03-18.32.45:852][111]LoadErrors: New page: Loading map: MainLevel.umap
+[2014.12.03-18.32.45:928][111]MapCheck: New page: Map Check
+[2014.12.03-18.32.45:928][111]LightingResults: New page: Lighting Build
+[2014.12.03-18.32.45:980][111]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000767D9120
+[2014.12.03-18.32.46:239][111]LogTexture:Display: Building textures: HQ_Lightmap0_66 (AutoDXT)
+[2014.12.03-18.32.46:241][111]LogTexture:Display: Building textures: LQ_Lightmap_0_66 (DXT1)
+[2014.12.03-18.32.46:345][111]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-18.32.46:349][111]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.32.46:414][111]Cmd: MAP CHECKDEP
+[2014.12.03-18.32.46:414][111]MapCheck: New page: MainLevel - Dec 3, 2014, 8:32:46 AM
+[2014.12.03-18.32.46:538][111]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 123.702ms to complete.
+[2014.12.03-18.32.46:538][111]LogFileHelpers: Loading map 'MainLevel' took 0.724
+[2014.12.03-18.32.46:569][111]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_315
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.32.46:569][111]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_333
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.32.46:570][111]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_249:CubeAnimSword_C_316
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.32.46:570][111]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_250:AxeAnim_C_334
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.32.46:602][112]Cmd: UpdateLandscapeEditorData
+[2014.12.03-18.32.46:603][112]Cmd: UpdateLandscapeEditorData -warnings
+[2014.12.03-18.33.43:970][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (column_7)
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.33.53:601][967]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.03:665][520]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.17:819][278]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.34.26:492][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (column_9)
+[2014.12.03-18.34.32:506][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (column_10)
+[2014.12.03-18.34.43:738][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (column_8)
+[2014.12.03-18.35.06:849][938]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.03-18.35.11:062][135]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_317
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.35.11:063][135]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_335
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.17:482][486]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.22:015][734]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.25:716][939]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.36:356][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.35.45:874][ 59]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.36.35:394][889]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.36.35:484][889]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_92) Not registered. Aborting.
+[2014.12.03-18.36.35:484][889]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_93) Not registered. Aborting.
+[2014.12.03-18.36.35:484][889]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_15) Not registered. Aborting.
+[2014.12.03-18.36.35:556][889]BlueprintEditorCompileResults: Info [9849.32] Compile of MyGoal successful! [in 3 ms]
+[2014.12.03-18.36.36:357][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-18.36.36:395][930]LogSavePackage: Save=20.092087ms
+[2014.12.03-18.36.36:396][930]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoal19B2117E4CE5F1A53AC0BB8FE1870347.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-18.36.50:179][700]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-18.36.50:179][700]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-18.36.50:272][700]LogPlayLevel: [PIE] Compiling MainLevel before PIE...
+[2014.12.03-18.36.50:430][700]LogPlayLevel: PIE:  Blueprint regeneration took 251 ms (2 blueprints)
+[2014.12.03-18.36.50:431][700]PIE: New page: SIE session: MainLevel (Dec 3, 2014, 8:36:50 AM)
+[2014.12.03-18.36.50:487][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056563s)
+[2014.12.03-18.36.50:488][700]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2014.12.03-18.36.50:488][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.057293s)
+[2014.12.03-18.36.50:489][700]LogSelection:Warning: PIE object was selected: "MyGoal_C /Game/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MyGoal_C_2"
+[2014.12.03-18.36.50:516][700]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-18.36.50:518][700]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.36.50:533][700]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-18.36.50:533][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2014.12.03-13.36.50
+[2014.12.03-18.36.50:534][700]LogWorld: Bringing up level for play took: 0.015881
+[2014.12.03-18.36.50:535][700]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainLevel 0.91
+[2014.12.03-18.36.50:544][700]LogSelection:Warning: PIE object was selected: "MyGoal_C /Game/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MyGoal_C_2"
+[2014.12.03-18.36.54:085][906]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000006948D440
+[2014.12.03-18.36.56:697][ 61]MapCheck: New page: Map Check
+[2014.12.03-18.36.56:745][ 61]Cmd: MAP REBUILD ALLVISIBLE
+[2014.12.03-18.36.56:745][ 61]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2014.12.03-18.36.56:877][ 61]LightingResults: New page: Lighting Build - Dec 3, 2014, 8:36:56 AM
+[2014.12.03-18.37.01:544][ 61]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2014.12.03-18.37.01:560][ 61]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2014.12.03-18.37.01:560][ 61]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2014.12.03-18.37.01:560][ 61]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2014.12.03-18.37.01:560][ 61]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2014.12.03-18.37.01:560][ 61]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2014.12.03-18.37.01:662][ 61]LogEditorBuildUtils: Build time 0:00:04
+[2014.12.03-18.37.01:724][ 62]Cmd: UpdateLandscapeEditorData
+[2014.12.03-18.37.17:364][469]Job is a success!
+[2014.12.03-18.37.17:664][470]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2014.12.03-18.37.17:733][470]LogTexture:Display: Building textures: LQ_Lightmap_0_73 (DXT1)
+[2014.12.03-18.37.17:813][470]LogTexture:Display: Building textures: HQ_Lightmap0_73 (AutoDXT)
+[2014.12.03-18.37.17:881][470]LogTexture:Display: Building textures: LQ_Lightmap_0_72 (DXT1)
+[2014.12.03-18.37.17:924][470]LogTexture:Display: Building textures: HQ_Lightmap0_72 (AutoDXT)
+[2014.12.03-18.37.17:932][470]LogTexture:Display: Building textures: LQ_Lightmap_0_71 (DXT1)
+[2014.12.03-18.37.17:940][470]LogTexture:Display: Building textures: HQ_Lightmap0_71 (AutoDXT)
+[2014.12.03-18.37.17:948][470]LogTexture:Display: Building textures: LQ_Lightmap_0_70 (DXT1)
+[2014.12.03-18.37.17:954][470]LogTexture:Display: Building textures: HQ_Lightmap0_70 (AutoDXT)
+[2014.12.03-18.37.17:972][470]LogTexture:Display: Building textures: LQ_Lightmap_0_69 (DXT1)
+[2014.12.03-18.37.17:983][470]LogTexture:Display: Building textures: HQ_Lightmap0_69 (AutoDXT)
+[2014.12.03-18.37.18:007][470]LogTexture:Display: Building textures: LQ_Lightmap_0_68 (DXT1)
+[2014.12.03-18.37.18:013][470]LogTexture:Display: Building textures: HQ_Lightmap0_68 (AutoDXT)
+[2014.12.03-18.37.18:022][470]LogTexture:Display: Building textures: LQ_Lightmap_0_67 (DXT1)
+[2014.12.03-18.37.18:030][470]LogTexture:Display: Building textures: HQ_Lightmap0_67 (AutoDXT)
+[2014.12.03-18.37.18:043][470]LogTexture:Display: Building textures: LQ_Lightmap_1_66 (DXT1)
+[2014.12.03-18.37.18:048][470]LogTexture:Display: Building textures: HQ_Lightmap1_66 (AutoDXT)
+[2014.12.03-18.37.18:058][470]LogTexture:Display: Building textures: LQ_Lightmap_0_65 (DXT1)
+[2014.12.03-18.37.18:070][470]LogTexture:Display: Building textures: HQ_Lightmap0_65 (AutoDXT)
+[2014.12.03-18.37.18:088][470]LogTexture:Display: Building textures: LQ_Lightmap_0_64 (DXT1)
+[2014.12.03-18.37.18:100][470]LogTexture:Display: Building textures: HQ_Lightmap0_64 (AutoDXT)
+[2014.12.03-18.37.18:116][470]LogTexture:Display: Building textures: LQ_Lightmap_0_63 (DXT1)
+[2014.12.03-18.37.18:129][470]LogTexture:Display: Building textures: HQ_Lightmap0_63 (AutoDXT)
+[2014.12.03-18.37.18:147][470]LogTexture:Display: Building textures: LQ_Lightmap_0_62 (DXT1)
+[2014.12.03-18.37.18:161][470]LogTexture:Display: Building textures: HQ_Lightmap0_62 (AutoDXT)
+[2014.12.03-18.37.18:178][470]LogTexture:Display: Building textures: LQ_Lightmap_0_61 (DXT1)
+[2014.12.03-18.37.18:192][470]LogTexture:Display: Building textures: HQ_Lightmap0_61 (AutoDXT)
+[2014.12.03-18.37.18:208][470]LogTexture:Display: Building textures: LQ_Lightmap_0_60 (DXT1)
+[2014.12.03-18.37.18:221][470]LogTexture:Display: Building textures: HQ_Lightmap0_60 (AutoDXT)
+[2014.12.03-18.37.18:234][470]LogTexture:Display: Building textures: LQ_Lightmap_0_59 (DXT1)
+[2014.12.03-18.37.18:247][470]LogTexture:Display: Building textures: HQ_Lightmap0_59 (AutoDXT)
+[2014.12.03-18.37.18:261][470]LogTexture:Display: Building textures: LQ_Lightmap_0_58 (DXT1)
+[2014.12.03-18.37.18:278][470]LogTexture:Display: Building textures: HQ_Lightmap0_58 (AutoDXT)
+[2014.12.03-18.37.18:299][470]LogTexture:Display: Building textures: LQ_Lightmap_0_57 (DXT1)
+[2014.12.03-18.37.18:311][470]LogTexture:Display: Building textures: HQ_Lightmap0_57 (AutoDXT)
+[2014.12.03-18.37.18:324][470]LogTexture:Display: Building textures: LQ_Lightmap_0_56 (DXT1)
+[2014.12.03-18.37.18:336][470]LogTexture:Display: Building textures: HQ_Lightmap0_56 (AutoDXT)
+[2014.12.03-18.37.18:351][470]LogTexture:Display: Building textures: LQ_Lightmap_0_55 (DXT1)
+[2014.12.03-18.37.18:362][470]LogTexture:Display: Building textures: HQ_Lightmap0_55 (AutoDXT)
+[2014.12.03-18.37.18:378][470]LogTexture:Display: Building textures: LQ_Lightmap_0_54 (DXT1)
+[2014.12.03-18.37.18:391][470]LogTexture:Display: Building textures: HQ_Lightmap0_54 (AutoDXT)
+[2014.12.03-18.37.18:406][470]LogTexture:Display: Building textures: LQ_Lightmap_0_53 (DXT1)
+[2014.12.03-18.37.18:424][470]LogTexture:Display: Building textures: HQ_Lightmap0_53 (AutoDXT)
+[2014.12.03-18.37.18:441][470]LogTexture:Display: Building textures: LQ_Lightmap_0_52 (DXT1)
+[2014.12.03-18.37.18:454][470]LogTexture:Display: Building textures: HQ_Lightmap0_52 (AutoDXT)
+[2014.12.03-18.37.18:470][470]LogTexture:Display: Building textures: LQ_Lightmap_0_51 (DXT1)
+[2014.12.03-18.37.18:485][470]LogTexture:Display: Building textures: HQ_Lightmap0_51 (AutoDXT)
+[2014.12.03-18.37.18:501][470]LogTexture:Display: Building textures: LQ_Lightmap_0_50 (DXT1)
+[2014.12.03-18.37.18:515][470]LogTexture:Display: Building textures: HQ_Lightmap0_50 (AutoDXT)
+[2014.12.03-18.37.18:531][470]LogTexture:Display: Building textures: LQ_Lightmap_0_49 (DXT1)
+[2014.12.03-18.37.18:545][470]LogTexture:Display: Building textures: HQ_Lightmap0_49 (AutoDXT)
+[2014.12.03-18.37.18:563][470]LogTexture:Display: Building textures: LQ_Lightmap_0_48 (DXT1)
+[2014.12.03-18.37.18:579][470]LogTexture:Display: Building textures: HQ_Lightmap0_48 (AutoDXT)
+[2014.12.03-18.37.18:593][470]LogTexture:Display: Building textures: LQ_Lightmap_0_47 (DXT1)
+[2014.12.03-18.37.18:609][470]LogTexture:Display: Building textures: HQ_Lightmap0_47 (AutoDXT)
+[2014.12.03-18.37.18:626][470]LogTexture:Display: Building textures: LQ_Lightmap_0_46 (DXT1)
+[2014.12.03-18.37.18:645][470]LogTexture:Display: Building textures: HQ_Lightmap0_46 (AutoDXT)
+[2014.12.03-18.37.18:662][470]LogTexture:Display: Building textures: LQ_Lightmap_0_45 (DXT1)
+[2014.12.03-18.37.18:674][470]LogTexture:Display: Building textures: HQ_Lightmap0_45 (AutoDXT)
+[2014.12.03-18.37.18:690][470]LogTexture:Display: Building textures: LQ_Lightmap_0_44 (DXT1)
+[2014.12.03-18.37.18:707][470]LogTexture:Display: Building textures: HQ_Lightmap0_44 (AutoDXT)
+[2014.12.03-18.37.18:722][470]LogTexture:Display: Building textures: LQ_Lightmap_0_43 (DXT1)
+[2014.12.03-18.37.18:735][470]LogTexture:Display: Building textures: HQ_Lightmap0_43 (AutoDXT)
+[2014.12.03-18.37.18:755][470]LogTexture:Display: Building textures: LQ_Lightmap_0_42 (DXT1)
+[2014.12.03-18.37.18:769][470]LogTexture:Display: Building textures: HQ_Lightmap0_42 (AutoDXT)
+[2014.12.03-18.37.18:785][470]LogTexture:Display: Building textures: LQ_Lightmap_0_41 (DXT1)
+[2014.12.03-18.37.18:800][470]LogTexture:Display: Building textures: HQ_Lightmap0_41 (AutoDXT)
+[2014.12.03-18.37.18:817][470]LogTexture:Display: Building textures: LQ_Lightmap_0_40 (DXT1)
+[2014.12.03-18.37.18:835][470]LogTexture:Display: Building textures: HQ_Lightmap0_40 (AutoDXT)
+[2014.12.03-18.37.18:853][470]LogTexture:Display: Building textures: LQ_Lightmap_0_39 (DXT1)
+[2014.12.03-18.37.18:871][470]LogTexture:Display: Building textures: HQ_Lightmap0_39 (AutoDXT)
+[2014.12.03-18.37.18:892][470]LogTexture:Display: Building textures: LQ_Lightmap_0_38 (DXT1)
+[2014.12.03-18.37.18:908][470]LogTexture:Display: Building textures: HQ_Lightmap0_38 (AutoDXT)
+[2014.12.03-18.37.18:925][470]LogTexture:Display: Building textures: LQ_Lightmap_0_37 (DXT1)
+[2014.12.03-18.37.18:937][470]LogTexture:Display: Building textures: HQ_Lightmap0_37 (AutoDXT)
+[2014.12.03-18.37.18:954][470]LogTexture:Display: Building textures: LQ_Lightmap_0_36 (DXT1)
+[2014.12.03-18.37.18:969][470]LogTexture:Display: Building textures: HQ_Lightmap0_36 (AutoDXT)
+[2014.12.03-18.37.18:984][470]LogTexture:Display: Building textures: LQ_Lightmap_0_35 (DXT1)
+[2014.12.03-18.37.18:998][470]LogTexture:Display: Building textures: HQ_Lightmap0_35 (AutoDXT)
+[2014.12.03-18.37.19:014][470]LogTexture:Display: Building textures: LQ_Lightmap_0_34 (DXT1)
+[2014.12.03-18.37.19:028][470]LogTexture:Display: Building textures: HQ_Lightmap0_34 (AutoDXT)
+[2014.12.03-18.37.19:043][470]LogTexture:Display: Building textures: LQ_Lightmap_0_33 (DXT1)
+[2014.12.03-18.37.19:057][470]LogTexture:Display: Building textures: HQ_Lightmap0_33 (AutoDXT)
+[2014.12.03-18.37.19:072][470]LogTexture:Display: Building textures: LQ_Lightmap_0_32 (DXT1)
+[2014.12.03-18.37.19:090][470]LogTexture:Display: Building textures: HQ_Lightmap0_32 (AutoDXT)
+[2014.12.03-18.37.19:121][470]LogTexture:Display: Building textures: LQ_Lightmap_0_31 (DXT1)
+[2014.12.03-18.37.19:142][470]LogTexture:Display: Building textures: HQ_Lightmap0_31 (AutoDXT)
+[2014.12.03-18.37.19:175][470]LogTexture:Display: Building textures: LQ_Lightmap_0_30 (DXT1)
+[2014.12.03-18.37.19:193][470]LogTexture:Display: Building textures: HQ_Lightmap0_30 (AutoDXT)
+[2014.12.03-18.37.19:214][470]LogTexture:Display: Building textures: LQ_Lightmap_0_29 (DXT1)
+[2014.12.03-18.37.19:229][470]LogTexture:Display: Building textures: HQ_Lightmap0_29 (AutoDXT)
+[2014.12.03-18.37.19:245][470]LogTexture:Display: Building textures: LQ_Lightmap_0_28 (DXT1)
+[2014.12.03-18.37.19:259][470]LogTexture:Display: Building textures: HQ_Lightmap0_28 (AutoDXT)
+[2014.12.03-18.37.19:274][470]LogTexture:Display: Building textures: LQ_Lightmap_0_27 (DXT1)
+[2014.12.03-18.37.19:287][470]LogTexture:Display: Building textures: HQ_Lightmap0_27 (AutoDXT)
+[2014.12.03-18.37.19:303][470]LogTexture:Display: Building textures: LQ_Lightmap_0_26 (DXT1)
+[2014.12.03-18.37.19:317][470]LogTexture:Display: Building textures: HQ_Lightmap0_26 (AutoDXT)
+[2014.12.03-18.37.19:332][470]LogTexture:Display: Building textures: LQ_Lightmap_0_25 (DXT1)
+[2014.12.03-18.37.19:346][470]LogTexture:Display: Building textures: HQ_Lightmap0_25 (AutoDXT)
+[2014.12.03-18.37.19:363][470]LogTexture:Display: Building textures: LQ_Lightmap_0_24 (DXT1)
+[2014.12.03-18.37.19:378][470]LogTexture:Display: Building textures: HQ_Lightmap0_24 (AutoDXT)
+[2014.12.03-18.37.19:394][470]LogTexture:Display: Building textures: LQ_Lightmap_0_23 (DXT1)
+[2014.12.03-18.37.19:409][470]LogTexture:Display: Building textures: HQ_Lightmap0_23 (AutoDXT)
+[2014.12.03-18.37.19:430][470]LogTexture:Display: Building textures: LQ_Lightmap_0_22 (DXT1)
+[2014.12.03-18.37.19:448][470]LogTexture:Display: Building textures: HQ_Lightmap0_22 (AutoDXT)
+[2014.12.03-18.37.19:469][470]LogTexture:Display: Building textures: LQ_Lightmap_0_21 (DXT1)
+[2014.12.03-18.37.19:487][470]LogTexture:Display: Building textures: HQ_Lightmap0_21 (AutoDXT)
+[2014.12.03-18.37.19:507][470]LogTexture:Display: Building textures: LQ_Lightmap_0_20 (DXT1)
+[2014.12.03-18.37.19:523][470]LogTexture:Display: Building textures: HQ_Lightmap0_20 (AutoDXT)
+[2014.12.03-18.37.19:539][470]LogTexture:Display: Building textures: LQ_Lightmap_0_19 (DXT1)
+[2014.12.03-18.37.19:552][470]LogTexture:Display: Building textures: HQ_Lightmap0_19 (AutoDXT)
+[2014.12.03-18.37.19:572][470]LogTexture:Display: Building textures: LQ_Lightmap_0_18 (DXT1)
+[2014.12.03-18.37.19:587][470]LogTexture:Display: Building textures: HQ_Lightmap0_18 (AutoDXT)
+[2014.12.03-18.37.19:602][470]LogTexture:Display: Building textures: LQ_Lightmap_0_17 (DXT1)
+[2014.12.03-18.37.19:619][470]LogTexture:Display: Building textures: HQ_Lightmap0_17 (AutoDXT)
+[2014.12.03-18.37.19:636][470]LogTexture:Display: Building textures: LQ_Lightmap_0_16 (DXT1)
+[2014.12.03-18.37.19:650][470]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT)
+[2014.12.03-18.37.19:668][470]LogTexture:Display: Building textures: LQ_Lightmap_0_15 (DXT1)
+[2014.12.03-18.37.19:683][470]LogTexture:Display: Building textures: HQ_Lightmap0_15 (AutoDXT)
+[2014.12.03-18.37.19:703][470]LogTexture:Display: Building textures: LQ_Lightmap_0_14 (DXT1)
+[2014.12.03-18.37.19:723][470]LogTexture:Display: Building textures: HQ_Lightmap0_14 (AutoDXT)
+[2014.12.03-18.37.19:740][470]LogTexture:Display: Building textures: LQ_Lightmap_0_13 (DXT1)
+[2014.12.03-18.37.19:754][470]LogTexture:Display: Building textures: HQ_Lightmap0_13 (AutoDXT)
+[2014.12.03-18.37.19:770][470]LogTexture:Display: Building textures: LQ_Lightmap_0_12 (DXT1)
+[2014.12.03-18.37.19:788][470]LogTexture:Display: Building textures: HQ_Lightmap0_12 (AutoDXT)
+[2014.12.03-18.37.19:803][470]LogTexture:Display: Building textures: LQ_Lightmap_0_11 (DXT1)
+[2014.12.03-18.37.19:817][470]LogTexture:Display: Building textures: HQ_Lightmap0_11 (AutoDXT)
+[2014.12.03-18.37.19:833][470]LogTexture:Display: Building textures: LQ_Lightmap_0_10 (DXT1)
+[2014.12.03-18.37.19:848][470]LogTexture:Display: Building textures: HQ_Lightmap0_10 (AutoDXT)
+[2014.12.03-18.37.19:864][470]LogTexture:Display: Building textures: LQ_Lightmap_0_9 (DXT1)
+[2014.12.03-18.37.19:879][470]LogTexture:Display: Building textures: HQ_Lightmap0_9 (AutoDXT)
+[2014.12.03-18.37.19:896][470]LogTexture:Display: Building textures: LQ_Lightmap_0_8 (DXT1)
+[2014.12.03-18.37.19:909][470]LogTexture:Display: Building textures: HQ_Lightmap0_8 (AutoDXT)
+[2014.12.03-18.37.19:926][470]LogTexture:Display: Building textures: LQ_Lightmap_0_7 (DXT1)
+[2014.12.03-18.37.19:939][470]LogTexture:Display: Building textures: HQ_Lightmap0_7 (AutoDXT)
+[2014.12.03-18.37.19:956][470]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
+[2014.12.03-18.37.19:972][470]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2014.12.03-18.37.19:990][470]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2014.12.03-18.37.20:009][470]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2014.12.03-18.37.20:025][470]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2014.12.03-18.37.20:043][470]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2014.12.03-18.37.20:060][470]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2014.12.03-18.37.20:076][470]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2014.12.03-18.37.20:091][470]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2014.12.03-18.37.20:106][470]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2014.12.03-18.37.20:122][470]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2014.12.03-18.37.20:132][470]LogTexture:Display: Building textures: ShadowMapTexture2D_70 (BGRA8)
+[2014.12.03-18.37.20:136][470]LogTexture:Display: Building textures: ShadowMapTexture2D_71 (BGRA8)
+[2014.12.03-18.37.20:141][470]LogTexture:Display: Building textures: ShadowMapTexture2D_72 (BGRA8)
+[2014.12.03-18.37.20:147][470]LogTexture:Display: Building textures: ShadowMapTexture2D_73 (BGRA8)
+[2014.12.03-18.37.20:151][470]LogTexture:Display: Building textures: ShadowMapTexture2D_74 (BGRA8)
+[2014.12.03-18.37.20:156][470]LogTexture:Display: Building textures: ShadowMapTexture2D_75 (BGRA8)
+[2014.12.03-18.37.20:161][470]LogTexture:Display: Building textures: ShadowMapTexture2D_76 (BGRA8)
+[2014.12.03-18.37.20:164][470]LogTexture:Display: Building textures: ShadowMapTexture2D_77 (BGRA8)
+[2014.12.03-18.37.20:168][470]LogTexture:Display: Building textures: ShadowMapTexture2D_78 (BGRA8)
+[2014.12.03-18.37.20:174][470]LogTexture:Display: Building textures: ShadowMapTexture2D_79 (BGRA8)
+[2014.12.03-18.37.20:179][470]LogTexture:Display: Building textures: ShadowMapTexture2D_80 (BGRA8)
+[2014.12.03-18.37.20:183][470]LogTexture:Display: Building textures: ShadowMapTexture2D_81 (BGRA8)
+[2014.12.03-18.37.20:188][470]LogTexture:Display: Building textures: ShadowMapTexture2D_82 (BGRA8)
+[2014.12.03-18.37.20:192][470]LogTexture:Display: Building textures: ShadowMapTexture2D_83 (BGRA8)
+[2014.12.03-18.37.20:197][470]LogTexture:Display: Building textures: ShadowMapTexture2D_84 (BGRA8)
+[2014.12.03-18.37.20:201][470]LogTexture:Display: Building textures: ShadowMapTexture2D_85 (BGRA8)
+[2014.12.03-18.37.20:205][470]LogTexture:Display: Building textures: ShadowMapTexture2D_86 (BGRA8)
+[2014.12.03-18.37.20:210][470]LogTexture:Display: Building textures: ShadowMapTexture2D_87 (BGRA8)
+[2014.12.03-18.37.20:215][470]LogTexture:Display: Building textures: ShadowMapTexture2D_88 (BGRA8)
+[2014.12.03-18.37.20:220][470]LogTexture:Display: Building textures: ShadowMapTexture2D_89 (BGRA8)
+[2014.12.03-18.37.20:228][470]LogTexture:Display: Building textures: ShadowMapTexture2D_90 (BGRA8)
+[2014.12.03-18.37.20:233][470]LogTexture:Display: Building textures: ShadowMapTexture2D_91 (BGRA8)
+[2014.12.03-18.37.20:248][470]LogTexture:Display: Building textures: ShadowMapTexture2D_92 (BGRA8)
+[2014.12.03-18.37.20:253][470]LogTexture:Display: Building textures: ShadowMapTexture2D_93 (BGRA8)
+[2014.12.03-18.37.20:261][470]LogTexture:Display: Building textures: ShadowMapTexture2D_94 (BGRA8)
+[2014.12.03-18.37.20:267][470]LogTexture:Display: Building textures: ShadowMapTexture2D_95 (BGRA8)
+[2014.12.03-18.37.20:272][470]LogTexture:Display: Building textures: ShadowMapTexture2D_96 (BGRA8)
+[2014.12.03-18.37.20:278][470]LogTexture:Display: Building textures: ShadowMapTexture2D_97 (BGRA8)
+[2014.12.03-18.37.20:282][470]LogTexture:Display: Building textures: ShadowMapTexture2D_98 (BGRA8)
+[2014.12.03-18.37.20:286][470]LogTexture:Display: Building textures: ShadowMapTexture2D_99 (BGRA8)
+[2014.12.03-18.37.20:297][470]LogTexture:Display: Building textures: ShadowMapTexture2D_100 (BGRA8)
+[2014.12.03-18.37.20:307][470]LogTexture:Display: Building textures: ShadowMapTexture2D_101 (BGRA8)
+[2014.12.03-18.37.20:314][470]LogTexture:Display: Building textures: ShadowMapTexture2D_102 (BGRA8)
+[2014.12.03-18.37.20:318][470]LogTexture:Display: Building textures: ShadowMapTexture2D_103 (BGRA8)
+[2014.12.03-18.37.20:324][470]LogTexture:Display: Building textures: ShadowMapTexture2D_104 (BGRA8)
+[2014.12.03-18.37.20:328][470]LogTexture:Display: Building textures: ShadowMapTexture2D_105 (BGRA8)
+[2014.12.03-18.37.20:332][470]LogTexture:Display: Building textures: ShadowMapTexture2D_106 (BGRA8)
+[2014.12.03-18.37.20:338][470]LogTexture:Display: Building textures: ShadowMapTexture2D_107 (BGRA8)
+[2014.12.03-18.37.20:343][470]LogTexture:Display: Building textures: ShadowMapTexture2D_108 (BGRA8)
+[2014.12.03-18.37.20:349][470]LogTexture:Display: Building textures: ShadowMapTexture2D_109 (BGRA8)
+[2014.12.03-18.37.20:355][470]LogTexture:Display: Building textures: ShadowMapTexture2D_110 (BGRA8)
+[2014.12.03-18.37.20:360][470]LogTexture:Display: Building textures: ShadowMapTexture2D_111 (BGRA8)
+[2014.12.03-18.37.20:364][470]LogTexture:Display: Building textures: ShadowMapTexture2D_112 (BGRA8)
+[2014.12.03-18.37.20:369][470]LogTexture:Display: Building textures: ShadowMapTexture2D_113 (BGRA8)
+[2014.12.03-18.37.20:373][470]LogTexture:Display: Building textures: ShadowMapTexture2D_114 (BGRA8)
+[2014.12.03-18.37.20:378][470]LogTexture:Display: Building textures: ShadowMapTexture2D_115 (BGRA8)
+[2014.12.03-18.37.20:383][470]LogTexture:Display: Building textures: ShadowMapTexture2D_116 (BGRA8)
+[2014.12.03-18.37.20:387][470]LogTexture:Display: Building textures: ShadowMapTexture2D_117 (BGRA8)
+[2014.12.03-18.37.20:392][470]LogTexture:Display: Building textures: ShadowMapTexture2D_118 (BGRA8)
+[2014.12.03-18.37.20:396][470]LogTexture:Display: Building textures: ShadowMapTexture2D_119 (BGRA8)
+[2014.12.03-18.37.20:402][470]LogTexture:Display: Building textures: ShadowMapTexture2D_120 (BGRA8)
+[2014.12.03-18.37.20:406][470]LogTexture:Display: Building textures: ShadowMapTexture2D_121 (BGRA8)
+[2014.12.03-18.37.20:410][470]LogTexture:Display: Building textures: ShadowMapTexture2D_122 (BGRA8)
+[2014.12.03-18.37.20:416][470]LogTexture:Display: Building textures: ShadowMapTexture2D_123 (BGRA8)
+[2014.12.03-18.37.20:421][470]LogTexture:Display: Building textures: ShadowMapTexture2D_124 (BGRA8)
+[2014.12.03-18.37.20:425][470]LogTexture:Display: Building textures: ShadowMapTexture2D_125 (BGRA8)
+[2014.12.03-18.37.20:429][470]LogTexture:Display: Building textures: ShadowMapTexture2D_126 (BGRA8)
+[2014.12.03-18.37.20:433][470]LogTexture:Display: Building textures: ShadowMapTexture2D_127 (BGRA8)
+[2014.12.03-18.37.20:438][470]LogTexture:Display: Building textures: ShadowMapTexture2D_128 (BGRA8)
+[2014.12.03-18.37.20:444][470]LogTexture:Display: Building textures: ShadowMapTexture2D_131 (BGRA8)
+[2014.12.03-18.37.20:451][470]LogTexture:Display: Building textures: ShadowMapTexture2D_132 (BGRA8)
+[2014.12.03-18.37.20:456][470]LogTexture:Display: Building textures: ShadowMapTexture2D_133 (BGRA8)
+[2014.12.03-18.37.20:461][470]LogTexture:Display: Building textures: ShadowMapTexture2D_134 (BGRA8)
+[2014.12.03-18.37.20:465][470]LogTexture:Display: Building textures: ShadowMapTexture2D_135 (BGRA8)
+[2014.12.03-18.37.20:471][470]LogTexture:Display: Building textures: ShadowMapTexture2D_136 (BGRA8)
+[2014.12.03-18.37.20:477][470]LogTexture:Display: Building textures: ShadowMapTexture2D_137 (BGRA8)
+[2014.12.03-18.37.20:482][470]LogTexture:Display: Building textures: ShadowMapTexture2D_138 (BGRA8)
+[2014.12.03-18.37.20:487][470]LogTexture:Display: Building textures: ShadowMapTexture2D_139 (BGRA8)
+[2014.12.03-18.37.20:501][470]LogTexture:Display: Building textures: ShadowMapTexture2D_140 (BGRA8)
+[2014.12.03-18.37.20:507][470]LogTexture:Display: Building textures: ShadowMapTexture2D_141 (BGRA8)
+[2014.12.03-18.37.20:511][470]LogTexture:Display: Building textures: ShadowMapTexture2D_142 (BGRA8)
+[2014.12.03-18.37.20:516][470]LogTexture:Display: Building textures: ShadowMapTexture2D_143 (BGRA8)
+[2014.12.03-18.37.20:519][470]LogTexture:Display: Building textures: ShadowMapTexture2D_144 (BGRA8)
+[2014.12.03-18.37.20:535][470]Lightmass on SA2411-PC34: 14.8 sec total, 474 ms importing, 914 ms setup, 1.26 sec photons, 12.1 sec processing, 0 ms extra exporting [91/91 mappings]. Threads: 1:24 min total, 50.5 sec processing.
+[2014.12.03-18.37.20:602][470]LogStaticLightingSystem:Warning: Illumination: 23.6 sec (3.00 sec encoding lightmaps)
+[2014.12.03-18.37.20:602][470]LogStaticLightingSystem: Lightmap texture memory:  1.8 MB (1.8 MB streaming, 0.0 MB non-streaming), 146 textures
+[2014.12.03-18.37.20:602][470]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 143 textures
+[2014.12.03-18.37.21:576][471]Cmd: UpdateLandscapeEditorData
+[2014.12.03-18.37.21:576][471]Cmd: MAP CHECK NOTIFYRESULTS
+[2014.12.03-18.37.21:576][471]MapCheck: New page: MainLevel - Dec 3, 2014, 8:37:21 AM
+[2014.12.03-18.37.21:725][471]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 148.535ms to complete.
+[2014.12.03-18.38.34:321][ 56]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent'
+[2014.12.03-18.38.36:650][151]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-18.38.38:260][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_94) Not registered. Aborting.
+[2014.12.03-18.38.38:260][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_16) Not registered. Aborting.
+[2014.12.03-18.38.42:473][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-18.38.42:636][219]LogSavePackage: Save=102.193192ms
+[2014.12.03-18.38.42:636][219]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level1B8A7D218449F5B2EC508ED8B493A8BC1.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap'
+[2014.12.03-18.38.42:641][219]LogFileHelpers: Saving map 'Level1' took 0.294
+[2014.12.03-18.38.42:766][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-18.38.43:384][219]LogSavePackage: Save=551.971008ms
+[2014.12.03-18.38.43:384][219]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainLevel74A2D256493A8E0A2F385088A1AEAC30.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap'
+[2014.12.03-18.38.43:468][219]LogFileHelpers: Saving map 'MainLevel' took 0.827
+[2014.12.03-18.38.43:472][219]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-18.38.43:472][219]LightingResults: New page: Lighting Build
+[2014.12.03-18.38.43:516][219]LoadErrors: New page: Loading map: MainLevel.umap
+[2014.12.03-18.38.43:525][219]MapCheck: New page: Map Check
+[2014.12.03-18.38.43:525][219]LightingResults: New page: Lighting Build
+[2014.12.03-18.38.43:574][219]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003D322200
+[2014.12.03-18.38.44:093][219]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-18.38.44:096][219]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.38.44:163][219]Cmd: MAP CHECKDEP
+[2014.12.03-18.38.44:163][219]MapCheck: New page: MainLevel - Dec 3, 2014, 8:38:44 AM
+[2014.12.03-18.38.44:285][219]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 122.701ms to complete.
+[2014.12.03-18.38.44:285][219]LogFileHelpers: Loading map 'MainLevel' took 0.815
+[2014.12.03-18.38.44:317][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_319
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.38.44:317][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_337
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.38.44:318][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_260:CubeAnimSword_C_320
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.38.44:318][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_261:AxeAnim_C_338
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.38.44:355][220]Cmd: UpdateLandscapeEditorData
+[2014.12.03-18.38.44:356][220]Cmd: UpdateLandscapeEditorData -warnings
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.07:494][815]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.12:374][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (column_7)
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.39.16:886][ 53]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.05:843][209]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.08:551][266]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.17:864][471]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.40.43:405][130]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.41.23:343][557]BlueprintLog: New page: Compile MainLevel
+[2014.12.03-18.41.23:467][557]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_95) Not registered. Aborting.
+[2014.12.03-18.41.23:557][557]BlueprintEditorCompileResults: Info [0137.31] Compile of MainLevel successful! [in 17 ms]
+[2014.12.03-18.41.27:593][687]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-18.41.27:593][687]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-18.41.27:732][687]LogPlayLevel: [PIE] Compiling MainLevel before PIE...
+[2014.12.03-18.41.27:899][687]LogPlayLevel: PIE:  Blueprint regeneration took 306 ms (2 blueprints)
+[2014.12.03-18.41.27:900][687]PIE: New page: SIE session: MainLevel (Dec 3, 2014, 8:41:27 AM)
+[2014.12.03-18.41.27:960][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060136s)
+[2014.12.03-18.41.27:960][687]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2014.12.03-18.41.27:961][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.060832s)
+[2014.12.03-18.41.27:961][687]LogSelection:Warning: PIE object was selected: "StaticMeshActor /Game/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.column_7"
+[2014.12.03-18.41.27:988][687]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-18.41.27:990][687]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.41.28:005][687]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-18.41.28:005][687]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2014.12.03-13.41.28
+[2014.12.03-18.41.28:006][687]LogWorld: Bringing up level for play took: 0.015815
+[2014.12.03-18.41.28:007][687]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainLevel 0.367
+[2014.12.03-18.41.28:027][687]LogSelection:Warning: PIE object was selected: "StaticMeshActor /Game/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.column_7"
+[2014.12.03-18.41.30:800][775]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.30:976][782]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.31:128][788]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.31:306][795]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.31:488][802]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.31:644][808]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.31:800][814]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.31:956][820]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.32:138][827]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.32:321][834]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.32:502][841]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.32:657][847]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.32:888][856]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.35:006][938]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.35:006][938]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.35:317][950]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.35:317][950]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.35:395][953]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.35:395][953]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.35:706][965]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.35:706][965]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.36:170][982]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.36:170][982]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.46:954][377]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.46:954][377]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.47:264][389]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.47:264][389]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.47:342][392]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.47:343][392]LogBlueprintUserMessages: did damage
+[2014.12.03-18.41.47:651][404]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.47:651][404]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.48:113][422]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.48:113][422]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.48:367][432]LogBlueprintUserMessages: Hello
+[2014.12.03-18.41.54:874][686]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.55:027][692]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.55:179][698]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.55:358][705]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.55:509][711]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.55:661][717]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.55:789][722]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.55:942][728]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.56:094][734]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.56:270][741]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.56:421][747]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.56:575][753]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.41.56:754][760]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.42.23:043][792]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000B7348360
+[2014.12.03-18.42.24:900][848]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.03-18.43.23:746][ 95]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_265:CubeAnimSword_C_325
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.43.23:746][ 95]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_266:AxeAnim_C_343
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.43.33:557][426]BlueprintLog: New page: Compile MainLevel
+[2014.12.03-18.43.33:671][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_96) Not registered. Aborting.
+[2014.12.03-18.43.33:671][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_17) Not registered. Aborting.
+[2014.12.03-18.43.33:671][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_97) Not registered. Aborting.
+[2014.12.03-18.43.33:752][426]BlueprintEditorCompileResults: Info [0267.51] Compile of MainLevel successful! [in 16 ms]
+[2014.12.03-18.43.43:898][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-18.43.44:555][691]LogSavePackage: Save=584.341736ms
+[2014.12.03-18.43.44:555][691]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainLevelCF16433043A43A76C9ED6796674B98BA.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap'
+[2014.12.03-18.43.44:627][691]LogFileHelpers: Saving map 'MainLevel' took 0.853
+[2014.12.03-18.43.44:630][691]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_267:CubeAnimSword_C_326
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.43.44:630][691]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_268:AxeAnim_C_344
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.43.44:642][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubes/EnemyCubeAxe" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset" SILENT=true
+[2014.12.03-18.43.44:930][691]LogSavePackage: Save=272.329071ms
+[2014.12.03-18.43.44:930][691]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/EnemyCubeAxe2D444C444403957CF34CD0820BB9CF51.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset'
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.27:601][777]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:186][559]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_98) Not registered. Aborting.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:244][559]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.44.44:261][559]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_269:CubeAnimSword_C_327
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.44.44:261][559]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_270:AxeAnim_C_345
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.44.44:274][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubes/EnemyCubeAxe" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset" SILENT=true
+[2014.12.03-18.44.44:557][559]LogSavePackage: Save=269.945801ms
+[2014.12.03-18.44.44:557][559]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/EnemyCubeAxe7ED5122247C7EE2F2A297386D7B92BC0.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset'
+[2014.12.03-18.44.53:962][ 17]BlueprintLog: New page: Compile EnemyCubeAxe
+[2014.12.03-18.44.54:085][ 17]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_99) Not registered. Aborting.
+[2014.12.03-18.44.54:255][ 17]BlueprintEditorCompileResults: Info [0347.93] Compile of EnemyCubeAxe successful! [in 56 ms]
+[2014.12.03-18.44.54:261][ 17]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_271:CubeAnimSword_C_328
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.44.54:261][ 17]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_272:AxeAnim_C_346
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:101][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.35:129][338]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.45.41:667][521]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.46.32:478][257]BlueprintLog: New page: Compile MainLevel
+[2014.12.03-18.46.32:591][257]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_100) Not registered. Aborting.
+[2014.12.03-18.46.32:694][257]BlueprintEditorCompileResults: Info [0446.42] Compile of MainLevel successful! [in 16 ms]
+[2014.12.03-18.46.41:114][661]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.46.41:272][661]BlueprintEditorCompileResults: Info [0455.01] Compile of MyGoal successful! [in 5 ms]
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:429][407]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.47.13:543][413]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.47.13:738][413]BlueprintEditorCompileResults: Info [0487.44] Compile of MyGoal successful! [in 3 ms]
+[2014.12.03-18.47.14:340][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-18.47.14:373][436]LogSavePackage: Save=17.353516ms
+[2014.12.03-18.47.14:373][436]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoalF9DC3BAB4EBBF76A58E2888E09424EFF.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-18.47.22:321][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-18.47.23:009][800]LogSavePackage: Save=606.148193ms
+[2014.12.03-18.47.23:009][800]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainLevelFCAD9CD642FDF99F19D5B48C3DB7B80D.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap'
+[2014.12.03-18.48.00:614][275]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_273:CubeAnimSword_C_329
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.48.00:614][275]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_274:AxeAnim_C_347
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.48.00:626][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubes/EnemyCubeAxe" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset" SILENT=true
+[2014.12.03-18.48.00:907][275]LogSavePackage: Save=267.745422ms
+[2014.12.03-18.48.00:907][275]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/EnemyCubeAxe0C8AFFD1450FD7F55E5C84AE6872CEDB.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset'
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:794][271]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.49.24:883][275]BlueprintLog: New page: Compile MainMenu
+[2014.12.03-18.49.24:961][275]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_101) Not registered. Aborting.
+[2014.12.03-18.49.24:961][275]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_102) Not registered. Aborting.
+[2014.12.03-18.49.24:961][275]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_18) Not registered. Aborting.
+[2014.12.03-18.49.25:050][275]BlueprintEditorCompileResults: Info [0618.77] Compile of MainMenu successful! [in 2 ms]
+[2014.12.03-18.49.25:687][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2014.12.03-18.49.25:718][299]LogSavePackage: Save=15.665977ms
+[2014.12.03-18.49.25:718][299]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainMenu925662F34D2BAFEA09A430A2AF6AC666.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MainMenu.uasset'
+[2014.12.03-18.49.51:594][388]BlueprintLog: New page: Compile MainLevel
+[2014.12.03-18.49.51:752][388]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000047332A20
+[2014.12.03-18.49.51:760][388]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007DBE1580
+[2014.12.03-18.49.51:815][388]BlueprintEditorCompileResults: Info [0645.53] Compile of MainLevel successful! [in 16 ms]
+[2014.12.03-18.49.56:090][549]BlueprintLog: New page: Compile SlapHitbox
+[2014.12.03-18.49.56:392][549]BlueprintEditorCompileResults: Info [0649.98] Compile of SlapHitbox successful! [in 15 ms]
+[2014.12.03-18.49.56:396][549]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_278:CubeAnimSword_C_330
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.49.56:396][549]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_279:AxeAnim_C_348
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.50.00:156][771]BlueprintLog: New page: Compile Projectile
+[2014.12.03-18.50.00:218][771]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_103) Not registered. Aborting.
+[2014.12.03-18.50.00:218][771]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_104) Not registered. Aborting.
+[2014.12.03-18.50.00:257][771]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000387F4D60
+[2014.12.03-18.50.00:423][771]BlueprintEditorCompileResults: Info [0654.04] Compile of Projectile successful! [in 4 ms]
+[2014.12.03-18.50.00:428][771]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_283:CubeAnimSword_C_331
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.50.00:428][771]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_284:AxeAnim_C_349
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.50.02:871][917]BlueprintLog: New page: Compile GameOver
+[2014.12.03-18.50.02:934][917]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_105) Not registered. Aborting.
+[2014.12.03-18.50.02:934][917]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_106) Not registered. Aborting.
+[2014.12.03-18.50.02:934][917]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_19) Not registered. Aborting.
+[2014.12.03-18.50.02:971][917]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000DC0DE40
+[2014.12.03-18.50.03:082][917]BlueprintEditorCompileResults: Info [0656.76] Compile of GameOver successful! [in 6 ms]
+[2014.12.03-18.50.27:931][381]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-18.50.32:064][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-18.50.32:172][669]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005D57A0C0
+[2014.12.03-18.50.32:749][669]LogSavePackage: Save=547.913330ms
+[2014.12.03-18.50.32:749][669]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainLevelF9B03D404E474B2336A185A54ACF6A0B.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap'
+[2014.12.03-18.52.04:758][354]BlueprintLog: New page: Compile Succubus
+[2014.12.03-18.52.04:963][354]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000BCA8E8E0
+[2014.12.03-18.52.05:128][354]BlueprintEditorCompileResults: Info [0778.74] Compile of Succubus successful! [in 80 ms]
+[2014.12.03-18.52.05:132][354]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_288:CubeAnimSword_C_332
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.52.05:132][354]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_289:AxeAnim_C_350
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.52.05:683][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Succubus" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Succubus.uasset" SILENT=true
+[2014.12.03-18.52.06:070][388]LogSavePackage: Save=359.852173ms
+[2014.12.03-18.52.06:070][388]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Succubus835C5A3D459075B458D2718B2C3B5380.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Succubus.uasset'
+[2014.12.03-18.52.07:815][470]BlueprintLog: New page: Compile EnemyCubeAxe
+[2014.12.03-18.52.07:932][470]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_107) Not registered. Aborting.
+[2014.12.03-18.52.07:932][470]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_108) Not registered. Aborting.
+[2014.12.03-18.52.07:966][470]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001BA849A0
+[2014.12.03-18.52.08:168][470]BlueprintEditorCompileResults: Info [0781.76] Compile of EnemyCubeAxe successful! [in 59 ms]
+[2014.12.03-18.52.08:172][470]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_293:CubeAnimSword_C_333
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.52.08:172][470]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_294:AxeAnim_C_351
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.52.08:938][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubes/EnemyCubeAxe" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset" SILENT=true
+[2014.12.03-18.52.09:223][496]LogSavePackage: Save=268.510590ms
+[2014.12.03-18.52.09:223][496]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/EnemyCubeAxe5A62A6354B3466CD2ACA4EAAA4B2E6FB.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset'
+[2014.12.03-18.52.12:272][637]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.52.12:334][637]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_109) Not registered. Aborting.
+[2014.12.03-18.52.12:365][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000CCD0AE0
+[2014.12.03-18.52.12:490][637]BlueprintEditorCompileResults: Info [0786.15] Compile of MyGoal successful! [in 2 ms]
+[2014.12.03-18.52.12:996][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-18.52.13:026][660]LogSavePackage: Save=16.915661ms
+[2014.12.03-18.52.13:026][660]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoal0BB4E88D4EEB87644385EAABA0BBF9A8.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-18.52.16:419][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-18.52.16:462][913]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000004156CEA0
+[2014.12.03-18.52.17:026][913]LogSavePackage: Save=546.361694ms
+[2014.12.03-18.52.17:026][913]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainLevel260A29B7497A4EADD33F82ABB68027DD.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap'
+[2014.12.03-18.52.20:697][182]Cmd: QUIT_EDITOR
+[2014.12.03-18.52.20:975][182]LogExit: Preparing to exit.
+[2014.12.03-18.52.21:252][182]LogExit: Editor shut down
+[2014.12.03-18.52.21:252][182]LogExit: Transaction tracking system shut down
+[2014.12.03-18.52.21:253][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001C52E7A0
+[2014.12.03-18.52.21:254][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000121B9440
+[2014.12.03-18.52.21:254][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000121B8EA0
+[2014.12.03-18.52.21:254][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000022601260
+[2014.12.03-18.52.21:254][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000022602480
+[2014.12.03-18.52.21:255][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002D8FE020
+[2014.12.03-18.52.21:257][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000054296340
+[2014.12.03-18.52.21:286][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007EAC2340
+[2014.12.03-18.52.21:286][182]LogExit: Object subsystem successfully closed.
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module SequencerWidgets (168)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module MaterialEditor (167)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (166)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module CrashTracker (165)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module SuperSearch (164)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module SceneOutliner (163)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module EditorWidgets (162)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module CollectionManager (161)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module StatsViewer (160)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module FoliageEdit (159)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module LandscapeEditor (158)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module MeshPaint (157)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module ActorPickerMode (156)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module GeometryMode (155)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module TextureAlignMode (154)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module BspMode (153)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module PlacementMode (152)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module AutomationWorker (151)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module CharacterAI (150)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (149)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module IntroTutorials (148)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (147)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module HardwareTargeting (146)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (145)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (144)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module UndoHistory (143)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (142)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module UserFeedback (141)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module XmlParser (140)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module Blutility (139)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (138)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (137)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (136)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (135)
+[2014.12.03-18.52.21:329][182]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (134)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (133)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module InputBindingEditor (132)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (131)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module SettingsEditor (130)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module ProjectLauncher (129)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module SessionFrontend (128)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module ProfilerClient (127)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (126)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module DeviceManager (125)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module AutomationController (124)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module AutomationWindow (123)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module Layers (122)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (121)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module DetailCustomizations (120)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module PackagesDialog (119)
+[2014.12.03-18.52.21:330][182]LogModuleManager: Shutting down and abandoning module AssetRegistry (118)
+[2014.12.03-18.52.21:390][182]LogModuleManager: Shutting down and abandoning module Persona (117)
+[2014.12.03-18.52.21:390][182]LogModuleManager: Shutting down and abandoning module Kismet (116)
+[2014.12.03-18.52.21:390][182]LogModuleManager: Shutting down and abandoning module GraphEditor (115)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module ClassViewer (114)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module Toolbox (113)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module ModuleUI (112)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module MovieSceneTools (111)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module OutputLog (110)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module GammaUI (109)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module Documentation (108)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (107)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (106)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module HTTP (105)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module AnalyticsET (104)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module Analytics (103)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module GameplayDebugger (102)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module AIModule (101)
+[2014.12.03-18.52.21:391][182]LogModuleManager: Shutting down and abandoning module ProfilerService (100)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module TaskGraph (99)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module SlateRemote (98)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (97)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (96)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module CableComponent (95)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module MessagingDebugger (94)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (93)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (92)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module PluginsEditor (91)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module EpicSurvey (90)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module DesktopPlatform (89)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (88)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module UObjectPlugin (87)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (86)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module SourceControl (85)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (84)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module BlankPlugin (83)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module SlateReflector (82)
+[2014.12.03-18.52.21:484][182]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (81)
+[2014.12.03-18.52.21:485][182]LogModuleManager: Shutting down and abandoning module HotReload (80)
+[2014.12.03-18.52.21:485][182]LogModuleManager: Shutting down and abandoning module MainFrame (79)
+[2014.12.03-18.52.21:485][182]LogModuleManager: Shutting down and abandoning module LevelEditor (78)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module ViewportSnapping (77)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module SmartSnapping (76)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (75)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (74)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module ContentBrowser (73)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module PropertyEditor (72)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module Paper2DEditor (71)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module ScriptPlugin (70)
+[2014.12.03-18.52.21:488][182]LogModuleManager: Shutting down and abandoning module UdpMessaging (69)
+[2014.12.03-18.52.21:588][182]LogModuleManager: Shutting down and abandoning module Paper2D (68)
+[2014.12.03-18.52.21:588][182]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (67)
+[2014.12.03-18.52.21:594][182]LogModuleManager: Shutting down and abandoning module Media (66)
+[2014.12.03-18.52.21:594][182]LogModuleManager: Shutting down and abandoning module WmfMedia (65)
+[2014.12.03-18.52.21:594][182]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2014.12.03-18.52.21:594][182]LogModuleManager: Shutting down and abandoning module FunctionalTesting (63)
+[2014.12.03-18.52.21:594][182]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (62)
+[2014.12.03-18.52.21:594][182]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (61)
+[2014.12.03-18.52.21:595][182]LogModuleManager: Shutting down and abandoning module MessageLog (60)
+[2014.12.03-18.52.21:595][182]LogModuleManager: Shutting down and abandoning module Sequencer (59)
+[2014.12.03-18.52.21:596][182]LogModuleManager: Shutting down and abandoning module AssetTools (58)
+[2014.12.03-18.52.21:596][182]LogModuleManager: Shutting down and abandoning module UMGEditor (57)
+[2014.12.03-18.52.21:596][182]LogModuleManager: Shutting down and abandoning module UMG (56)
+[2014.12.03-18.52.21:596][182]LogModuleManager: Shutting down and abandoning module Slate (55)
+[2014.12.03-18.52.21:596][182]LogModuleManager: Shutting down and abandoning module EditorStyle (54)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module SessionServices (53)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (52)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (51)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module XAudio2 (50)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module Networking (48)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module Core (47)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module KismetCompiler (46)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module PhysXFormats (45)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module MeshUtilities (44)
+[2014.12.03-18.52.21:598][182]LogModuleManager: Shutting down and abandoning module DerivedDataCache (43)
+[2014.12.03-18.52.21:685][182]LogDerivedDataCache: Shutdown
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (42)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (41)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (40)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (39)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (38)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (37)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (36)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (35)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (34)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (33)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module Messaging (32)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (31)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (30)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (29)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (28)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module ImageWrapper (17)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module OculusRift (14)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (13)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module TextureCompressor (12)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module ShaderCore (11)
+[2014.12.03-18.52.21:685][182]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2014.12.03-18.52.21:696][182]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2014.12.03-18.52.21:696][182]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2014.12.03-18.52.21:696][182]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2014.12.03-18.52.21:696][182]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2014.12.03-18.52.21:696][182]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2014.12.03-18.52.21:696][182]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2014.12.03-18.52.21:697][182]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2014.12.03-18.52.21:697][182]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2014.12.03-18.52.21:697][182]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2014.12.03-18.52.21:697][182]LogExit: Exiting.
+[2014.12.03-18.52.21:756][182]Log file closed, 12/03/14 13:52:21
