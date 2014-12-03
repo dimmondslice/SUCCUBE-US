@@ -1,0 +1,1951 @@
+﻿Log file open, 12/02/14 23:41:42
+LogInit:Display: Running engine for game: SUCCUBEUS
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.12.03-04.41.42:050][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.12.03-04.41.42:076][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.12.03-04.41.42:090][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.12.03-04.41.42:098][  0]LogInit: Object subsystem initialized
+[2014.12.03-04.41.42:101][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.12.03-04.41.42:101][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-04.41.42:101][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.12.03-04.41.42:101][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-04.41.42:101][  0]LogInit: Selected Device Profile: [Windows]
+[2014.12.03-04.41.42:101][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.12.03-04.41.42:106][  0]LogInit: Computer: SA2411-PC42
+[2014.12.03-04.41.42:106][  0]LogInit: User: antell
+[2014.12.03-04.41.42:106][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.12.03-04.41.42:106][  0]LogInit: High frequency timer resolution =3.428066 MHz
+[2014.12.03-04.41.42:106][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2014.12.03-04.41.42:106][  0]LogMemory: Platform Memory Stats for Windows
+[2014.12.03-04.41.42:106][  0]LogMemory: Process Physical Memory: 65.24 MB used, 65.24 MB peak
+[2014.12.03-04.41.42:106][  0]LogMemory: Process Virtual Memory: 40.47 MB used, 41.19 MB peak
+[2014.12.03-04.41.42:106][  0]LogMemory: Physical Memory: 3248.96 MB used, 16253.98 MB total
+[2014.12.03-04.41.42:106][  0]LogMemory: Virtual Memory: 274.41 MB used, 8388608.00 MB total
+[2014.12.03-04.41.42:129][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 680 (Feature Level 11_0)
+[2014.12.03-04.41.42:129][  0]LogD3D11RHI: Adapter has 4027MB of dedicated video memory, 0MB of dedicated system memory, and 7870MB of shared system memory, 2 output[s]
+[2014.12.03-04.41.42:129][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.12.03-04.41.42:132][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.12.03-04.41.42:138][  0]LogD3D11RHI: Async texture creation enabled
+[2014.12.03-04.41.42:185][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.12.03-04.41.42:324][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.12.03-04.41.46:411][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-04.41.46:728][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-04.41.46:769][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.12.03-04.41.46:801][  0]LogDerivedDataCache: Loaded boot cache 0.03s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-04.41.46:801][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.12.03-04.41.46:801][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.12.03-04.41.46:801][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.12.03-04.41.46:859][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.12.03-04.41.46:870][  0]LogDerivedDataCache: Using Local data cache path C:/Users/antell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.12.03-04.41.47:009][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.12.03-04.41.47:009][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.12.03-04.41.47:182][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-04.41.47:184][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-04.41.47:318][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.12.03-04.41.47:919][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.12.03-04.41.48:050][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.12.03-04.41.48:147][  0]SourceControl: Info Source control is disabled
+[2014.12.03-04.41.48:147][  0]SourceControl: Info Source control is disabled
+[2014.12.03-04.41.48:152][  0]SourceControl: Info Source control is disabled
+[2014.12.03-04.41.48:232][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.12.03-04.41.48:232][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.12.03-04.41.48:277][  0]LogEngine: Initializing Engine...
+[2014.12.03-04.41.48:382][  0]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2014.12.03-04.41.48:406][  0]LogInit: FAudioDevice initialized.
+[2014.12.03-04.41.48:421][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.12.03-04.41.48:440][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-04.41.48:443][  0]LogInit: Texture streaming: Enabled
+[2014.12.03-04.41.48:474][  0]LogInit: Transaction tracking system initialized
+[2014.12.03-04.41.48:539][  0]BlueprintLog: New page: Editor Load
+[2014.12.03-04.41.48:563][  0]LogAssetRegistry: FAssetRegistry took 0.0094 seconds to start up
+[2014.12.03-04.41.48:563][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.12.03-04.41.48:940][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-04.41.49:201][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-04.41.49:346][  0]LogConsoleResponse:Display: 
+[2014.12.03-04.41.49:490][  0]SourceControl: Info Source control is disabled
+[2014.12.03-04.41.49:490][  0]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-04.41.49:490][  0]LightingResults: New page: Lighting Build
+[2014.12.03-04.41.49:497][  0]MapCheck: New page: Map Check
+[2014.12.03-04.41.49:497][  0]LightingResults: New page: Lighting Build
+[2014.12.03-04.41.49:509][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013655A80
+[2014.12.03-04.41.49:730][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-04.41.49:731][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.03-04.41.49:731][  0]Cmd: MAP CHECKDEP
+[2014.12.03-04.41.49:731][  0]MapCheck: New page: Example_Map - Dec 2, 2014, 6:41:49 PM
+[2014.12.03-04.41.49:797][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 65.823ms to complete.
+[2014.12.03-04.41.49:797][  0]LogFileHelpers: Loading map 'Example_Map' took 0.307
+[2014.12.03-04.41.49:877][  0]LogCollectionManager: Loaded 0 collections in 0.000728 seconds
+[2014.12.03-04.41.49:972][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.12.03-04.41.49:990][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.12.03-04.41.50:014][  0]LogLoad: Full Startup: 9.89 seconds (BP compile: 0.07 seconds)
+[2014.12.03-04.41.50:355][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes/models'
+[2014.12.03-04.41.50:486][  0]LogRenderer:Warning: Reallocating scene render targets to support 1136x1064.
+[2014.12.03-04.41.51:024][  2]LogAssetRegistry: Asset discovery search completed in 2.4709 seconds
+[2014.12.03-04.41.53:348][  9]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes/Animations'
+[2014.12.03-04.41.53:613][ 28]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes'
+[2014.12.03-04.41.54:042][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes/models'
+[2014.12.03-04.41.55:034][151]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-04.41.57:383][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_0.CharacterMesh0.CubeAnim_C_0
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.41.57:384][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_0
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:384][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_1.CharacterMesh0.CubeAnim_C_1
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.41.57:384][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_1
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:385][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_2.CharacterMesh0.CubeAnim_C_2
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.41.57:385][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_2
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:385][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_3
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:386][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_4
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:386][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_5
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:458][371]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-04.41.57:458][371]LightingResults: New page: Lighting Build
+[2014.12.03-04.41.57:484][371]LoadErrors: New page: Loading map: Level1.umap
+[2014.12.03-04.41.57:484][371]MapCheck: New page: Map Check
+[2014.12.03-04.41.57:484][371]LightingResults: New page: Lighting Build
+[2014.12.03-04.41.57:530][371]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000116A53A0
+[2014.12.03-04.41.57:535][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_3
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:535][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_4
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:535][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_5
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:536][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_6
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:536][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_7
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:536][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_8
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.41.57:538][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-04.41.57:538][371]LogAIModule: Creating AISystem for world Level1
+[2014.12.03-04.41.57:565][371]Cmd: MAP CHECKDEP
+[2014.12.03-04.41.57:566][371]MapCheck: New page: Level1 - Dec 2, 2014, 6:41:57 PM
+[2014.12.03-04.41.57:643][371]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 77.372ms to complete.
+[2014.12.03-04.41.57:643][371]LogFileHelpers: Loading map 'Level1' took 0.186
+[2014.12.03-04.41.57:647][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.SkeletalMeshComponent_0:CubeAnim_C_3
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.41.57:647][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_1:SwordAnim_C_9
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.00:082][599]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-04.42.00:082][599]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-04.42.00:123][599]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.12.03-04.42.00:138][599]LogPlayLevel: PIE:  Blueprint regeneration took 56 ms (1 blueprints)
+[2014.12.03-04.42.00:138][599]PIE: New page: SIE session: Level1 (Dec 2, 2014, 6:42:00 PM)
+[2014.12.03-04.42.00:145][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006323s)
+[2014.12.03-04.42.00:145][599]LogPlayLevel: PIE: World Init took: (0.000442s)
+[2014.12.03-04.42.00:145][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006908s)
+[2014.12.03-04.42.00:369][599]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-04.42.00:371][599]LogAIModule: Creating AISystem for world Level1
+[2014.12.03-04.42.00:372][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_0.CharacterMesh0.CubeAnim_C_4
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.00:372][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint CubeAnim
+[2014.12.03-04.42.00:372][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_10
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.00:373][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.00:373][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_1.CharacterMesh0.CubeAnim_C_5
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.00:373][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint CubeAnim
+[2014.12.03-04.42.00:373][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_11
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.00:373][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.00:373][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_2.CharacterMesh0.CubeAnim_C_6
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.00:373][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint CubeAnim
+[2014.12.03-04.42.00:373][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_12
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.00:373][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.00:374][599]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-04.42.00:374][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2014.12.02-23.42.00
+[2014.12.03-04.42.00:375][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_10
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.00:375][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.00:375][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_11
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.00:375][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.00:375][599]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_12
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.00:375][599]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.00:376][599]LogWorld: Bringing up level for play took: 0.004533
+[2014.12.03-04.42.00:377][599]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.158
+[2014.12.03-04.42.04:059][955]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F7847C0
+[2014.12.03-04.42.04:761][997]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes/Materials'
+[2014.12.03-04.42.05:252][ 54]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes/models'
+[2014.12.03-04.42.12:932][747]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-04.42.12:932][747]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-04.42.12:989][747]LogPlayLevel: PIE:  Blueprint regeneration took 56 ms (1 blueprints)
+[2014.12.03-04.42.12:989][747]PIE: New page: SIE session: Level1 (Dec 2, 2014, 6:42:12 PM)
+[2014.12.03-04.42.12:996][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006543s)
+[2014.12.03-04.42.12:996][747]LogPlayLevel: PIE: World Init took: (0.000425s)
+[2014.12.03-04.42.12:996][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.007107s)
+[2014.12.03-04.42.13:022][747]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-04.42.13:024][747]LogAIModule: Creating AISystem for world Level1
+[2014.12.03-04.42.13:025][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_0.CharacterMesh0.CubeAnim_C_7
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.13:025][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint CubeAnim
+[2014.12.03-04.42.13:025][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_13
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.13:025][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.13:025][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_1.CharacterMesh0.CubeAnim_C_8
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.13:026][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint CubeAnim
+[2014.12.03-04.42.13:026][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_14
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.13:026][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.13:026][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_2.CharacterMesh0.CubeAnim_C_9
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.13:026][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint CubeAnim
+[2014.12.03-04.42.13:026][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_15
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.13:026][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.13:026][747]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-04.42.13:026][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2014.12.02-23.42.13
+[2014.12.03-04.42.13:027][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_13
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.13:027][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.13:028][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_14
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.13:028][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.13:028][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_15
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.13:028][747]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Branch in blueprint SwordAnim
+[2014.12.03-04.42.13:028][747]LogWorld: Bringing up level for play took: 0.004389
+[2014.12.03-04.42.13:030][747]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.811
+[2014.12.03-04.42.16:327][998]Cmd: SELECT NONE
+[2014.12.03-04.42.17:629][103]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001332CF40
+[2014.12.03-04.42.24:347][685]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes'
+[2014.12.03-04.42.24:382][686]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_16
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:394][687]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.SkeletalMeshComponent_2:CubeAnim_C_10
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:394][687]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_3:SwordAnim_C_17
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:395][687]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_11
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:397][687]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_18
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:406][688]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_19
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:416][689]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_12
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:425][690]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_20
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:437][691]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_13
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:448][692]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_21
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:458][693]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_14
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:468][694]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_22
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:479][695]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_15
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:488][696]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_23
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:500][697]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_16
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:512][698]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_24
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:523][699]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_17
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:532][700]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_25
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:543][701]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_18
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:552][702]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_26
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:565][703]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_19
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:575][704]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_27
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:585][705]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_20
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:596][706]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_28
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:608][707]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_21
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:620][708]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_29
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:629][709]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_22
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:640][710]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_30
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:650][711]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_23
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:662][712]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_31
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:700][713]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_24
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:720][714]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_32
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:731][715]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_25
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:742][716]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_33
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:758][717]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_26
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:768][718]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_34
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:778][719]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_27
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:789][720]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_35
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:799][721]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_28
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:808][722]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_36
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:818][723]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_29
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:827][724]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_37
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:835][725]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_30
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:844][726]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_38
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:854][727]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_31
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:866][728]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_39
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:875][729]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_32
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:885][730]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_40
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:897][731]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_33
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:905][732]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_41
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:917][733]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_34
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:926][734]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_42
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:938][735]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_35
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:947][736]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_43
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:960][737]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_36
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:970][738]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_44
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.24:981][739]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_37
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.24:991][740]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_45
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:001][741]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_38
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:010][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_46
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:022][743]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_39
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:031][744]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_47
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:044][745]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_40
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:054][746]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_48
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:064][747]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_41
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:074][748]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_49
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:086][749]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_42
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:095][750]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_50
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:108][751]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_43
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:117][752]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_51
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:129][753]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_44
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:140][754]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_52
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:150][755]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_45
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:160][756]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_53
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:171][757]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_46
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:179][758]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_54
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:192][759]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_47
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:201][760]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_55
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:214][761]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_48
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:223][762]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_56
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:234][763]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_49
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:246][764]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_57
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:255][765]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_50
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:265][766]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_58
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:276][767]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_51
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:287][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_59
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:299][769]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_52
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:309][770]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_60
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:319][771]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_53
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:331][772]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_61
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:341][773]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_54
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:352][774]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_62
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:363][775]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_55
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:374][776]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_63
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:384][777]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_56
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:394][778]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_64
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:405][779]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_57
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:416][780]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_65
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:427][781]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_58
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:437][782]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_66
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:448][783]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_59
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:458][784]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_67
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:470][785]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_60
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:479][786]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_68
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:492][787]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_61
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:503][788]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_69
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:513][789]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_62
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:526][790]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_70
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:534][791]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_63
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:544][792]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_71
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:556][793]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_64
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:568][794]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_72
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:577][795]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_65
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:587][796]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_73
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:599][797]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_66
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:613][798]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_74
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:626][799]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_67
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:635][800]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_75
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:649][801]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_68
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:660][802]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_76
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:673][803]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_69
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:684][804]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_77
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:697][805]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_70
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:708][806]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_78
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:719][807]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_71
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:729][808]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_79
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:740][809]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_72
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:750][810]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_80
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:760][811]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_73
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:771][812]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_81
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:785][813]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_74
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:795][814]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_82
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:805][815]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_75
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:815][816]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_83
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:829][817]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_76
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:842][818]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_84
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:853][819]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_77
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:864][820]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_85
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:876][821]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_78
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:886][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_86
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:896][823]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_79
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:911][824]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_87
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:924][825]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_80
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:934][826]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_88
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:944][827]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_81
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:953][828]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_89
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:966][829]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_82
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:980][830]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_90
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.25:990][831]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_83
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.25:999][832]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_91
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:010][833]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_84
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:020][834]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_92
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:033][835]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_85
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:043][836]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_93
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:053][837]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_86
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:062][838]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_94
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:074][839]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_87
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:085][840]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_95
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:098][841]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_88
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:108][842]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_96
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:118][843]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_89
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:128][844]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_97
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:138][845]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_90
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:147][846]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_98
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:157][847]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_91
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:171][848]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_99
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:181][849]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_92
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:190][850]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_100
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:201][851]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_93
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:212][852]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_101
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:225][853]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_94
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:237][854]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_102
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:248][855]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_95
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:258][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_103
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:270][857]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_96
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:281][858]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_104
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:292][859]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_97
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:302][860]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_105
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:312][861]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_98
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:322][862]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_106
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:333][863]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_99
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:347][864]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_107
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:357][865]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_100
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:367][866]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_108
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:377][867]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_101
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:388][868]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_109
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:401][869]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_102
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:410][870]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_110
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:422][871]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_103
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:433][872]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_111
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:444][873]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_104
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:457][874]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_112
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:467][875]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_105
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:477][876]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_113
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:488][877]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_106
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:498][878]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_114
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:511][879]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_107
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:521][880]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_115
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:532][881]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_108
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:543][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_116
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:554][883]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_109
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:564][884]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_117
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:578][885]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_110
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:588][886]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_118
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:600][887]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_111
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:611][888]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_119
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:624][889]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_112
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:634][890]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_120
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:644][891]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_113
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:659][892]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_121
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:669][893]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_114
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:679][894]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_122
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:689][895]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_115
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:700][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_123
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:714][897]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_116
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:728][898]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_124
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:738][899]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_117
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:748][900]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_125
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:759][901]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_118
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:769][902]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_126
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:784][903]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_119
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:795][904]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_127
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:806][905]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_120
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:817][906]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_128
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:828][907]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_121
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:838][908]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_129
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:849][909]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_122
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:861][910]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_130
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:874][911]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_123
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:887][912]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_131
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:899][913]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_124
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:908][914]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_132
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:920][915]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_125
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:930][916]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_133
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:944][917]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_126
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:953][918]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_134
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:964][919]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_127
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:975][920]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_135
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.26:989][921]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_128
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.26:999][922]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_136
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:009][923]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_129
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:021][924]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_137
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:033][925]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_130
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:043][926]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_138
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:052][927]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_131
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:062][928]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_139
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:071][929]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_132
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:081][930]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_140
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:090][931]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_133
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:100][932]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_141
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:110][933]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_134
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:121][934]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_142
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:133][935]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_135
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:143][936]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_143
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:152][937]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_136
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:162][938]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_144
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:172][939]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_137
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:186][940]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_145
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:195][941]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_138
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:206][942]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_146
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:215][943]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_139
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:225][944]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_147
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:236][945]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_140
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:246][946]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_148
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:258][947]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_141
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:271][948]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_149
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:281][949]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_142
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:293][950]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_150
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:306][951]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_143
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:317][952]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_151
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:329][953]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_144
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:340][954]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_152
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:355][955]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_145
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:365][956]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_153
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:379][957]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_146
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:393][958]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_154
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:404][959]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_147
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:413][960]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_155
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:427][961]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_148
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:441][962]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_156
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:454][963]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_149
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:464][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_157
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:474][965]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_150
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.27:484][966]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_158
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.27:493][967]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_151
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.30:904][344]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_159
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.30:915][345]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_152
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.30:924][346]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_160
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:153][347]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2014.12.03-04.42.31:190][347]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_153
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:300][347]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.12.03-04.42.31:380][348]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_161
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:394][349]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_154
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:410][350]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_162
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:426][351]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_155
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:441][352]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_163
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:461][353]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_156
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:475][354]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_164
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:489][355]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_157
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:506][356]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_165
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:523][357]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_158
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:536][358]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_166
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:550][359]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_159
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:565][360]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_167
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:580][361]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_160
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:594][362]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_168
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:608][363]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_161
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:621][364]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_169
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:635][365]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_162
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:649][366]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_170
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:662][367]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_163
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:675][368]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_171
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:688][369]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_164
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:704][370]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_172
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:719][371]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_165
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:733][372]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_173
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:748][373]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_166
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:766][374]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_174
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:780][375]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_167
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:794][376]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_175
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:816][377]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_168
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.31:829][378]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_176
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.31:845][379]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_169
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:707][ 38]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_177
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:725][ 39]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_170
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:740][ 40]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_178
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:756][ 41]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_171
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:769][ 42]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_179
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:783][ 43]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_172
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:823][ 44]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_180
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:840][ 45]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_173
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:857][ 46]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_181
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:873][ 47]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_174
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:888][ 48]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_182
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:903][ 49]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_175
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:918][ 50]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_183
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:937][ 51]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_176
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:953][ 52]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_184
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.40:968][ 53]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_177
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.40:985][ 54]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_185
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:001][ 55]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_178
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.41:021][ 56]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_186
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:037][ 57]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_179
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.41:054][ 58]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_187
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:068][ 59]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_180
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.41:084][ 60]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_188
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:098][ 61]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_181
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.41:114][ 62]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_189
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:130][ 63]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_182
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.41:146][ 64]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_190
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:162][ 65]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_183
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.41:177][ 66]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_191
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:195][ 67]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_184
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.41:210][ 68]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_192
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.41:227][ 69]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_185
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.43:217][212]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.12.03-04.42.45:371][212]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_0' or package '/Engine/Transient'.
+[2014.12.03-04.42.45:371][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_0.SkeletalMesh1.SwordAnim_C_6
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.45:372][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_0.CharacterMesh0.CubeAnim_C_0
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.45:372][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_1.CharacterMesh0.CubeAnim_C_1
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.45:372][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_2.CharacterMesh0.CubeAnim_C_2
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.45:372][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_2.SkeletalMesh1.SwordAnim_C_8
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.45:372][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Level1.Level1:PersistentLevel.EnemyCube_C_1.SkeletalMesh1.SwordAnim_C_7
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.45:443][212]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D5BD080
+[2014.12.03-04.42.45:444][212]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000132907C0
+[2014.12.03-04.42.45:448][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.SkeletalMeshComponent_5:CubeAnim_C_186
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.45:448][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_6:SwordAnim_C_193
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.45:449][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_194
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.45:460][212]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_187
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:120][284]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_195
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:133][285]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_188
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:143][286]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_196
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:151][287]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_189
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:160][288]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_197
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:168][289]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_190
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:177][290]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_198
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:188][291]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_191
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:196][292]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_199
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:207][293]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_192
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:216][294]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_200
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:229][295]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_193
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:238][296]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_201
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:249][297]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_194
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:258][298]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_202
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:269][299]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_195
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:279][300]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_203
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:291][301]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_196
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:302][302]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_204
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:312][303]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_197
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:322][304]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_205
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:334][305]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_198
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:343][306]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_206
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:354][307]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_199
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:364][308]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_207
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:374][309]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_200
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:384][310]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_208
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:395][311]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_201
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.46:404][312]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_209
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.46:417][313]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_202
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.42.49:136][603]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-04.42.49:136][603]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-04.42.51:985][603]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-04.42.51:985][603]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-04.42.52:051][603]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_210
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.42.52:060][603]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes'
+[2014.12.03-04.42.52:068][603]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_203
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.00:303][511]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-04.43.00:316][512]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_211
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.00:320][512]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_204
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:137][607]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_212
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:149][608]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_205
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:149][608]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_213
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:162][609]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_206
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:172][610]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_214
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:182][611]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_207
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:182][611]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_215
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:192][612]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_208
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:202][613]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_216
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:212][614]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_209
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:213][614]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_217
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:222][615]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_210
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:234][616]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_218
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:246][617]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_211
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:259][618]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_219
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:271][619]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_212
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:287][620]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_220
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:298][621]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_213
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:313][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_221
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:323][623]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_214
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:332][624]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_222
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:342][625]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_215
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:352][626]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_223
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:363][627]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_216
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:373][628]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_224
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:386][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_217
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:398][630]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_225
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:409][631]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_218
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:419][632]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_226
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:430][633]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_219
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:442][634]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_227
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:457][635]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_220
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:468][636]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_228
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:478][637]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_221
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:489][638]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_229
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:500][639]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_222
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:510][640]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_230
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:522][641]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_223
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:533][642]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_231
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:545][643]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_224
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:638][653]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_232
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:649][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_225
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:660][655]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_233
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:670][656]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_226
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:680][657]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_234
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:827][658]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2014.12.03-04.43.01:863][658]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_227
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.01:896][658]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.12.03-04.43.01:980][659]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_235
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.01:993][660]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_228
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:008][661]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_236
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:023][662]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_229
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:037][663]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_237
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:051][664]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_230
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:065][665]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_238
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:081][666]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_231
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:096][667]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_239
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:111][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_232
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:125][669]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_240
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:140][670]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_233
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:156][671]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_241
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:169][672]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_234
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:183][673]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_242
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:198][674]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_235
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:212][675]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_243
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:228][676]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_236
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:243][677]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_244
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:258][678]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_237
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:272][679]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_245
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:288][680]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_238
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:302][681]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_246
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:318][682]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_239
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:334][683]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_247
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:347][684]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_240
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:361][685]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_248
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:375][686]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_241
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:389][687]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_249
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:403][688]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_242
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:420][689]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_250
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:433][690]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_243
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:446][691]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_251
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:460][692]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_244
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:474][693]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_252
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:487][694]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_245
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:501][695]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_253
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:516][696]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_246
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:529][697]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_254
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:543][698]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_247
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:556][699]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_255
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:569][700]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_248
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:584][701]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_256
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:598][702]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_249
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:613][703]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_257
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:627][704]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_250
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:642][705]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_258
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:657][706]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_251
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:673][707]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_259
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:688][708]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_252
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.02:703][709]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.SwordAnim_C_260
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:00BE
+[2014.12.03-04.43.02:721][710]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.CubeAnim_C_253
+	Function /Game/Cubes/CubeAnim.CubeAnim_C:ExecuteUbergraph_CubeAnim:00C8
+[2014.12.03-04.43.55:566][636]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2014.12.03-04.43.55:566][636]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2014.12.03-04.43.58:711][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubes/SwordBS" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Cubes/SwordBS.uasset" SILENT=true
+[2014.12.03-04.43.59:036][636]LogSavePackage: Save=305.081940ms
+[2014.12.03-04.43.59:036][636]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/SwordBS8216EB1F421C8F3D588F8BA2A25CF9C3.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Cubes/SwordBS.uasset'
+[2014.12.03-04.43.59:143][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-04.43.59:229][636]LogSavePackage: Save=48.471645ms
+[2014.12.03-04.43.59:229][636]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Level1F502929A465661993CAF52B17F3C9C01.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Level1.umap'
+[2014.12.03-04.43.59:261][636]LogFileHelpers: Saving map 'Level1' took 0.220
+[2014.12.03-04.43.59:896][637]Cmd: QUIT_EDITOR
+[2014.12.03-04.44.00:218][637]LogExit: Preparing to exit.
+[2014.12.03-04.44.01:042][637]LogExit: Editor shut down
+[2014.12.03-04.44.01:042][637]LogExit: Transaction tracking system shut down
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001EF9D8A0
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012E88680
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001EC8C400
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F784CC0
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E28A340
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E326480
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E327B00
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D1E3E20
+[2014.12.03-04.44.01:069][637]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E325EE0
+[2014.12.03-04.44.01:069][637]LogExit: Object subsystem successfully closed.
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (166)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module CrashTracker (165)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module SuperSearch (164)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module SceneOutliner (163)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module EditorWidgets (162)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module CollectionManager (161)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module StatsViewer (160)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module FoliageEdit (159)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module LandscapeEditor (158)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module MeshPaint (157)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module ActorPickerMode (156)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module GeometryMode (155)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module TextureAlignMode (154)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module BspMode (153)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module PlacementMode (152)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module AutomationWorker (151)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module CharacterAI (150)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (149)
+[2014.12.03-04.44.01:122][637]LogModuleManager: Shutting down and abandoning module IntroTutorials (148)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (147)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module HardwareTargeting (146)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (145)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (144)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module UndoHistory (143)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (142)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module UserFeedback (141)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module XmlParser (140)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module Blutility (139)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (138)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (137)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (136)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (135)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (134)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (133)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module InputBindingEditor (132)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (131)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module SettingsEditor (130)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module ProjectLauncher (129)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module SessionFrontend (128)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module ProfilerClient (127)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (126)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module DeviceManager (125)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module AutomationController (124)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module AutomationWindow (123)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module Layers (122)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (121)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module DetailCustomizations (120)
+[2014.12.03-04.44.01:123][637]LogModuleManager: Shutting down and abandoning module PackagesDialog (119)
+[2014.12.03-04.44.01:124][637]LogModuleManager: Shutting down and abandoning module AssetRegistry (118)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module Persona (117)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module Kismet (116)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module GraphEditor (115)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module ClassViewer (114)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module Toolbox (113)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module ModuleUI (112)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module MovieSceneTools (111)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module OutputLog (110)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module GammaUI (109)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module Documentation (108)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (107)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (106)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module HTTP (105)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module AnalyticsET (104)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module Analytics (103)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module GameplayDebugger (102)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module AIModule (101)
+[2014.12.03-04.44.01:186][637]LogModuleManager: Shutting down and abandoning module ProfilerService (100)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module TaskGraph (99)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module SlateRemote (98)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (97)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (96)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module CableComponent (95)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module MessagingDebugger (94)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (93)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (92)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module PluginsEditor (91)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module EpicSurvey (90)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module DesktopPlatform (89)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (88)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module UObjectPlugin (87)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (86)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module SourceControl (85)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (84)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module BlankPlugin (83)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module SlateReflector (82)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (81)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module HotReload (80)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module MainFrame (79)
+[2014.12.03-04.44.01:260][637]LogModuleManager: Shutting down and abandoning module LevelEditor (78)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module ViewportSnapping (77)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module SmartSnapping (76)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (75)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (74)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module ContentBrowser (73)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module PropertyEditor (72)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module Paper2DEditor (71)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module ScriptPlugin (70)
+[2014.12.03-04.44.01:262][637]LogModuleManager: Shutting down and abandoning module UdpMessaging (69)
+[2014.12.03-04.44.01:362][637]LogModuleManager: Shutting down and abandoning module Paper2D (68)
+[2014.12.03-04.44.01:362][637]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (67)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module Media (66)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module WmfMedia (65)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module FunctionalTesting (63)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (62)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (61)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module MessageLog (60)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module Sequencer (59)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module AssetTools (58)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module UMGEditor (57)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module UMG (56)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module Slate (55)
+[2014.12.03-04.44.01:364][637]LogModuleManager: Shutting down and abandoning module EditorStyle (54)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module SessionServices (53)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (52)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (51)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module XAudio2 (50)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module Networking (48)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module Core (47)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module KismetCompiler (46)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module PhysXFormats (45)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module MeshUtilities (44)
+[2014.12.03-04.44.01:366][637]LogModuleManager: Shutting down and abandoning module DerivedDataCache (43)
+[2014.12.03-04.44.01:423][637]LogDerivedDataCache: Shutdown
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (42)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (41)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (40)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (39)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (38)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (37)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (36)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (35)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (34)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (33)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module Messaging (32)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (31)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (30)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (29)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (28)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module ImageWrapper (17)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module OculusRift (14)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (13)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module TextureCompressor (12)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module ShaderCore (11)
+[2014.12.03-04.44.01:423][637]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2014.12.03-04.44.01:424][637]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2014.12.03-04.44.01:424][637]LogExit: Exiting.
+[2014.12.03-04.44.01:428][637]Log file closed, 12/02/14 23:44:01
