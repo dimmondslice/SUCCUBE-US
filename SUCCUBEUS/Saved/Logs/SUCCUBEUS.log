@@ -1,4 +1,4 @@
-﻿Log file open, 12/03/14 10:08:07
+﻿Log file open, 12/03/14 10:10:02
 LogInit:Display: Running engine for game: SUCCUBEUS
 LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
 LogInit: API Version: 2326478
@@ -9,766 +9,1120 @@ LogInit: Branch Name: ++depot+UE4-Releases+4.5
 LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2014.12.03-15.08.07:238][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
-[2014.12.03-15.08.07:284][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2014.12.03-15.08.07:310][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2014.12.03-15.08.07:331][  0]LogInit: Object subsystem initialized
-[2014.12.03-15.08.07:340][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
-[2014.12.03-15.08.07:340][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2014.12.03-15.08.07:340][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
-[2014.12.03-15.08.07:340][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2014.12.03-15.08.07:341][  0]LogInit: Selected Device Profile: [Windows]
-[2014.12.03-15.08.07:341][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2014.12.03-15.08.07:355][  0]LogInit: Computer: DEVIN-PC
-[2014.12.03-15.08.07:355][  0]LogInit: User: Devin
-[2014.12.03-15.08.07:374][  0]LogInit: CPU Page size=4096, Cores=2
-[2014.12.03-15.08.07:374][  0]LogInit: High frequency timer resolution =2.728232 MHz
-[2014.12.03-15.08.07:375][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx) Virtual=8192.0GB
-[2014.12.03-15.08.07:375][  0]LogMemory: Platform Memory Stats for Windows
-[2014.12.03-15.08.07:375][  0]LogMemory: Process Physical Memory: 66.63 MB used, 66.63 MB peak
-[2014.12.03-15.08.07:375][  0]LogMemory: Process Virtual Memory: 42.69 MB used, 42.69 MB peak
-[2014.12.03-15.08.07:375][  0]LogMemory: Physical Memory: 5962.05 MB used, 7915.94 MB total
-[2014.12.03-15.08.07:375][  0]LogMemory: Virtual Memory: 279.23 MB used, 8388608.00 MB total
-[2014.12.03-15.08.07:621][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics 4000 (Feature Level 11_0)
-[2014.12.03-15.08.07:621][  0]LogD3D11RHI: Adapter has 977MB of dedicated video memory, 0MB of dedicated system memory, and 3071MB of shared system memory, 1 output[s]
-[2014.12.03-15.08.07:621][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2014.12.03-15.08.07:680][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2014.12.03-15.08.07:718][  0]LogD3D11RHI: Async texture creation enabled
-[2014.12.03-15.08.07:774][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
-[2014.12.03-15.08.08:124][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2014.12.03-15.08.15:547][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.12.03-15.08.16:323][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.12.03-15.08.16:400][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2014.12.03-15.08.16:468][  0]LogDerivedDataCache: Loaded boot cache 0.07s 39MB C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
-[2014.12.03-15.08.16:468][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
-[2014.12.03-15.08.16:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2014.12.03-15.08.16:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2014.12.03-15.08.16:567][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
-[2014.12.03-15.08.16:578][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Devin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2014.12.03-15.08.16:856][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2014.12.03-15.08.16:856][  0]LogMeshUtilities: No automatic mesh merging module available
-[2014.12.03-15.08.17:187][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2014.12.03-15.08.17:192][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2014.12.03-15.08.17:421][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2014.12.03-15.08.18:683][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2014.12.03-15.08.18:906][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Binaries/Win64. Error: 0
-[2014.12.03-15.08.19:112][  0]SourceControl: Info Source control is disabled
-[2014.12.03-15.08.19:112][  0]SourceControl: Info Source control is disabled
-[2014.12.03-15.08.19:120][  0]SourceControl: Info Source control is disabled
-[2014.12.03-15.08.19:292][  0]LogObj: 22915 objects as part of root set at end of initial load.
-[2014.12.03-15.08.19:292][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
-[2014.12.03-15.08.19:376][  0]LogEngine: Initializing Engine...
-[2014.12.03-15.08.19:592][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2014.12.03-15.08.19:608][  0]LogInit: FAudioDevice initialized.
-[2014.12.03-15.08.19:640][  0]LogAIModule: Creating AISystem for world NewWorld
-[2014.12.03-15.08.19:676][  0]LogDerivedDataCache: Saved boot cache 0.03s 39MB C:/Users/Devin/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
-[2014.12.03-15.08.19:684][  0]LogInit: Texture streaming: Enabled
-[2014.12.03-15.08.19:752][  0]LogInit: Transaction tracking system initialized
-[2014.12.03-15.08.19:910][  0]BlueprintLog: New page: Editor Load
-[2014.12.03-15.08.19:948][  0]LogAssetRegistry: FAssetRegistry took 0.0103 seconds to start up
-[2014.12.03-15.08.19:949][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
-[2014.12.03-15.08.20:894][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.12.03-15.08.21:728][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.12.03-15.08.22:093][  0]LogConsoleResponse:Display: 
-[2014.12.03-15.08.22:378][  0]SourceControl: Info Source control is disabled
-[2014.12.03-15.08.22:378][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
-[2014.12.03-15.08.22:379][  0]LightingResults: New page: Lighting Build
-[2014.12.03-15.08.22:390][  0]MapCheck: New page: Map Check
-[2014.12.03-15.08.22:390][  0]LightingResults: New page: Lighting Build
-[2014.12.03-15.08.22:417][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000017355A80
-[2014.12.03-15.08.24:261][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+[2014.12.03-15.10.02:209][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.12.03-15.10.02:235][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.12.03-15.10.02:249][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.12.03-15.10.02:257][  0]LogInit: Object subsystem initialized
+[2014.12.03-15.10.02:260][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.12.03-15.10.02:260][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-15.10.02:260][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.12.03-15.10.02:260][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-15.10.02:260][  0]LogInit: Selected Device Profile: [Windows]
+[2014.12.03-15.10.02:260][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.12.03-15.10.02:264][  0]LogInit: Computer: SA2411-PC42
+[2014.12.03-15.10.02:264][  0]LogInit: User: antell
+[2014.12.03-15.10.02:265][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.12.03-15.10.02:265][  0]LogInit: High frequency timer resolution =3.428066 MHz
+[2014.12.03-15.10.02:265][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2014.12.03-15.10.02:265][  0]LogMemory: Platform Memory Stats for Windows
+[2014.12.03-15.10.02:265][  0]LogMemory: Process Physical Memory: 65.28 MB used, 65.28 MB peak
+[2014.12.03-15.10.02:265][  0]LogMemory: Process Virtual Memory: 40.50 MB used, 40.50 MB peak
+[2014.12.03-15.10.02:265][  0]LogMemory: Physical Memory: 3353.41 MB used, 16253.98 MB total
+[2014.12.03-15.10.02:265][  0]LogMemory: Virtual Memory: 274.41 MB used, 8388608.00 MB total
+[2014.12.03-15.10.02:287][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 680 (Feature Level 11_0)
+[2014.12.03-15.10.02:287][  0]LogD3D11RHI: Adapter has 4027MB of dedicated video memory, 0MB of dedicated system memory, and 7870MB of shared system memory, 2 output[s]
+[2014.12.03-15.10.02:287][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.12.03-15.10.02:291][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.12.03-15.10.02:296][  0]LogD3D11RHI: Async texture creation enabled
+[2014.12.03-15.10.02:339][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.12.03-15.10.02:454][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.12.03-15.10.06:497][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.10.06:801][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.10.06:842][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.12.03-15.10.06:877][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-15.10.06:877][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.12.03-15.10.06:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.12.03-15.10.06:877][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.12.03-15.10.06:936][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.12.03-15.10.06:947][  0]LogDerivedDataCache: Using Local data cache path C:/Users/antell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.12.03-15.10.07:087][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.12.03-15.10.07:087][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.12.03-15.10.07:267][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-15.10.07:269][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-15.10.07:404][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.12.03-15.10.07:999][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.12.03-15.10.08:132][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.12.03-15.10.08:231][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.10.08:231][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.10.08:236][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.10.08:319][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.12.03-15.10.08:319][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.12.03-15.10.08:365][  0]LogEngine: Initializing Engine...
+[2014.12.03-15.10.08:476][  0]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2014.12.03-15.10.08:497][  0]LogInit: FAudioDevice initialized.
+[2014.12.03-15.10.08:513][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.12.03-15.10.08:531][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-15.10.08:534][  0]LogInit: Texture streaming: Enabled
+[2014.12.03-15.10.08:564][  0]LogInit: Transaction tracking system initialized
+[2014.12.03-15.10.08:630][  0]BlueprintLog: New page: Editor Load
+[2014.12.03-15.10.08:654][  0]LogAssetRegistry: FAssetRegistry took 0.0102 seconds to start up
+[2014.12.03-15.10.08:654][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.12.03-15.10.09:009][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.10.09:274][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.10.09:440][  0]LogConsoleResponse:Display: 
+[2014.12.03-15.10.09:595][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.10.09:595][  0]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-15.10.09:595][  0]LightingResults: New page: Lighting Build
+[2014.12.03-15.10.09:602][  0]MapCheck: New page: Map Check
+[2014.12.03-15.10.09:602][  0]LightingResults: New page: Lighting Build
+[2014.12.03-15.10.09:621][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000016CE9A80
+[2014.12.03-15.10.09:890][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
 	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_0
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.24:263][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_0
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.24:314][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_0
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.24:314][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_0
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.24:314][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_0
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.24:315][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_1
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.24:315][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_1
+[2014.12.03-15.10.09:891][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-15.10.09:892][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.03-15.10.09:892][  0]Cmd: MAP CHECKDEP
+[2014.12.03-15.10.09:892][  0]MapCheck: New page: Example_Map - Dec 3, 2014, 5:10:09 AM
+[2014.12.03-15.10.09:958][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 66.174ms to complete.
+[2014.12.03-15.10.09:958][  0]LogFileHelpers: Loading map 'Example_Map' took 0.364
+[2014.12.03-15.10.10:039][  0]LogCollectionManager: Loaded 0 collections in 0.000721 seconds
+[2014.12.03-15.10.10:168][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.12.03-15.10.10:173][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.12.03-15.10.10:196][  0]LogLoad: Full Startup: 9.98 seconds (BP compile: 0.10 seconds)
+[2014.12.03-15.10.10:537][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-15.10.10:661][  0]LogRenderer:Warning: Reallocating scene render targets to support 1136x1024.
+[2014.12.03-15.10.11:218][  2]LogAssetRegistry: Asset discovery search completed in 2.5748 seconds
+[2014.12.03-15.10.13:574][ 10]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_1
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.24:315][  0]LogMaterial:Warning: Material /Game/Cubes/models/blade_.blade_ needed to have new flag set bUsedWithSkeletalMesh !
-[2014.12.03-15.08.24:318][  0]LogMaterial: Missing cached shader map for material blade_, compiling.
-[2014.12.03-15.08.24:380][  0]LogMaterial: 0.000098 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
-[2014.12.03-15.08.24:381][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_2
+[2014.12.03-15.10.26:270][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_0
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.24:381][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_2
+[2014.12.03-15.10.26:270][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_2
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.24:382][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_1
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.24:383][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_1
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.24:386][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_3
+[2014.12.03-15.10.26:270][265]LogMaterial:Warning: Material /Game/Cubes/models/blade_.blade_ needed to have new flag set bUsedWithSkeletalMesh !
+[2014.12.03-15.10.26:272][265]LogMaterial: Missing cached shader map for material blade_, compiling.
+[2014.12.03-15.10.26:307][265]LogMaterial: 0.000083 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2014.12.03-15.10.26:307][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_1
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.10.26:308][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_3
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.24:388][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_4
+[2014.12.03-15.10.26:308][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_2
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.10.26:308][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_4
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.24:389][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2014.12.03-15.08.24:389][  0]LogAIModule: Creating AISystem for world Example_Map
-[2014.12.03-15.08.24:390][  0]Cmd: MAP CHECKDEP
-[2014.12.03-15.08.24:390][  0]MapCheck: New page: Example_Map - Dec 3, 2014, 5:08:24 AM
-[2014.12.03-15.08.24:609][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 218.32ms to complete.
-[2014.12.03-15.08.24:609][  0]LogFileHelpers: Loading map 'Example_Map' took 2.230
-[2014.12.03-15.08.24:995][  0]LogCollectionManager: Loaded 0 collections in 0.001668 seconds
-[2014.12.03-15.08.25:290][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2014.12.03-15.08.25:354][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2014.12.03-15.08.25:385][  0]LogLoad: Full Startup: 21.16 seconds (BP compile: 0.82 seconds)
-[2014.12.03-15.08.27:164][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Cubes'
-[2014.12.03-15.08.27:661][  0]LogRenderer:Warning: Reallocating scene render targets to support 944x728.
-[2014.12.03-15.08.29:032][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_2
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.29:033][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_2
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.29:034][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_0:CubeAnimSword_C_3
+[2014.12.03-15.10.26:308][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_3
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.29:034][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_1:SwordAnim_C_3
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.29:035][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_2:CubeAnimHammer_C_1
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.29:036][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_3:HammerAnim_C_3
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.30:871][  2]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_4:CubeAnimSword_C_4
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.30:871][  2]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_5:AxeAnim_C_5
+[2014.12.03-15.10.26:309][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_5
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.30:873][  2]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_5
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.30:873][  2]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_2
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.30:874][  2]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_6
+[2014.12.03-15.10.26:309][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_6
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.31:372][  4]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_6
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.31:372][  4]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_7
+[2014.12.03-15.10.26:309][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_7
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.31:372][  4]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_3
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.31:926][  6]LogAssetRegistry: Asset discovery search completed in 11.9885 seconds
-[2014.12.03-15.08.45:379][ 96]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_4
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.45:379][ 96]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_4
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.45:546][ 98]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_7
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.45:547][ 98]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_4
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.45:547][ 98]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_8
+[2014.12.03-15.10.26:310][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_8
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.45:591][ 99]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_5
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.45:591][ 99]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_5
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.45:667][101]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_8
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.45:668][101]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_5
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.45:668][101]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_9
+[2014.12.03-15.10.26:310][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_9
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.45:816][102]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_6
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.45:819][102]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_6
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.45:888][104]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_9
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.45:888][104]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_6
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.45:928][105]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_10
+[2014.12.03-15.10.26:407][265]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-15.10.26:407][265]LightingResults: New page: Lighting Build
+[2014.12.03-15.10.26:453][265]LoadErrors: New page: Loading map: Menu.umap
+[2014.12.03-15.10.26:453][265]MapCheck: New page: Map Check
+[2014.12.03-15.10.26:454][265]LightingResults: New page: Lighting Build
+[2014.12.03-15.10.26:490][265]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001165B6A0
+[2014.12.03-15.10.26:557][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_6
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.45:962][106]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_7
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.45:963][106]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_7
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.46:154][108]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_10
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.46:155][108]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_7
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.46:193][109]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_11
+[2014.12.03-15.10.26:558][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_7
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.46:228][110]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_8
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.46:228][110]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_8
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.46:400][112]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_11
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.46:401][112]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_8
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.46:401][112]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_12
+[2014.12.03-15.10.26:558][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_8
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.46:540][113]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_9
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.46:544][113]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_9
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.46:741][116]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_12
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.46:742][116]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_9
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.46:742][116]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_13
+[2014.12.03-15.10.26:558][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_9
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.46:784][117]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_10
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.46:784][117]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_10
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.46:887][119]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_13
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.46:888][119]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_10
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.46:888][119]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_14
+[2014.12.03-15.10.26:560][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_10
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.46:937][120]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_11
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.46:937][120]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_11
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:017][122]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_14
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:018][122]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_11
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:018][122]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_15
+[2014.12.03-15.10.26:560][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_11
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.47:090][123]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_12
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.47:090][123]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_12
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:169][125]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_15
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:169][125]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_12
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:170][125]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_16
+[2014.12.03-15.10.26:560][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_12
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.47:201][126]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_13
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.47:201][126]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_13
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:300][128]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_16
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:300][128]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_13
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:300][128]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_17
+[2014.12.03-15.10.26:561][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_13
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.47:332][129]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_14
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.47:332][129]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_14
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:402][131]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_17
+[2014.12.03-15.10.26:563][265]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-15.10.26:569][265]LogAIModule: Creating AISystem for world Menu
+[2014.12.03-15.10.26:663][265]Cmd: MAP CHECKDEP
+[2014.12.03-15.10.26:663][265]MapCheck: New page: Menu - Dec 3, 2014, 5:10:26 AM
+[2014.12.03-15.10.26:798][265]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 134.976ms to complete.
+[2014.12.03-15.10.26:798][265]LogFileHelpers: Loading map 'Menu' took 0.394
+[2014.12.03-15.10.26:840][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_3:CubeAnimSword_C_4
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:403][131]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_14
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:403][131]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_18
+[2014.12.03-15.10.26:840][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_4:AxeAnim_C_14
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.47:435][132]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_15
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.47:436][132]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_15
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:531][134]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_18
+[2014.12.03-15.10.26:840][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_5
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:532][134]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_15
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:532][134]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_19
+[2014.12.03-15.10.26:840][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.10.26:840][265]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_15
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.47:587][135]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_16
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.47:587][135]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_16
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:651][137]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_19
+[2014.12.03-15.10.26:865][266]Cmd: UpdateLandscapeEditorData -warnings
+[2014.12.03-15.10.26:869][266]Cmd: UpdateLandscapeEditorData
+[2014.12.03-15.10.39:553][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:553][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:556][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:557][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:557][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:557][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.39:557][867]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.12.03-15.10.40:360][908]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-15.10.40:360][908]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-15.10.40:360][908]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-15.10.40:360][908]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-15.10.40:360][908]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-15.10.40:360][908]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-15.10.40:360][908]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-15.10.40:361][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CreateWidget_12.EdGraphPin_3289"''
+[2014.12.03-15.10.40:361][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_13598.EdGraphPin_3196"''
+[2014.12.03-15.10.40:361][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_13598.EdGraphPin_3198"''
+[2014.12.03-15.10.40:362][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_65233.EdGraphPin_3229"''
+[2014.12.03-15.10.40:362][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_VariableSet_202.EdGraphPin_3220"''
+[2014.12.03-15.10.40:362][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_65233.EdGraphPin_3231"''
+[2014.12.03-15.10.40:363][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_65312.EdGraphPin_3243"''
+[2014.12.03-15.10.40:363][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_65312.EdGraphPin_3242"''
+[2014.12.03-15.10.40:363][908]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_65312.EdGraphPin_3241"''
+[2014.12.03-15.10.41:026][933]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.12.03-15.10.41:179][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.10.41:243][933]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.10.41:252][933]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.10.41:258][933]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.10.41:304][933]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.10.41:341][933]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.10.41:656][933]LogSavePackage: Save=426.922058ms
+[2014.12.03-15.10.41:656][933]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Menu250D885F4C9D6DCA8FC96AADBCFD8FBB.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap'
+[2014.12.03-15.10.41:724][933]LogFileHelpers: Saving map 'Menu' took 0.646
+[2014.12.03-15.10.43:239][  1]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-15.10.43:239][  1]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.12.03-15.10.43:279][  1]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2014.12.03-15.10.43:358][  1]LogPlayLevel: PIE:  Blueprint regeneration took 118 ms (2 blueprints)
+[2014.12.03-15.10.43:358][  1]PIE: New page: SIE session: Menu (Dec 3, 2014, 5:10:43 AM)
+[2014.12.03-15.10.43:364][  1]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.10.43:383][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024697s)
+[2014.12.03-15.10.43:383][  1]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2014.12.03-15.10.43:383][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.025335s)
+[2014.12.03-15.10.43:421][  1]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-15.10.43:422][  1]LogAIModule: Creating AISystem for world Menu
+[2014.12.03-15.10.43:425][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_7
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:651][137]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_16
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:652][137]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_20
+[2014.12.03-15.10.43:425][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.10.43:425][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_16
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.47:686][138]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_17
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.47:686][138]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_17
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:746][140]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_20
+[2014.12.03-15.10.43:426][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:426][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_8
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:747][140]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_17
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:747][140]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_21
+[2014.12.03-15.10.43:426][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.10.43:426][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_17
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.47:805][141]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_18
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.47:806][141]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_18
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.47:876][143]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_21
+[2014.12.03-15.10.43:426][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:426][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_9
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.47:876][143]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_18
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.47:876][143]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_22
+[2014.12.03-15.10.43:426][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.10.43:427][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_18
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.48:035][144]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_19
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.48:036][144]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_19
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.48:106][146]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_22
+[2014.12.03-15.10.43:427][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:427][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_10
 	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.48:107][146]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_19
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.08.48:107][146]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_23
+[2014.12.03-15.10.43:427][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.10.43:427][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_19
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.08.48:146][147]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.SwordAnim_C_20
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.08.48:146][147]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.HammerAnim_C_20
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.08.48:304][151]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2014.12.03-15.08.48:325][151]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_23
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.08.48:328][151]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_20
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.09.54:002][327]LogMaterial: Missing cached shader map for material sucube, compiling.
-[2014.12.03-15.09.54:031][327]LogMaterial: Missing cached shader map for material horns_, compiling.
-[2014.12.03-15.09.54:316][327]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
-[2014.12.03-15.09.54:316][327]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
-[2014.12.03-15.09.54:316][327]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
-[2014.12.03-15.09.54:493][327]Cmd: MAP LOAD FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1
-[2014.12.03-15.09.54:493][327]LightingResults: New page: Lighting Build
-[2014.12.03-15.09.54:594][327]LoadErrors: New page: Loading map: Level1.umap
-[2014.12.03-15.09.54:594][327]MapCheck: New page: Map Check
-[2014.12.03-15.09.54:595][327]LightingResults: New page: Lighting Build
-[2014.12.03-15.09.54:648][327]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000196D9EE0
-[2014.12.03-15.09.54:841][327]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2014.12.03-15.09.54:870][327]LogAIModule: Creating AISystem for world Level1
-[2014.12.03-15.09.55:059][327]Cmd: MAP CHECKDEP
-[2014.12.03-15.09.55:059][327]MapCheck: New page: Level1 - Dec 3, 2014, 5:09:55 AM
-[2014.12.03-15.09.55:605][327]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 544.59ms to complete.
-[2014.12.03-15.09.55:605][327]LogFileHelpers: Loading map 'Level1' took 1.123
-[2014.12.03-15.09.55:693][327]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_24
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.09.55:693][327]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_24
+[2014.12.03-15.10.43:427][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:427][  1]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-15.10.43:427][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2014.12.03-10.10.43
+[2014.12.03-15.10.43:428][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_16
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.09.55:694][327]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_6:CubeAnimHammer_C_21
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.09.55:694][327]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_7:HammerAnim_C_21
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.09.55:694][327]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_22
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.09.55:695][327]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_8:CubeAnimSword_C_25
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.09.55:695][327]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_9:SwordAnim_C_21
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.09.55:762][328]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_10:CubeAnimSword_C_26
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.09.55:763][328]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_11:AxeAnim_C_25
+[2014.12.03-15.10.43:428][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:428][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_17
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.15.07:813][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.07:813][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:007][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:007][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:008][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:008][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:008][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:008][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:008][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:008][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:008][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:009][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:009][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:009][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:009][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:009][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.15.08:009][402]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.17.46:452][592]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.17.46:453][592]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.17.46:453][592]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.17.46:453][592]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.17.46:454][592]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.17.46:454][592]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.17.46:454][592]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.19.28:169][ 24]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
-[2014.12.03-15.20.25:861][774]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
-[2014.12.03-15.20.25:861][774]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
-[2014.12.03-15.20.25:861][774]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
-[2014.12.03-15.20.26:165][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
-[2014.12.03-15.20.27:025][774]LogSavePackage: Save=640.416199ms
-[2014.12.03-15.20.27:027][774]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level1_Auto13C96C6394E8421E1E3A80295786FC6E7.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
-[2014.12.03-15.20.27:107][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 1.247
-[2014.12.03-15.20.27:108][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.247
-[2014.12.03-15.20.56:481][132]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.22.43:108][733]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.22.52:214][858]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.22.55:715][926]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.23.00:577][981]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.23.10:414][134]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.23.14:597][163]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.23.18:970][237]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.24.19:596][124]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.24.31:529][298]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.24.53:437][602]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.25.00:071][681]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.25.06:340][773]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.25.11:050][829]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.25.18:707][942]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.25.25:783][ 16]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.26.09:258][658]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.26.14:743][713]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.26.17:650][760]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.26.22:443][814]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.26.36:082][988]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.26.40:702][ 55]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.26.51:290][186]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
-[2014.12.03-15.28.37:488][555]LogEditorTransaction: Undo Move Node
-[2014.12.03-15.30.01:303][555]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2014.12.03-15.30.05:919][636]BlueprintLog: New page: Compile Level1
-[2014.12.03-15.30.07:009][636]BlueprintEditorCompileResults: Info [1322.05] Compile of Level1 successful! [in 106 ms]
-[2014.12.03-15.30.26:202][135]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
-[2014.12.03-15.30.29:770][176]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_6) Not registered. Aborting.
-[2014.12.03-15.30.29:771][176]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_0) Not registered. Aborting.
-[2014.12.03-15.30.29:950][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
-[2014.12.03-15.30.31:264][176]LogSavePackage: Save=1102.855591ms
-[2014.12.03-15.30.31:268][176]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level1_Auto26CA542A5412C6E4D1F16F58DB5A4F455.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
-[2014.12.03-15.30.31:352][176]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 1.582
-[2014.12.03-15.30.31:353][176]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.582
-[2014.12.03-15.31.08:677][702]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2014.12.03-15.31.50:807][145]BlueprintLog: New page: Compile Day7
-[2014.12.03-15.31.51:050][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_7) Not registered. Aborting.
-[2014.12.03-15.31.51:050][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_1) Not registered. Aborting.
-[2014.12.03-15.31.51:143][145]BlueprintEditorCompileResults: Info [1426.64] Compile of Day7 successful! [in 1 ms]
-[2014.12.03-15.31.51:596][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Day7" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Day7.uasset" SILENT=true
-[2014.12.03-15.31.51:671][156]LogSavePackage: Save=29.231752ms
-[2014.12.03-15.31.51:671][156]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Day7ECE061BB46CD58CD1F6500B591F9CAA0.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Day7.uasset'
-[2014.12.03-15.31.53:913][183]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2014.12.03-15.32.28:245][595]BlueprintLog: New page: Compile Level1
-[2014.12.03-15.32.28:990][595]BlueprintEditorCompileResults: Info [1464.16] Compile of Level1 successful! [in 81 ms]
-[2014.12.03-15.32.45:177][781]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_8) Not registered. Aborting.
-[2014.12.03-15.32.45:177][781]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_2) Not registered. Aborting.
-[2014.12.03-15.32.45:970][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2014.12.03-15.32.46:535][781]LogSavePackage: Save=299.706177ms
-[2014.12.03-15.32.46:536][781]LogSavePackage: Moving '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Level161E8626B40CF55F8E88CB4BB47D1CFCD.tmp' to '../../../../../../Users/Devin/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/Level1.umap'
-[2014.12.03-15.32.46:735][781]LogFileHelpers: Saving map 'Level1' took 1.307
-[2014.12.03-15.32.57:165][ 56]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2014.12.03-15.33.35:557][ 35]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_9) Not registered. Aborting.
-[2014.12.03-15.33.35:557][ 35]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_3) Not registered. Aborting.
-[2014.12.03-15.37.38:311][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_27
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.37.38:312][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_26
+[2014.12.03-15.10.43:428][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:429][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_18
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.37.38:312][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_24:CubeAnimHammer_C_23
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.37.38:313][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_25:HammerAnim_C_22
-	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
-[2014.12.03-15.37.38:313][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_24
-	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
-[2014.12.03-15.37.38:314][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_26:CubeAnimSword_C_28
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.37.38:314][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_27:SwordAnim_C_22
-	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
-[2014.12.03-15.37.38:315][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_28:CubeAnimSword_C_29
-	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
-[2014.12.03-15.37.38:316][768]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
-	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_29:AxeAnim_C_27
+[2014.12.03-15.10.43:429][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:429][  1]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_19
 	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
-[2014.12.03-15.37.39:578][795]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_10) Not registered. Aborting.
-[2014.12.03-15.37.39:578][795]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_11) Not registered. Aborting.
-[2014.12.03-15.37.39:578][795]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_12) Not registered. Aborting.
-[2014.12.03-15.37.41:438][796]Cmd: QUIT_EDITOR
-[2014.12.03-15.37.42:147][796]LogExit: Preparing to exit.
-[2014.12.03-15.37.43:444][796]LogExit: Editor shut down
-[2014.12.03-15.37.43:444][796]LogExit: Transaction tracking system shut down
-[2014.12.03-15.37.43:446][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002E824540
-[2014.12.03-15.37.43:447][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001CE26CA0
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000014BF58A0
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000019FF1440
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000146B6DE0
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000014174860
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FC05BC0
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000120A9E40
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000024C2E520
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013F3BC40
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000025F51BC0
-[2014.12.03-15.37.43:517][796]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000032F57240
-[2014.12.03-15.37.43:517][796]LogExit: Object subsystem successfully closed.
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module SequencerWidgets (167)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (166)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module CrashTracker (165)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module SuperSearch (164)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module SceneOutliner (163)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module EditorWidgets (162)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module CollectionManager (161)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module StatsViewer (160)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module FoliageEdit (159)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module LandscapeEditor (158)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module MeshPaint (157)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module ActorPickerMode (156)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module GeometryMode (155)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module TextureAlignMode (154)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module BspMode (153)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module PlacementMode (152)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module AutomationWorker (151)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module CharacterAI (150)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (149)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module IntroTutorials (148)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (147)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module HardwareTargeting (146)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (145)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (144)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module UndoHistory (143)
-[2014.12.03-15.37.43:596][796]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (142)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module UserFeedback (141)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module XmlParser (140)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module Blutility (139)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (138)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (137)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (136)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (135)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (134)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (133)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module InputBindingEditor (132)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (131)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module SettingsEditor (130)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module ProjectLauncher (129)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module SessionFrontend (128)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module ProfilerClient (127)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (126)
-[2014.12.03-15.37.43:597][796]LogModuleManager: Shutting down and abandoning module DeviceManager (125)
-[2014.12.03-15.37.43:598][796]LogModuleManager: Shutting down and abandoning module AutomationController (124)
-[2014.12.03-15.37.43:598][796]LogModuleManager: Shutting down and abandoning module AutomationWindow (123)
-[2014.12.03-15.37.43:598][796]LogModuleManager: Shutting down and abandoning module Layers (122)
-[2014.12.03-15.37.43:598][796]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (121)
-[2014.12.03-15.37.43:598][796]LogModuleManager: Shutting down and abandoning module DetailCustomizations (120)
-[2014.12.03-15.37.43:598][796]LogModuleManager: Shutting down and abandoning module PackagesDialog (119)
-[2014.12.03-15.37.43:598][796]LogModuleManager: Shutting down and abandoning module AssetRegistry (118)
-[2014.12.03-15.37.43:730][796]LogModuleManager: Shutting down and abandoning module Persona (117)
-[2014.12.03-15.37.43:732][796]LogModuleManager: Shutting down and abandoning module Kismet (116)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module GraphEditor (115)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module ClassViewer (114)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module Toolbox (113)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module ModuleUI (112)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module MovieSceneTools (111)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module OutputLog (110)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module GammaUI (109)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module Documentation (108)
-[2014.12.03-15.37.43:733][796]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (107)
-[2014.12.03-15.37.43:734][796]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (106)
-[2014.12.03-15.37.43:734][796]LogModuleManager: Shutting down and abandoning module HTTP (105)
-[2014.12.03-15.37.43:734][796]LogModuleManager: Shutting down and abandoning module AnalyticsET (104)
-[2014.12.03-15.37.43:734][796]LogModuleManager: Shutting down and abandoning module Analytics (103)
-[2014.12.03-15.37.43:734][796]LogModuleManager: Shutting down and abandoning module GameplayDebugger (102)
-[2014.12.03-15.37.43:734][796]LogModuleManager: Shutting down and abandoning module AIModule (101)
-[2014.12.03-15.37.43:734][796]LogModuleManager: Shutting down and abandoning module ProfilerService (100)
-[2014.12.03-15.37.43:979][796]LogModuleManager: Shutting down and abandoning module TaskGraph (99)
-[2014.12.03-15.37.43:979][796]LogModuleManager: Shutting down and abandoning module SlateRemote (98)
-[2014.12.03-15.37.43:979][796]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (97)
-[2014.12.03-15.37.43:979][796]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (96)
-[2014.12.03-15.37.43:979][796]LogModuleManager: Shutting down and abandoning module CableComponent (95)
-[2014.12.03-15.37.43:979][796]LogModuleManager: Shutting down and abandoning module MessagingDebugger (94)
-[2014.12.03-15.37.43:979][796]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (93)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (92)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module PluginsEditor (91)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module EpicSurvey (90)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module DesktopPlatform (89)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (88)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module UObjectPlugin (87)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (86)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module SourceControl (85)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (84)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module BlankPlugin (83)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module SlateReflector (82)
-[2014.12.03-15.37.43:980][796]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (81)
-[2014.12.03-15.37.43:981][796]LogModuleManager: Shutting down and abandoning module HotReload (80)
-[2014.12.03-15.37.43:981][796]LogModuleManager: Shutting down and abandoning module MainFrame (79)
-[2014.12.03-15.37.43:981][796]LogModuleManager: Shutting down and abandoning module LevelEditor (78)
-[2014.12.03-15.37.43:984][796]LogModuleManager: Shutting down and abandoning module ViewportSnapping (77)
-[2014.12.03-15.37.43:984][796]LogModuleManager: Shutting down and abandoning module SmartSnapping (76)
-[2014.12.03-15.37.43:984][796]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (75)
-[2014.12.03-15.37.43:984][796]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (74)
-[2014.12.03-15.37.43:985][796]LogModuleManager: Shutting down and abandoning module ContentBrowser (73)
-[2014.12.03-15.37.43:985][796]LogModuleManager: Shutting down and abandoning module PropertyEditor (72)
-[2014.12.03-15.37.43:985][796]LogModuleManager: Shutting down and abandoning module Paper2DEditor (71)
-[2014.12.03-15.37.43:985][796]LogModuleManager: Shutting down and abandoning module ScriptPlugin (70)
-[2014.12.03-15.37.43:985][796]LogModuleManager: Shutting down and abandoning module UdpMessaging (69)
-[2014.12.03-15.37.44:087][796]LogModuleManager: Shutting down and abandoning module Paper2D (68)
-[2014.12.03-15.37.44:087][796]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (67)
-[2014.12.03-15.37.44:102][796]LogModuleManager: Shutting down and abandoning module Media (66)
-[2014.12.03-15.37.44:102][796]LogModuleManager: Shutting down and abandoning module WmfMedia (65)
-[2014.12.03-15.37.44:108][796]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
-[2014.12.03-15.37.44:108][796]LogModuleManager: Shutting down and abandoning module FunctionalTesting (63)
-[2014.12.03-15.37.44:108][796]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (62)
-[2014.12.03-15.37.44:108][796]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (61)
-[2014.12.03-15.37.44:109][796]LogModuleManager: Shutting down and abandoning module MessageLog (60)
-[2014.12.03-15.37.44:109][796]LogModuleManager: Shutting down and abandoning module Sequencer (59)
-[2014.12.03-15.37.44:109][796]LogModuleManager: Shutting down and abandoning module AssetTools (58)
-[2014.12.03-15.37.44:109][796]LogModuleManager: Shutting down and abandoning module UMGEditor (57)
-[2014.12.03-15.37.44:109][796]LogModuleManager: Shutting down and abandoning module UMG (56)
-[2014.12.03-15.37.44:109][796]LogModuleManager: Shutting down and abandoning module Slate (55)
-[2014.12.03-15.37.44:109][796]LogModuleManager: Shutting down and abandoning module EditorStyle (54)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module SessionServices (53)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (52)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (51)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module XAudio2 (50)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module Networking (48)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module Core (47)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module KismetCompiler (46)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module PhysXFormats (45)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module MeshUtilities (44)
-[2014.12.03-15.37.44:119][796]LogModuleManager: Shutting down and abandoning module DerivedDataCache (43)
-[2014.12.03-15.37.44:187][796]LogDerivedDataCache: Shutdown
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (42)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (41)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (40)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (39)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (38)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (37)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (36)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (35)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (34)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (33)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module Messaging (32)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (31)
-[2014.12.03-15.37.44:187][796]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (30)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (29)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (28)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module InputCore (19)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module Settings (18)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module ImageWrapper (17)
-[2014.12.03-15.37.44:188][796]LogModuleManager: Shutting down and abandoning module OculusRift (14)
-[2014.12.03-15.37.44:189][796]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (13)
-[2014.12.03-15.37.44:189][796]LogModuleManager: Shutting down and abandoning module TextureCompressor (12)
-[2014.12.03-15.37.44:189][796]LogModuleManager: Shutting down and abandoning module ShaderCore (11)
-[2014.12.03-15.37.44:189][796]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
-[2014.12.03-15.37.44:198][796]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
-[2014.12.03-15.37.44:198][796]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
-[2014.12.03-15.37.44:198][796]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2014.12.03-15.37.44:199][796]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2014.12.03-15.37.44:199][796]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2014.12.03-15.37.44:199][796]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2014.12.03-15.37.44:199][796]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2014.12.03-15.37.44:199][796]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2014.12.03-15.37.44:199][796]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2014.12.03-15.37.44:200][796]LogExit: Exiting.
-[2014.12.03-15.37.44:406][796]Log file closed, 12/03/14 10:37:44
+[2014.12.03-15.10.43:429][  1]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.10.43:429][  1]LogWorld: Bringing up level for play took: 0.007154
+[2014.12.03-15.10.43:431][  1]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.11
+[2014.12.03-15.10.46:906][101]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000CE64180
+[2014.12.03-15.10.47:350][114]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2014.12.03-15.10.59:498][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_0
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.10.59:498][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_1
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.10.59:498][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_2
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.10.59:498][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_3
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.10.59:498][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_13
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.10.59:498][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_12
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.10.59:498][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_11
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.10.59:499][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_10
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.10.59:512][654]LogMaterial: 0.014780 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2014.12.03-15.10.59:551][655]Cmd: UpdateLandscapeEditorData
+[2014.12.03-15.10.59:552][655]Cmd: UpdateLandscapeMIC
+[2014.12.03-15.11.07:108][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.11.07:163][995]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.07:174][995]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.07:179][995]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.07:224][995]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.07:263][995]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.07:571][995]LogSavePackage: Save=415.053558ms
+[2014.12.03-15.11.07:571][995]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Menu1866C697434D656F32BBBB921F1F5644.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap'
+[2014.12.03-15.11.16:011][385]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-15.11.16:011][385]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2014.12.03-15.11.16:080][385]LogPlayLevel: PIE:  Blueprint regeneration took 68 ms (1 blueprints)
+[2014.12.03-15.11.16:080][385]PIE: New page: SIE session: Menu (Dec 3, 2014, 5:11:16 AM)
+[2014.12.03-15.11.16:088][385]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.16:111][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030606s)
+[2014.12.03-15.11.16:111][385]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2014.12.03-15.11.16:111][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.031279s)
+[2014.12.03-15.11.16:112][385]LogSelection:Warning: PIE object was selected: "Landscape /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.Landscape_0"
+[2014.12.03-15.11.16:140][385]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-15.11.16:141][385]LogAIModule: Creating AISystem for world Menu
+[2014.12.03-15.11.16:144][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_11
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.11.16:144][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.11.16:144][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_20
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:144][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:144][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_12
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.11.16:145][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.11.16:145][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_21
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:145][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:145][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_13
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.11.16:145][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.11.16:145][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_22
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:145][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:145][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_14
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.11.16:146][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.11.16:146][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_23
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:146][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:146][385]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-15.11.16:146][385]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2014.12.03-10.11.16
+[2014.12.03-15.11.16:146][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_20
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:146][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:147][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_21
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:147][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:147][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_22
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:147][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:147][385]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_23
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.16:147][385]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.11.16:148][385]LogWorld: Bringing up level for play took: 0.006923
+[2014.12.03-15.11.16:149][385]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.827
+[2014.12.03-15.11.16:163][385]LogSelection:Warning: PIE object was selected: "Landscape /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.Landscape_0"
+[2014.12.03-15.11.17:825][437]LogPackageName: SearchForPackageOnDisk took   0.043s to resolve Level1.umap
+[2014.12.03-15.11.17:876][437]LogPackageName: SearchForPackageOnDisk took   0.041s to resolve Level1.umap
+[2014.12.03-15.11.17:876][437]LogNet: Browse: /Game/Maps/Level1
+[2014.12.03-15.11.17:876][437]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.12.03-15.11.17:906][437]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E4F3B00
+[2014.12.03-15.11.17:906][437]Cmd: MEM
+[2014.12.03-15.11.17:932][437]LogMemory: Platform Memory Stats for Windows
+[2014.12.03-15.11.17:932][437]LogMemory: Process Physical Memory: 635.62 MB used, 644.67 MB peak
+[2014.12.03-15.11.17:932][437]LogMemory: Process Virtual Memory: 541.16 MB used, 552.06 MB peak
+[2014.12.03-15.11.17:932][437]LogMemory: Physical Memory: 3938.77 MB used, 16253.98 MB total
+[2014.12.03-15.11.17:932][437]LogMemory: Virtual Memory: 1048.93 MB used, 8388608.00 MB total
+[2014.12.03-15.11.17:932][437]LogMemory: 
+[2014.12.03-15.11.17:932][437]Allocator Stats for TBB: (not implemented)
+[2014.12.03-15.11.18:379][437]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-15.11.18:380][437]LogAIModule: Creating AISystem for world Level1
+[2014.12.03-15.11.18:382][437]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-15.11.18:382][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2014.12.03-10.11.18
+[2014.12.03-15.11.18:383][437]LogWorld: Bringing up level for play took: 0.002312
+[2014.12.03-15.11.25:043][618]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000025E27A60
+[2014.12.03-15.11.29:447][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.11.29:500][830]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.29:509][830]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.29:515][830]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.29:560][830]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.29:598][830]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.29:907][830]LogSavePackage: Save=416.032532ms
+[2014.12.03-15.11.29:907][830]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Menu65A66D124E0BB9AFF98556ADA42FEF72.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap'
+[2014.12.03-15.11.47:213][591]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2014.12.03-15.11.52:033][816]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_17
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.11.52:033][816]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_26
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.11.58:706][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.11.58:760][114]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.58:769][114]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.58:774][114]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.58:820][114]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.58:860][114]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.11.59:173][114]LogSavePackage: Save=419.174835ms
+[2014.12.03-15.11.59:173][114]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/MenuBBF33AE54AC69BC7DB8EBCA4930E352C.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap'
+[2014.12.03-15.12.00:103][153]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-15.12.00:103][153]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2014.12.03-15.12.00:170][153]LogPlayLevel: PIE:  Blueprint regeneration took 67 ms (1 blueprints)
+[2014.12.03-15.12.00:170][153]PIE: New page: SIE session: Menu (Dec 3, 2014, 5:12:00 AM)
+[2014.12.03-15.12.00:176][153]LogNavigation:Warning: ARecastNavMesh: Unable to serialize navmesh when build is in progress or navmesh is not up to date.
+[2014.12.03-15.12.00:194][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024025s)
+[2014.12.03-15.12.00:195][153]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2014.12.03-15.12.00:195][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.024649s)
+[2014.12.03-15.12.00:195][153]LogSelection:Warning: PIE object was selected: "PlayerStart /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.PlayerStart_0"
+[2014.12.03-15.12.00:224][153]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-15.12.00:225][153]LogAIModule: Creating AISystem for world Menu
+[2014.12.03-15.12.00:228][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_18
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.00:228][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.12.00:228][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_27
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:228][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:229][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_19
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.00:229][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.12.00:229][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_28
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:229][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:229][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_20
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.00:229][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.12.00:230][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_29
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:230][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:230][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_21
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.00:230][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Set isAttacking in blueprint CubeAnimSword
+[2014.12.03-15.12.00:230][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_30
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:230][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:230][153]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-15.12.00:230][153]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2014.12.03-10.12.00
+[2014.12.03-15.12.00:231][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_27
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:231][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:231][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_28
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:231][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:231][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_29
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:232][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:232][153]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_30
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.00:232][153]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.12.00:232][153]LogWorld: Bringing up level for play took: 0.007281
+[2014.12.03-15.12.00:234][153]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.91
+[2014.12.03-15.12.00:243][153]LogSelection:Warning: PIE object was selected: "PlayerStart /Game/Maps/UEDPIE_0_Menu.Menu:PersistentLevel.PlayerStart_0"
+[2014.12.03-15.12.01:450][187]LogPackageName: SearchForPackageOnDisk took   0.043s to resolve Level1.umap
+[2014.12.03-15.12.01:503][187]LogPackageName: SearchForPackageOnDisk took   0.042s to resolve Level1.umap
+[2014.12.03-15.12.01:503][187]LogNet: Browse: /Game/Maps/Level1
+[2014.12.03-15.12.01:503][187]LogLoad: LoadMap: /Game/Maps/Level1
+[2014.12.03-15.12.01:533][187]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D48C4A0
+[2014.12.03-15.12.01:533][187]Cmd: MEM
+[2014.12.03-15.12.01:560][187]LogMemory: Platform Memory Stats for Windows
+[2014.12.03-15.12.01:560][187]LogMemory: Process Physical Memory: 765.96 MB used, 817.80 MB peak
+[2014.12.03-15.12.01:560][187]LogMemory: Process Virtual Memory: 670.44 MB used, 721.73 MB peak
+[2014.12.03-15.12.01:560][187]LogMemory: Physical Memory: 4063.15 MB used, 16253.98 MB total
+[2014.12.03-15.12.01:560][187]LogMemory: Virtual Memory: 1182.52 MB used, 8388608.00 MB total
+[2014.12.03-15.12.01:560][187]LogMemory: 
+[2014.12.03-15.12.01:560][187]Allocator Stats for TBB: (not implemented)
+[2014.12.03-15.12.01:680][187]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-15.12.01:682][187]LogAIModule: Creating AISystem for world Level1
+[2014.12.03-15.12.01:683][187]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-15.12.01:683][187]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2014.12.03-10.12.01
+[2014.12.03-15.12.01:684][187]LogWorld: Bringing up level for play took: 0.002079
+[2014.12.03-15.12.07:860][763]Cmd: SELECT NONE
+[2014.12.03-15.12.08:862][838]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001165A7A0
+[2014.12.03-15.12.11:317][ 60]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2014.12.03-15.12.12:959][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.12.13:457][211]LogSavePackage: Save=444.596741ms
+[2014.12.03-15.12.13:457][211]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Menu26047687458E3553741F2E917444FF76.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap'
+[2014.12.03-15.12.18:622][654]MapCheck: New page: Map Check
+[2014.12.03-15.12.18:652][654]Cmd: MAP REBUILD ALLVISIBLE
+[2014.12.03-15.12.18:652][654]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2014.12.03-15.12.18:726][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_10
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:726][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_11
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:727][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_12
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:727][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_13
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:729][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_33
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:730][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_34
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:730][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_35
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:730][654]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_36
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.18:731][654]LightingResults: New page: Lighting Build - Dec 3, 2014, 5:12:18 AM
+[2014.12.03-15.12.23:054][654]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2014.12.03-15.12.23:072][654]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2014.12.03-15.12.23:072][654]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2014.12.03-15.12.23:072][654]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2014.12.03-15.12.23:072][654]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2014.12.03-15.12.23:072][654]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2014.12.03-15.12.23:201][654]LogEditorBuildUtils: Build time 0:00:04
+[2014.12.03-15.12.23:227][654]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_0, compiling.
+[2014.12.03-15.12.23:229][654]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_0, compiling.
+[2014.12.03-15.12.23:248][655]Cmd: UpdateLandscapeEditorData
+[2014.12.03-15.12.23:260][655]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2, compiling.
+[2014.12.03-15.12.23:262][655]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2, compiling.
+[2014.12.03-15.12.23:264][655]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_20, compiling.
+[2014.12.03-15.12.23:265][655]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_20, compiling.
+[2014.12.03-15.12.23:325][656]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_22, compiling.
+[2014.12.03-15.12.23:327][656]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_22, compiling.
+[2014.12.03-15.12.23:363][657]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling.
+[2014.12.03-15.12.23:365][657]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling.
+[2014.12.03-15.12.23:367][657]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_26, compiling.
+[2014.12.03-15.12.23:369][657]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_26, compiling.
+[2014.12.03-15.12.23:420][658]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_28, compiling.
+[2014.12.03-15.12.23:424][658]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_28, compiling.
+[2014.12.03-15.12.23:477][659]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_30, compiling.
+[2014.12.03-15.12.23:480][659]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_30, compiling.
+[2014.12.03-15.12.23:566][660]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_32, compiling.
+[2014.12.03-15.12.23:569][660]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_32, compiling.
+[2014.12.03-15.12.23:647][661]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling.
+[2014.12.03-15.12.23:649][661]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling.
+[2014.12.03-15.12.23:652][661]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_36, compiling.
+[2014.12.03-15.12.23:655][661]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_36, compiling.
+[2014.12.03-15.12.23:733][662]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling.
+[2014.12.03-15.12.23:736][662]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling.
+[2014.12.03-15.12.23:792][663]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_4, compiling.
+[2014.12.03-15.12.23:794][663]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_4, compiling.
+[2014.12.03-15.12.23:796][663]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40, compiling.
+[2014.12.03-15.12.23:798][663]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40, compiling.
+[2014.12.03-15.12.23:857][664]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42, compiling.
+[2014.12.03-15.12.23:860][664]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42, compiling.
+[2014.12.03-15.12.23:862][664]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_44, compiling.
+[2014.12.03-15.12.23:865][664]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_44, compiling.
+[2014.12.03-15.12.23:896][665]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling.
+[2014.12.03-15.12.23:898][665]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling.
+[2014.12.03-15.12.23:900][665]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_48, compiling.
+[2014.12.03-15.12.23:902][665]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_48, compiling.
+[2014.12.03-15.12.23:932][666]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_50, compiling.
+[2014.12.03-15.12.23:935][666]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_50, compiling.
+[2014.12.03-15.12.23:966][667]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_52, compiling.
+[2014.12.03-15.12.23:969][667]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_52, compiling.
+[2014.12.03-15.12.23:971][667]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_54, compiling.
+[2014.12.03-15.12.23:972][667]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_54, compiling.
+[2014.12.03-15.12.24:003][668]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_56, compiling.
+[2014.12.03-15.12.24:006][668]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_56, compiling.
+[2014.12.03-15.12.24:037][669]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_58, compiling.
+[2014.12.03-15.12.24:040][669]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_58, compiling.
+[2014.12.03-15.12.24:042][669]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_6, compiling.
+[2014.12.03-15.12.24:044][669]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_6, compiling.
+[2014.12.03-15.12.24:076][670]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_60, compiling.
+[2014.12.03-15.12.24:079][670]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_60, compiling.
+[2014.12.03-15.12.24:081][670]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_62, compiling.
+[2014.12.03-15.12.24:084][670]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_62, compiling.
+[2014.12.03-15.12.24:122][671]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_64, compiling.
+[2014.12.03-15.12.24:124][671]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_64, compiling.
+[2014.12.03-15.12.24:158][672]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_66, compiling.
+[2014.12.03-15.12.24:161][672]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_66, compiling.
+[2014.12.03-15.12.24:163][672]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_68, compiling.
+[2014.12.03-15.12.24:166][672]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_68, compiling.
+[2014.12.03-15.12.24:196][673]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_70, compiling.
+[2014.12.03-15.12.24:198][673]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_70, compiling.
+[2014.12.03-15.12.24:201][673]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_72, compiling.
+[2014.12.03-15.12.24:203][673]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_72, compiling.
+[2014.12.03-15.12.24:232][674]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_74, compiling.
+[2014.12.03-15.12.24:235][674]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_74, compiling.
+[2014.12.03-15.12.24:266][675]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_76, compiling.
+[2014.12.03-15.12.24:269][675]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_76, compiling.
+[2014.12.03-15.12.24:271][675]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_78, compiling.
+[2014.12.03-15.12.24:274][675]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_78, compiling.
+[2014.12.03-15.12.24:308][676]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_8, compiling.
+[2014.12.03-15.12.24:310][676]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_8, compiling.
+[2014.12.03-15.12.24:342][677]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_80, compiling.
+[2014.12.03-15.12.24:344][677]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_80, compiling.
+[2014.12.03-15.12.24:380][678]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_82, compiling.
+[2014.12.03-15.12.24:383][678]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_82, compiling.
+[2014.12.03-15.12.24:417][679]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_84, compiling.
+[2014.12.03-15.12.24:420][679]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_84, compiling.
+[2014.12.03-15.12.24:454][680]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_86, compiling.
+[2014.12.03-15.12.24:457][680]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_86, compiling.
+[2014.12.03-15.12.24:490][681]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_88, compiling.
+[2014.12.03-15.12.24:493][681]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_88, compiling.
+[2014.12.03-15.12.24:526][682]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_90, compiling.
+[2014.12.03-15.12.24:529][682]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_90, compiling.
+[2014.12.03-15.12.24:531][682]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_92, compiling.
+[2014.12.03-15.12.24:534][682]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_92, compiling.
+[2014.12.03-15.12.24:565][683]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_94, compiling.
+[2014.12.03-15.12.24:568][683]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_94, compiling.
+[2014.12.03-15.12.24:599][684]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_96, compiling.
+[2014.12.03-15.12.24:602][684]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_96, compiling.
+[2014.12.03-15.12.24:604][684]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_98, compiling.
+[2014.12.03-15.12.24:606][684]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_98, compiling.
+[2014.12.03-15.12.24:639][685]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_10, compiling.
+[2014.12.03-15.12.24:641][685]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_10, compiling.
+[2014.12.03-15.12.24:643][685]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_100, compiling.
+[2014.12.03-15.12.24:646][685]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_100, compiling.
+[2014.12.03-15.12.24:682][686]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_102, compiling.
+[2014.12.03-15.12.24:685][686]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_102, compiling.
+[2014.12.03-15.12.24:718][687]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_104, compiling.
+[2014.12.03-15.12.24:721][687]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_104, compiling.
+[2014.12.03-15.12.24:754][688]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_106, compiling.
+[2014.12.03-15.12.24:757][688]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_106, compiling.
+[2014.12.03-15.12.24:789][689]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_108, compiling.
+[2014.12.03-15.12.24:794][689]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_108, compiling.
+[2014.12.03-15.12.24:828][690]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_110, compiling.
+[2014.12.03-15.12.24:831][690]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_110, compiling.
+[2014.12.03-15.12.24:871][691]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_112, compiling.
+[2014.12.03-15.12.24:873][691]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_112, compiling.
+[2014.12.03-15.12.24:876][691]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_114, compiling.
+[2014.12.03-15.12.24:878][691]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_114, compiling.
+[2014.12.03-15.12.24:922][692]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_116, compiling.
+[2014.12.03-15.12.24:924][692]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_116, compiling.
+[2014.12.03-15.12.24:926][692]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_118, compiling.
+[2014.12.03-15.12.24:928][692]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_118, compiling.
+[2014.12.03-15.12.24:964][693]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_12, compiling.
+[2014.12.03-15.12.24:970][693]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_12, compiling.
+[2014.12.03-15.12.25:028][694]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_120, compiling.
+[2014.12.03-15.12.25:031][694]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_120, compiling.
+[2014.12.03-15.12.25:033][694]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_122, compiling.
+[2014.12.03-15.12.25:035][694]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_122, compiling.
+[2014.12.03-15.12.25:092][695]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_124, compiling.
+[2014.12.03-15.12.25:095][695]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_124, compiling.
+[2014.12.03-15.12.25:148][696]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_126, compiling.
+[2014.12.03-15.12.25:151][696]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_126, compiling.
+[2014.12.03-15.12.25:208][697]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_14, compiling.
+[2014.12.03-15.12.25:210][697]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_14, compiling.
+[2014.12.03-15.12.25:212][697]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_16, compiling.
+[2014.12.03-15.12.25:214][697]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_16, compiling.
+[2014.12.03-15.12.25:275][698]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_18, compiling.
+[2014.12.03-15.12.25:278][698]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_18, compiling.
+[2014.12.03-15.12.25:332][699]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Chrome, compiling.
+[2014.12.03-15.12.25:335][699]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Chrome, compiling.
+[2014.12.03-15.12.48:429][187]Job is a success!
+[2014.12.03-15.12.48:623][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_0
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.48:623][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_1
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.48:624][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_2
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.48:624][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_3
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.12.48:624][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_36
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.48:624][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_35
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.48:624][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_34
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.48:624][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_33
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.48:883][188]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2014.12.03-15.12.48:948][188]LogTexture:Display: Building textures: LQ_Lightmap_1_66 (DXT1)
+[2014.12.03-15.12.49:005][188]LogTexture:Display: Building textures: HQ_Lightmap1_66 (AutoDXT)
+[2014.12.03-15.12.49:009][188]LogTexture:Display: Building textures: LQ_Lightmap_0_65 (DXT1)
+[2014.12.03-15.12.49:021][188]LogTexture:Display: Building textures: HQ_Lightmap0_65 (AutoDXT)
+[2014.12.03-15.12.49:046][188]LogTexture:Display: Building textures: LQ_Lightmap_1_64 (DXT1)
+[2014.12.03-15.12.49:062][188]LogTexture:Display: Building textures: HQ_Lightmap1_64 (AutoDXT)
+[2014.12.03-15.12.49:077][188]LogTexture:Display: Building textures: LQ_Lightmap_1_63 (DXT1)
+[2014.12.03-15.12.49:091][188]LogTexture:Display: Building textures: HQ_Lightmap1_63 (AutoDXT)
+[2014.12.03-15.12.49:106][188]LogTexture:Display: Building textures: LQ_Lightmap_1_62 (DXT1)
+[2014.12.03-15.12.49:122][188]LogTexture:Display: Building textures: HQ_Lightmap1_62 (AutoDXT)
+[2014.12.03-15.12.49:139][188]LogTexture:Display: Building textures: LQ_Lightmap_1_61 (DXT1)
+[2014.12.03-15.12.49:154][188]LogTexture:Display: Building textures: HQ_Lightmap1_61 (AutoDXT)
+[2014.12.03-15.12.49:169][188]LogTexture:Display: Building textures: LQ_Lightmap_1_60 (DXT1)
+[2014.12.03-15.12.49:181][188]LogTexture:Display: Building textures: HQ_Lightmap1_60 (AutoDXT)
+[2014.12.03-15.12.49:195][188]LogTexture:Display: Building textures: LQ_Lightmap_1_59 (DXT1)
+[2014.12.03-15.12.49:207][188]LogTexture:Display: Building textures: HQ_Lightmap1_59 (AutoDXT)
+[2014.12.03-15.12.49:223][188]LogTexture:Display: Building textures: LQ_Lightmap_1_58 (DXT1)
+[2014.12.03-15.12.49:240][188]LogTexture:Display: Building textures: HQ_Lightmap1_58 (AutoDXT)
+[2014.12.03-15.12.49:256][188]LogTexture:Display: Building textures: LQ_Lightmap_1_57 (DXT1)
+[2014.12.03-15.12.49:266][188]LogTexture:Display: Building textures: HQ_Lightmap1_57 (AutoDXT)
+[2014.12.03-15.12.49:284][188]LogTexture:Display: Building textures: LQ_Lightmap_1_56 (DXT1)
+[2014.12.03-15.12.49:296][188]LogTexture:Display: Building textures: HQ_Lightmap1_56 (AutoDXT)
+[2014.12.03-15.12.49:310][188]LogTexture:Display: Building textures: LQ_Lightmap_1_55 (DXT1)
+[2014.12.03-15.12.49:322][188]LogTexture:Display: Building textures: HQ_Lightmap1_55 (AutoDXT)
+[2014.12.03-15.12.49:335][188]LogTexture:Display: Building textures: LQ_Lightmap_1_54 (DXT1)
+[2014.12.03-15.12.49:349][188]LogTexture:Display: Building textures: HQ_Lightmap1_54 (AutoDXT)
+[2014.12.03-15.12.49:365][188]LogTexture:Display: Building textures: LQ_Lightmap_1_53 (DXT1)
+[2014.12.03-15.12.49:379][188]LogTexture:Display: Building textures: HQ_Lightmap1_53 (AutoDXT)
+[2014.12.03-15.12.49:400][188]LogTexture:Display: Building textures: LQ_Lightmap_1_52 (DXT1)
+[2014.12.03-15.12.49:415][188]LogTexture:Display: Building textures: HQ_Lightmap1_52 (AutoDXT)
+[2014.12.03-15.12.49:435][188]LogTexture:Display: Building textures: LQ_Lightmap_1_51 (DXT1)
+[2014.12.03-15.12.49:449][188]LogTexture:Display: Building textures: HQ_Lightmap1_51 (AutoDXT)
+[2014.12.03-15.12.49:464][188]LogTexture:Display: Building textures: LQ_Lightmap_1_50 (DXT1)
+[2014.12.03-15.12.49:478][188]LogTexture:Display: Building textures: HQ_Lightmap1_50 (AutoDXT)
+[2014.12.03-15.12.49:493][188]LogTexture:Display: Building textures: LQ_Lightmap_1_49 (DXT1)
+[2014.12.03-15.12.49:509][188]LogTexture:Display: Building textures: HQ_Lightmap1_49 (AutoDXT)
+[2014.12.03-15.12.49:523][188]LogTexture:Display: Building textures: LQ_Lightmap_1_48 (DXT1)
+[2014.12.03-15.12.49:537][188]LogTexture:Display: Building textures: HQ_Lightmap1_48 (AutoDXT)
+[2014.12.03-15.12.49:552][188]LogTexture:Display: Building textures: LQ_Lightmap_1_47 (DXT1)
+[2014.12.03-15.12.49:568][188]LogTexture:Display: Building textures: HQ_Lightmap1_47 (AutoDXT)
+[2014.12.03-15.12.49:584][188]LogTexture:Display: Building textures: LQ_Lightmap_1_46 (DXT1)
+[2014.12.03-15.12.49:598][188]LogTexture:Display: Building textures: HQ_Lightmap1_46 (AutoDXT)
+[2014.12.03-15.12.49:613][188]LogTexture:Display: Building textures: LQ_Lightmap_1_45 (DXT1)
+[2014.12.03-15.12.49:625][188]LogTexture:Display: Building textures: HQ_Lightmap1_45 (AutoDXT)
+[2014.12.03-15.12.49:641][188]LogTexture:Display: Building textures: LQ_Lightmap_1_44 (DXT1)
+[2014.12.03-15.12.49:654][188]LogTexture:Display: Building textures: HQ_Lightmap1_44 (AutoDXT)
+[2014.12.03-15.12.49:671][188]LogTexture:Display: Building textures: LQ_Lightmap_1_43 (DXT1)
+[2014.12.03-15.12.49:686][188]LogTexture:Display: Building textures: HQ_Lightmap1_43 (AutoDXT)
+[2014.12.03-15.12.49:701][188]LogTexture:Display: Building textures: LQ_Lightmap_1_42 (DXT1)
+[2014.12.03-15.12.49:717][188]LogTexture:Display: Building textures: HQ_Lightmap1_42 (AutoDXT)
+[2014.12.03-15.12.49:734][188]LogTexture:Display: Building textures: LQ_Lightmap_1_41 (DXT1)
+[2014.12.03-15.12.49:749][188]LogTexture:Display: Building textures: HQ_Lightmap1_41 (AutoDXT)
+[2014.12.03-15.12.49:764][188]LogTexture:Display: Building textures: LQ_Lightmap_1_40 (DXT1)
+[2014.12.03-15.12.49:777][188]LogTexture:Display: Building textures: HQ_Lightmap1_40 (AutoDXT)
+[2014.12.03-15.12.49:792][188]LogTexture:Display: Building textures: LQ_Lightmap_1_39 (DXT1)
+[2014.12.03-15.12.49:808][188]LogTexture:Display: Building textures: HQ_Lightmap1_39 (AutoDXT)
+[2014.12.03-15.12.49:827][188]LogTexture:Display: Building textures: LQ_Lightmap_1_38 (DXT1)
+[2014.12.03-15.12.49:843][188]LogTexture:Display: Building textures: HQ_Lightmap1_38 (AutoDXT)
+[2014.12.03-15.12.49:863][188]LogTexture:Display: Building textures: LQ_Lightmap_1_37 (DXT1)
+[2014.12.03-15.12.49:877][188]LogTexture:Display: Building textures: HQ_Lightmap1_37 (AutoDXT)
+[2014.12.03-15.12.49:895][188]LogTexture:Display: Building textures: LQ_Lightmap_1_36 (DXT1)
+[2014.12.03-15.12.49:913][188]LogTexture:Display: Building textures: HQ_Lightmap1_36 (AutoDXT)
+[2014.12.03-15.12.49:930][188]LogTexture:Display: Building textures: LQ_Lightmap_1_35 (DXT1)
+[2014.12.03-15.12.49:948][188]LogTexture:Display: Building textures: HQ_Lightmap1_35 (AutoDXT)
+[2014.12.03-15.12.49:968][188]LogTexture:Display: Building textures: LQ_Lightmap_1_34 (DXT1)
+[2014.12.03-15.12.49:984][188]LogTexture:Display: Building textures: HQ_Lightmap1_34 (AutoDXT)
+[2014.12.03-15.12.50:000][188]LogTexture:Display: Building textures: LQ_Lightmap_1_33 (DXT1)
+[2014.12.03-15.12.50:015][188]LogTexture:Display: Building textures: HQ_Lightmap1_33 (AutoDXT)
+[2014.12.03-15.12.50:032][188]LogTexture:Display: Building textures: LQ_Lightmap_0_32 (DXT1)
+[2014.12.03-15.12.50:049][188]LogTexture:Display: Building textures: HQ_Lightmap0_32 (AutoDXT)
+[2014.12.03-15.12.50:065][188]LogTexture:Display: Building textures: LQ_Lightmap_0_31 (DXT1)
+[2014.12.03-15.12.50:091][188]LogTexture:Display: Building textures: HQ_Lightmap0_31 (AutoDXT)
+[2014.12.03-15.12.50:141][188]LogTexture:Display: Building textures: LQ_Lightmap_1_30 (DXT1)
+[2014.12.03-15.12.50:158][188]LogTexture:Display: Building textures: HQ_Lightmap1_30 (AutoDXT)
+[2014.12.03-15.12.50:174][188]LogTexture:Display: Building textures: LQ_Lightmap_1_29 (DXT1)
+[2014.12.03-15.12.50:190][188]LogTexture:Display: Building textures: HQ_Lightmap1_29 (AutoDXT)
+[2014.12.03-15.12.50:205][188]LogTexture:Display: Building textures: LQ_Lightmap_1_28 (DXT1)
+[2014.12.03-15.12.50:221][188]LogTexture:Display: Building textures: HQ_Lightmap1_28 (AutoDXT)
+[2014.12.03-15.12.50:238][188]LogTexture:Display: Building textures: LQ_Lightmap_1_27 (DXT1)
+[2014.12.03-15.12.50:253][188]LogTexture:Display: Building textures: HQ_Lightmap1_27 (AutoDXT)
+[2014.12.03-15.12.50:271][188]LogTexture:Display: Building textures: LQ_Lightmap_1_26 (DXT1)
+[2014.12.03-15.12.50:285][188]LogTexture:Display: Building textures: HQ_Lightmap1_26 (AutoDXT)
+[2014.12.03-15.12.50:303][188]LogTexture:Display: Building textures: LQ_Lightmap_1_25 (DXT1)
+[2014.12.03-15.12.50:317][188]LogTexture:Display: Building textures: HQ_Lightmap1_25 (AutoDXT)
+[2014.12.03-15.12.50:333][188]LogTexture:Display: Building textures: LQ_Lightmap_1_24 (DXT1)
+[2014.12.03-15.12.50:346][188]LogTexture:Display: Building textures: HQ_Lightmap1_24 (AutoDXT)
+[2014.12.03-15.12.50:361][188]LogTexture:Display: Building textures: LQ_Lightmap_0_23 (DXT1)
+[2014.12.03-15.12.50:376][188]LogTexture:Display: Building textures: HQ_Lightmap0_23 (AutoDXT)
+[2014.12.03-15.12.50:391][188]LogTexture:Display: Building textures: LQ_Lightmap_0_22 (DXT1)
+[2014.12.03-15.12.50:405][188]LogTexture:Display: Building textures: HQ_Lightmap0_22 (AutoDXT)
+[2014.12.03-15.12.50:423][188]LogTexture:Display: Building textures: LQ_Lightmap_1_21 (DXT1)
+[2014.12.03-15.12.50:436][188]LogTexture:Display: Building textures: HQ_Lightmap1_21 (AutoDXT)
+[2014.12.03-15.12.50:455][188]LogTexture:Display: Building textures: LQ_Lightmap_1_20 (DXT1)
+[2014.12.03-15.12.50:471][188]LogTexture:Display: Building textures: HQ_Lightmap1_20 (AutoDXT)
+[2014.12.03-15.12.50:487][188]LogTexture:Display: Building textures: LQ_Lightmap_1_19 (DXT1)
+[2014.12.03-15.12.50:500][188]LogTexture:Display: Building textures: HQ_Lightmap1_19 (AutoDXT)
+[2014.12.03-15.12.50:517][188]LogTexture:Display: Building textures: LQ_Lightmap_1_18 (DXT1)
+[2014.12.03-15.12.50:531][188]LogTexture:Display: Building textures: HQ_Lightmap1_18 (AutoDXT)
+[2014.12.03-15.12.50:551][188]LogTexture:Display: Building textures: LQ_Lightmap_1_17 (DXT1)
+[2014.12.03-15.12.50:573][188]LogTexture:Display: Building textures: HQ_Lightmap1_17 (AutoDXT)
+[2014.12.03-15.12.50:588][188]LogTexture:Display: Building textures: LQ_Lightmap_1_16 (DXT1)
+[2014.12.03-15.12.50:604][188]LogTexture:Display: Building textures: HQ_Lightmap1_16 (AutoDXT)
+[2014.12.03-15.12.50:618][188]LogTexture:Display: Building textures: LQ_Lightmap_1_15 (DXT1)
+[2014.12.03-15.12.50:633][188]LogTexture:Display: Building textures: HQ_Lightmap1_15 (AutoDXT)
+[2014.12.03-15.12.50:647][188]LogTexture:Display: Building textures: LQ_Lightmap_1_14 (DXT1)
+[2014.12.03-15.12.50:663][188]LogTexture:Display: Building textures: HQ_Lightmap1_14 (AutoDXT)
+[2014.12.03-15.12.50:680][188]LogTexture:Display: Building textures: LQ_Lightmap_1_13 (DXT1)
+[2014.12.03-15.12.50:692][188]LogTexture:Display: Building textures: HQ_Lightmap1_13 (AutoDXT)
+[2014.12.03-15.12.50:706][188]LogTexture:Display: Building textures: LQ_Lightmap_1_12 (DXT1)
+[2014.12.03-15.12.50:720][188]LogTexture:Display: Building textures: HQ_Lightmap1_12 (AutoDXT)
+[2014.12.03-15.12.50:734][188]LogTexture:Display: Building textures: LQ_Lightmap_1_11 (DXT1)
+[2014.12.03-15.12.50:748][188]LogTexture:Display: Building textures: HQ_Lightmap1_11 (AutoDXT)
+[2014.12.03-15.12.50:762][188]LogTexture:Display: Building textures: LQ_Lightmap_1_10 (DXT1)
+[2014.12.03-15.12.50:775][188]LogTexture:Display: Building textures: HQ_Lightmap1_10 (AutoDXT)
+[2014.12.03-15.12.50:790][188]LogTexture:Display: Building textures: LQ_Lightmap_1_9 (DXT1)
+[2014.12.03-15.12.50:803][188]LogTexture:Display: Building textures: HQ_Lightmap1_9 (AutoDXT)
+[2014.12.03-15.12.50:822][188]LogTexture:Display: Building textures: LQ_Lightmap_1_8 (DXT1)
+[2014.12.03-15.12.50:835][188]LogTexture:Display: Building textures: HQ_Lightmap1_8 (AutoDXT)
+[2014.12.03-15.12.50:850][188]LogTexture:Display: Building textures: LQ_Lightmap_1_7 (DXT1)
+[2014.12.03-15.12.50:862][188]LogTexture:Display: Building textures: HQ_Lightmap1_7 (AutoDXT)
+[2014.12.03-15.12.50:880][188]LogTexture:Display: Building textures: LQ_Lightmap_1_6 (DXT1)
+[2014.12.03-15.12.50:894][188]LogTexture:Display: Building textures: HQ_Lightmap1_6 (AutoDXT)
+[2014.12.03-15.12.50:911][188]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1)
+[2014.12.03-15.12.50:924][188]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT)
+[2014.12.03-15.12.50:940][188]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2014.12.03-15.12.50:954][188]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2014.12.03-15.12.50:975][188]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2014.12.03-15.12.50:989][188]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2014.12.03-15.12.51:006][188]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2014.12.03-15.12.51:021][188]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2014.12.03-15.12.51:039][188]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2014.12.03-15.12.51:057][188]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (BGRA8)
+[2014.12.03-15.12.51:061][188]LogTexture:Display: Building textures: ShadowMapTexture2D_22 (BGRA8)
+[2014.12.03-15.12.51:067][188]LogTexture:Display: Building textures: ShadowMapTexture2D_30 (BGRA8)
+[2014.12.03-15.12.51:071][188]LogTexture:Display: Building textures: ShadowMapTexture2D_31 (BGRA8)
+[2014.12.03-15.12.51:076][188]LogTexture:Display: Building textures: ShadowMapTexture2D_64 (BGRA8)
+[2014.12.03-15.12.51:081][188]LogTexture:Display: Building textures: ShadowMapTexture2D_66 (BGRA8)
+[2014.12.03-15.12.51:086][188]LogTexture:Display: Building textures: ShadowMapTexture2D_67 (BGRA8)
+[2014.12.03-15.12.51:092][188]LogTexture:Display: Building textures: ShadowMapTexture2D_68 (BGRA8)
+[2014.12.03-15.12.51:097][188]LogTexture:Display: Building textures: ShadowMapTexture2D_69 (BGRA8)
+[2014.12.03-15.12.51:101][188]LogTexture:Display: Building textures: ShadowMapTexture2D_70 (BGRA8)
+[2014.12.03-15.12.51:107][188]LogTexture:Display: Building textures: ShadowMapTexture2D_71 (BGRA8)
+[2014.12.03-15.12.51:111][188]LogTexture:Display: Building textures: ShadowMapTexture2D_72 (BGRA8)
+[2014.12.03-15.12.51:115][188]LogTexture:Display: Building textures: ShadowMapTexture2D_73 (BGRA8)
+[2014.12.03-15.12.51:120][188]LogTexture:Display: Building textures: ShadowMapTexture2D_74 (BGRA8)
+[2014.12.03-15.12.51:124][188]LogTexture:Display: Building textures: ShadowMapTexture2D_75 (BGRA8)
+[2014.12.03-15.12.51:128][188]LogTexture:Display: Building textures: ShadowMapTexture2D_76 (BGRA8)
+[2014.12.03-15.12.51:133][188]LogTexture:Display: Building textures: ShadowMapTexture2D_77 (BGRA8)
+[2014.12.03-15.12.51:138][188]LogTexture:Display: Building textures: ShadowMapTexture2D_78 (BGRA8)
+[2014.12.03-15.12.51:142][188]LogTexture:Display: Building textures: ShadowMapTexture2D_79 (BGRA8)
+[2014.12.03-15.12.51:146][188]LogTexture:Display: Building textures: ShadowMapTexture2D_80 (BGRA8)
+[2014.12.03-15.12.51:152][188]LogTexture:Display: Building textures: ShadowMapTexture2D_81 (BGRA8)
+[2014.12.03-15.12.51:158][188]LogTexture:Display: Building textures: ShadowMapTexture2D_82 (BGRA8)
+[2014.12.03-15.12.51:163][188]LogTexture:Display: Building textures: ShadowMapTexture2D_83 (BGRA8)
+[2014.12.03-15.12.51:168][188]LogTexture:Display: Building textures: ShadowMapTexture2D_84 (BGRA8)
+[2014.12.03-15.12.51:174][188]LogTexture:Display: Building textures: ShadowMapTexture2D_85 (BGRA8)
+[2014.12.03-15.12.51:178][188]LogTexture:Display: Building textures: ShadowMapTexture2D_86 (BGRA8)
+[2014.12.03-15.12.51:184][188]LogTexture:Display: Building textures: ShadowMapTexture2D_87 (BGRA8)
+[2014.12.03-15.12.51:190][188]LogTexture:Display: Building textures: ShadowMapTexture2D_88 (BGRA8)
+[2014.12.03-15.12.51:195][188]LogTexture:Display: Building textures: ShadowMapTexture2D_89 (BGRA8)
+[2014.12.03-15.12.51:201][188]LogTexture:Display: Building textures: ShadowMapTexture2D_90 (BGRA8)
+[2014.12.03-15.12.51:246][188]LogTexture:Display: Building textures: ShadowMapTexture2D_91 (BGRA8)
+[2014.12.03-15.12.51:256][188]LogTexture:Display: Building textures: ShadowMapTexture2D_92 (BGRA8)
+[2014.12.03-15.12.51:261][188]LogTexture:Display: Building textures: ShadowMapTexture2D_93 (BGRA8)
+[2014.12.03-15.12.51:266][188]LogTexture:Display: Building textures: ShadowMapTexture2D_94 (BGRA8)
+[2014.12.03-15.12.51:272][188]LogTexture:Display: Building textures: ShadowMapTexture2D_95 (BGRA8)
+[2014.12.03-15.12.51:277][188]LogTexture:Display: Building textures: ShadowMapTexture2D_96 (BGRA8)
+[2014.12.03-15.12.51:283][188]LogTexture:Display: Building textures: ShadowMapTexture2D_97 (BGRA8)
+[2014.12.03-15.12.51:289][188]LogTexture:Display: Building textures: ShadowMapTexture2D_98 (BGRA8)
+[2014.12.03-15.12.51:294][188]LogTexture:Display: Building textures: ShadowMapTexture2D_99 (BGRA8)
+[2014.12.03-15.12.51:300][188]LogTexture:Display: Building textures: ShadowMapTexture2D_100 (BGRA8)
+[2014.12.03-15.12.51:307][188]LogTexture:Display: Building textures: ShadowMapTexture2D_101 (BGRA8)
+[2014.12.03-15.12.51:312][188]LogTexture:Display: Building textures: ShadowMapTexture2D_102 (BGRA8)
+[2014.12.03-15.12.51:317][188]LogTexture:Display: Building textures: ShadowMapTexture2D_103 (BGRA8)
+[2014.12.03-15.12.51:323][188]LogTexture:Display: Building textures: ShadowMapTexture2D_104 (BGRA8)
+[2014.12.03-15.12.51:329][188]LogTexture:Display: Building textures: ShadowMapTexture2D_105 (BGRA8)
+[2014.12.03-15.12.51:333][188]LogTexture:Display: Building textures: ShadowMapTexture2D_106 (BGRA8)
+[2014.12.03-15.12.51:337][188]LogTexture:Display: Building textures: ShadowMapTexture2D_107 (BGRA8)
+[2014.12.03-15.12.51:342][188]LogTexture:Display: Building textures: ShadowMapTexture2D_108 (BGRA8)
+[2014.12.03-15.12.51:348][188]LogTexture:Display: Building textures: ShadowMapTexture2D_109 (BGRA8)
+[2014.12.03-15.12.51:353][188]LogTexture:Display: Building textures: ShadowMapTexture2D_110 (BGRA8)
+[2014.12.03-15.12.51:358][188]LogTexture:Display: Building textures: ShadowMapTexture2D_111 (BGRA8)
+[2014.12.03-15.12.51:363][188]LogTexture:Display: Building textures: ShadowMapTexture2D_112 (BGRA8)
+[2014.12.03-15.12.51:369][188]LogTexture:Display: Building textures: ShadowMapTexture2D_113 (BGRA8)
+[2014.12.03-15.12.51:373][188]LogTexture:Display: Building textures: ShadowMapTexture2D_114 (BGRA8)
+[2014.12.03-15.12.51:379][188]LogTexture:Display: Building textures: ShadowMapTexture2D_115 (BGRA8)
+[2014.12.03-15.12.51:383][188]LogTexture:Display: Building textures: ShadowMapTexture2D_116 (BGRA8)
+[2014.12.03-15.12.51:387][188]LogTexture:Display: Building textures: ShadowMapTexture2D_117 (BGRA8)
+[2014.12.03-15.12.51:392][188]LogTexture:Display: Building textures: ShadowMapTexture2D_118 (BGRA8)
+[2014.12.03-15.12.51:397][188]LogTexture:Display: Building textures: ShadowMapTexture2D_119 (BGRA8)
+[2014.12.03-15.12.51:402][188]LogTexture:Display: Building textures: ShadowMapTexture2D_120 (BGRA8)
+[2014.12.03-15.12.51:409][188]LogTexture:Display: Building textures: ShadowMapTexture2D_121 (BGRA8)
+[2014.12.03-15.12.51:415][188]LogTexture:Display: Building textures: ShadowMapTexture2D_122 (BGRA8)
+[2014.12.03-15.12.51:420][188]LogTexture:Display: Building textures: ShadowMapTexture2D_123 (BGRA8)
+[2014.12.03-15.12.51:425][188]LogTexture:Display: Building textures: ShadowMapTexture2D_124 (BGRA8)
+[2014.12.03-15.12.51:438][188]LogTexture:Display: Building textures: ShadowMapTexture2D_125 (BGRA8)
+[2014.12.03-15.12.51:441][188]LogTexture:Display: Building textures: ShadowMapTexture2D_131 (BGRA8)
+[2014.12.03-15.12.51:471][188]Lightmass on SA2411-PC42: 13.3 sec total, 456 ms importing, 795 ms setup, 1.13 sec photons, 10.9 sec processing, 0 ms extra exporting [79/79 mappings]. Threads: 1:16 min total, 43.5 sec processing.
+[2014.12.03-15.12.51:490][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_33
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.51:490][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_34
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.51:490][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_35
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.51:490][188]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_36
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.12.51:523][188]LogStaticLightingSystem:Warning: Illumination: 32.7 sec (2.80 sec encoding lightmaps)
+[2014.12.03-15.12.51:523][188]LogStaticLightingSystem: Lightmap texture memory:  1.7 MB (1.7 MB streaming, 0.0 MB non-streaming), 132 textures
+[2014.12.03-15.12.51:523][188]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 66 textures
+[2014.12.03-15.12.52:107][189]Cmd: UpdateLandscapeEditorData
+[2014.12.03-15.12.52:107][189]Cmd: MAP CHECK NOTIFYRESULTS
+[2014.12.03-15.12.52:107][189]MapCheck: New page: Menu - Dec 3, 2014, 5:12:52 AM
+[2014.12.03-15.12.52:243][189]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 135.771ms to complete.
+[2014.12.03-15.14.36:538][818]LogTexture:Warning: Failed to stream mip data from the derived data cache for /Game/Maps/Menu.HQ_Lightmap1_31. Streaming mips will be recached.
+[2014.12.03-15.14.36:541][818]LogTexture:Display: Building textures: HQ_Lightmap1_31 (AutoDXT)
+[2014.12.03-15.14.36:742][833]LogTexture:Warning: Failed to stream mip data from the derived data cache for /Game/Maps/Menu.HQ_Lightmap0_42. Streaming mips will be recached.
+[2014.12.03-15.14.36:745][833]LogTexture:Display: Building textures: HQ_Lightmap0_42 (AutoDXT)
+[2014.12.03-15.14.37:281][883]LogTexture:Warning: Failed to stream mip data from the derived data cache for /Game/Maps/Menu.HQ_Lightmap1_65. Streaming mips will be recached.
+[2014.12.03-15.14.37:284][883]LogTexture:Display: Building textures: HQ_Lightmap1_65 (AutoDXT)
+[2014.12.03-15.14.42:259][348]LogTexture:Warning: Failed to stream mip data from the derived data cache for /Game/Maps/Menu.HQ_Lightmap0_50. Streaming mips will be recached.
+[2014.12.03-15.14.42:262][348]LogTexture:Display: Building textures: HQ_Lightmap0_50 (AutoDXT)
+[2014.12.03-15.14.43:319][443]LogTexture:Warning: Failed to stream mip data from the derived data cache for /Game/Maps/Menu.HQ_Lightmap0_16. Streaming mips will be recached.
+[2014.12.03-15.14.43:322][443]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT)
+[2014.12.03-15.14.46:219][710]LogEditorViewport: Clicking on Actor (LMB): Statue_C (Statue)
+[2014.12.03-15.14.49:634][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.14.50:100][863]LogSavePackage: Save=428.645203ms
+[2014.12.03-15.14.50:100][863]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Menu0AF4D84C4517FAAC3CC065B91C06B1CB.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap'
+[2014.12.03-15.14.50:173][863]LogFileHelpers: Saving map 'Menu' took 0.646
+[2014.12.03-15.14.50:801][864]Cmd: QUIT_EDITOR
+[2014.12.03-15.14.51:082][864]LogExit: Preparing to exit.
+[2014.12.03-15.14.52:119][864]LogExit: Editor shut down
+[2014.12.03-15.14.52:119][864]LogExit: Transaction tracking system shut down
+[2014.12.03-15.14.52:120][864]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000122C44A0
+[2014.12.03-15.14.52:120][864]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F3EEF20
+[2014.12.03-15.14.52:122][864]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000174720C0
+[2014.12.03-15.14.52:166][864]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D48C720
+[2014.12.03-15.14.52:166][864]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000B47A340
+[2014.12.03-15.14.52:166][864]LogExit: Object subsystem successfully closed.
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (166)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module CrashTracker (165)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module SuperSearch (164)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module SceneOutliner (163)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module EditorWidgets (162)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module CollectionManager (161)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module StatsViewer (160)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module FoliageEdit (159)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module LandscapeEditor (158)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module MeshPaint (157)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module ActorPickerMode (156)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module GeometryMode (155)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module TextureAlignMode (154)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module BspMode (153)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module PlacementMode (152)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module AutomationWorker (151)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module CharacterAI (150)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (149)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module IntroTutorials (148)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (147)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module HardwareTargeting (146)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (145)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (144)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module UndoHistory (143)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (142)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module UserFeedback (141)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module XmlParser (140)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module Blutility (139)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (138)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (137)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (136)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (135)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (134)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (133)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module InputBindingEditor (132)
+[2014.12.03-15.14.52:220][864]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (131)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module SettingsEditor (130)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module ProjectLauncher (129)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module SessionFrontend (128)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module ProfilerClient (127)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (126)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module DeviceManager (125)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module AutomationController (124)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module AutomationWindow (123)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module Layers (122)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (121)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module DetailCustomizations (120)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module PackagesDialog (119)
+[2014.12.03-15.14.52:221][864]LogModuleManager: Shutting down and abandoning module AssetRegistry (118)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module Persona (117)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module Kismet (116)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module GraphEditor (115)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module ClassViewer (114)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module Toolbox (113)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module ModuleUI (112)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module MovieSceneTools (111)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module OutputLog (110)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module GammaUI (109)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module Documentation (108)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (107)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (106)
+[2014.12.03-15.14.52:315][864]LogModuleManager: Shutting down and abandoning module HTTP (105)
+[2014.12.03-15.14.52:316][864]LogModuleManager: Shutting down and abandoning module AnalyticsET (104)
+[2014.12.03-15.14.52:316][864]LogModuleManager: Shutting down and abandoning module Analytics (103)
+[2014.12.03-15.14.52:316][864]LogModuleManager: Shutting down and abandoning module GameplayDebugger (102)
+[2014.12.03-15.14.52:316][864]LogModuleManager: Shutting down and abandoning module AIModule (101)
+[2014.12.03-15.14.52:316][864]LogModuleManager: Shutting down and abandoning module ProfilerService (100)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module TaskGraph (99)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module SlateRemote (98)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (97)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (96)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module CableComponent (95)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module MessagingDebugger (94)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (93)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (92)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module PluginsEditor (91)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module EpicSurvey (90)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module DesktopPlatform (89)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (88)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module UObjectPlugin (87)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (86)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module SourceControl (85)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (84)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module BlankPlugin (83)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module SlateReflector (82)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (81)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module HotReload (80)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module MainFrame (79)
+[2014.12.03-15.14.52:381][864]LogModuleManager: Shutting down and abandoning module LevelEditor (78)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module ViewportSnapping (77)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module SmartSnapping (76)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (75)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (74)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module ContentBrowser (73)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module PropertyEditor (72)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module Paper2DEditor (71)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module ScriptPlugin (70)
+[2014.12.03-15.14.52:382][864]LogModuleManager: Shutting down and abandoning module UdpMessaging (69)
+[2014.12.03-15.14.52:482][864]LogModuleManager: Shutting down and abandoning module Paper2D (68)
+[2014.12.03-15.14.52:482][864]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (67)
+[2014.12.03-15.14.52:486][864]LogModuleManager: Shutting down and abandoning module Media (66)
+[2014.12.03-15.14.52:486][864]LogModuleManager: Shutting down and abandoning module WmfMedia (65)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module FunctionalTesting (63)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (62)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (61)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module MessageLog (60)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module Sequencer (59)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module AssetTools (58)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module UMGEditor (57)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module UMG (56)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module Slate (55)
+[2014.12.03-15.14.52:487][864]LogModuleManager: Shutting down and abandoning module EditorStyle (54)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module SessionServices (53)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (52)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (51)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module XAudio2 (50)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module Networking (48)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module Core (47)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module KismetCompiler (46)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module PhysXFormats (45)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module MeshUtilities (44)
+[2014.12.03-15.14.52:488][864]LogModuleManager: Shutting down and abandoning module DerivedDataCache (43)
+[2014.12.03-15.14.52:577][864]LogDerivedDataCache: Shutdown
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (42)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (41)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (40)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (39)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (38)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (37)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (36)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (35)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (34)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (33)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module Messaging (32)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (31)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (30)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (29)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (28)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module ImageWrapper (17)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module OculusRift (14)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (13)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module TextureCompressor (12)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module ShaderCore (11)
+[2014.12.03-15.14.52:577][864]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2014.12.03-15.14.52:578][864]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2014.12.03-15.14.52:578][864]LogExit: Exiting.
+[2014.12.03-15.14.52:582][864]Log file closed, 12/03/14 10:14:52
