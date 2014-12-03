@@ -5753,4 +5753,880 @@ Referencers of BlueprintGeneratedClass /Game/Maps/MainLevel.MainLevel_C:
 [2014.12.03-17.48.29:721][ 34]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainLevel724CB2884170132D3B4917A53B3C8774.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap'
 [2014.12.03-17.48.31:688][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Succubus" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Succubus.uasset" SILENT=true
 [2014.12.03-17.48.32:065][ 83]LogSavePackage: Save=360.002991ms
-[2014.12.03-17.48.32:065][ 83]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCU
+[2014.12.03-17.48.32:065][ 83]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Succubus78BB99B64FE292C7E93EEF8D31B9BEB4.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Succubus.uasset'
+[2014.12.03-17.48.47:088][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Day0" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Day0.uasset" SILENT=true
+[2014.12.03-17.48.47:133][651]LogSavePackage: Save=9.464812ms
+[2014.12.03-17.48.47:133][651]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Day03745FD6041BE57F14B32CC8D1470454D.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Day0.uasset'
+[2014.12.03-17.50.28:142][993]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2014.12.03-17.50.28:877][ 39]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
+[2014.12.03-17.50.29:797][ 95]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:474][329]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.35:611][329]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.49:050][ 96]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.50.54:241][354]LogRenderer:Warning: Reallocating scene render targets to support 1288x1064.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.00:617][694]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.51.49:542][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.52.31:747][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-17.52.31:763][402]LogSavePackage: Save=13.827913ms
+[2014.12.03-17.52.31:763][402]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoalC1A7FE3E4694B83D3AB0B0871E6CAE6F.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-17.52.32:539][442]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-17.52.32:612][442]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_48) Not registered. Aborting.
+[2014.12.03-17.52.32:612][442]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_3) Not registered. Aborting.
+[2014.12.03-17.52.32:686][442]BlueprintEditorCompileResults: Info [7206.60] Compile of MyGoal successful! [in 0 ms]
+[2014.12.03-17.53.17:085][652]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_127:CubeAnimSword_C_275
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-17.53.17:086][652]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_128:AxeAnim_C_293
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-17.53.17:098][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cubes/EnemyCubeAxe" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset" SILENT=true
+[2014.12.03-17.53.17:388][652]LogSavePackage: Save=273.731323ms
+[2014.12.03-17.53.17:389][652]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/EnemyCubeAxe0EA60E904C06D56F2F7D72B8805809B5.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Cubes/EnemyCubeAxe.uasset'
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.54:993][652]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.53.59:817][973]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.21:663][356]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.54.55:276][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.55.12:323][743]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.17:668][475]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:191][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:278][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.25:279][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.26:290][  5]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:975][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:976][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.28:976][163]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.32:938][414]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.36:643][642]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.56.51:150][465]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.16:320][935]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.25:819][513]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.57.31:324][864]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.19:903][787]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.28:121][275]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.31:417][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.33:709][579]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_49) Not registered. Aborting.
+[2014.12.03-17.58.33:709][579]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_50) Not registered. Aborting.
+[2014.12.03-17.58.33:709][579]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_4) Not registered. Aborting.
+[2014.12.03-17.58.33:768][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000073641F80
+[2014.12.03-17.58.33:768][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000006D3751C0
+[2014.12.03-17.58.33:769][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000058374B80
+[2014.12.03-17.58.33:769][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005B1B28E0
+[2014.12.03-17.58.33:770][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000042AE5C60
+[2014.12.03-17.58.33:770][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000059B7CFE0
+[2014.12.03-17.58.33:770][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000056F93CE0
+[2014.12.03-17.58.33:771][579]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005D57B880
+[2014.12.03-17.58.33:793][579]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainLevel' took 0.084
+[2014.12.03-17.58.33:807][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyGoal] ([1] browsable assets)...
+[2014.12.03-17.58.33:864][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyGoal]
+[2014.12.03-17.58.33:939][579]LogSavePackage: Save=15.417439ms
+[2014.12.03-17.58.33:939][579]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoal_Auto568B08D2D48D74F8D47BC40868C9C09E2.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Blueprints/MyGoal_Auto5.uasset'
+[2014.12.03-17.58.33:943][579]LogFileHelpers: Auto-saving content packages took 0.149
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.39:787][932]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.47:540][430]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.58.58:913][118]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:378][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.12:379][936]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.20:668][400]LogTexture:Display: Building textures: gameover (BGRA8)
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-17.59.34:997][264]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.01:177][845]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.04:195][ 21]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.06:942][186]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.26:943][317]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.37:837][918]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.00.54:982][767]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-18.00.54:983][767]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-18.00.54:983][767]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_24726 or K2Node_CallFunction /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_CallFunction_24726
+[2014.12.03-18.00.54:983][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61615.EdGraphPin_11786).  Import failed...
+[2014.12.03-18.00.54:983][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_24726.EdGraphPin_11766"''
+[2014.12.03-18.00.54:984][767]LogUObjectHash:Warning: Ambiguous search, could be K2Node_VariableSet /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_VariableSet_1851 or K2Node_VariableSet /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_VariableSet_1851
+[2014.12.03-18.00.54:984][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_VariableSet_1851.EdGraphPin_11703) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61615.EdGraphPin_11785).  Import failed...
+[2014.12.03-18.00.54:984][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_VariableSet_1851.EdGraphPin_11703"''
+[2014.12.03-18.00.54:984][767]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694 or K2Node_CallFunction /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_61694
+[2014.12.03-18.00.54:984][767]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694 or K2Node_CallFunction /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_CallFunction_61694
+[2014.12.03-18.00.54:984][767]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694 or K2Node_CallFunction /Game/Blueprints/MainMenu.MainMenu:EventGraph.K2Node_CallFunction_61694
+[2014.12.03-18.00.54:984][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_61694.EdGraphPin_11797) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61615.EdGraphPin_11784).  Import failed...
+[2014.12.03-18.00.54:984][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_61694.EdGraphPin_11797"''
+[2014.12.03-18.00.54:985][767]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_24726 or K2Node_CallFunction /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_CallFunction_24726
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11798).  Import failed...
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_24726.EdGraphPin_11766"''
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55733.EdGraphPin_11776) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55733.EdGraphPin_11776"''
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_53925.EdGraphPin_26227) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_53925.EdGraphPin_26227"''
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55739.EdGraphPin_26218) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55739.EdGraphPin_26218"''
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55738.EdGraphPin_26209) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55738.EdGraphPin_26209"''
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55737.EdGraphPin_26200) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55737.EdGraphPin_26200"''
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55736.EdGraphPin_26191) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:985][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55736.EdGraphPin_26191"''
+[2014.12.03-18.00.54:986][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55735.EdGraphPin_26182) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:986][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55735.EdGraphPin_26182"''
+[2014.12.03-18.00.54:986][767]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55734.EdGraphPin_26173) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694.EdGraphPin_11796).  Import failed...
+[2014.12.03-18.00.54:986][767]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55734.EdGraphPin_26173"''
+[2014.12.03-18.01.06:392][337]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.12.03-18.01.06:392][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55865.EdGraphPin_11753) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:392][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55865.EdGraphPin_11753"''
+[2014.12.03-18.01.06:392][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55864.EdGraphPin_11741) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:392][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55864.EdGraphPin_11741"''
+[2014.12.03-18.01.06:392][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61615 or K2Node_CallFunction /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_61615
+[2014.12.03-18.01.06:392][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61615 or K2Node_CallFunction /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_CallFunction_61615
+[2014.12.03-18.01.06:392][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61615 or K2Node_CallFunction /Game/Blueprints/MainMenu.MainMenu:EventGraph.K2Node_CallFunction_61615
+[2014.12.03-18.01.06:392][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_61615.EdGraphPin_11786) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_61615.EdGraphPin_11786"''
+[2014.12.03-18.01.06:393][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694 or K2Node_CallFunction /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_61694
+[2014.12.03-18.01.06:393][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694 or K2Node_CallFunction /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_CallFunction_61694
+[2014.12.03-18.01.06:393][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_61694 or K2Node_CallFunction /Game/Blueprints/MainMenu.MainMenu:EventGraph.K2Node_CallFunction_61694
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_61694.EdGraphPin_11798) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_61694.EdGraphPin_11798"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55867.EdGraphPin_26484) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55867.EdGraphPin_26484"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55866.EdGraphPin_26472) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55866.EdGraphPin_26472"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55869.EdGraphPin_26508) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55869.EdGraphPin_26508"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55868.EdGraphPin_26496) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55868.EdGraphPin_26496"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55870.EdGraphPin_26520) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55870.EdGraphPin_26520"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55871.EdGraphPin_26532) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55871.EdGraphPin_26532"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55873.EdGraphPin_26556) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55873.EdGraphPin_26556"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55872.EdGraphPin_26544) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55872.EdGraphPin_26544"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55874.EdGraphPin_26568) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55874.EdGraphPin_26568"''
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55875.EdGraphPin_26580) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:393][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55875.EdGraphPin_26580"''
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55877.EdGraphPin_26604) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55877.EdGraphPin_26604"''
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_55876.EdGraphPin_26592) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_55876.EdGraphPin_26592"''
+[2014.12.03-18.01.06:394][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_CallFunction_21300 or K2Node_CallFunction /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_21300
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_21300.EdGraphPin_26616) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_21300.EdGraphPin_26616"''
+[2014.12.03-18.01.06:394][337]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_CallFunction_23013 or K2Node_CallFunction /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_23013
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/Maps/MainLevel.MainLevel:PersistentLevel.MainLevel.EventGraph.K2Node_CallFunction_23013.EdGraphPin_26628) from referencer (EdGraphPin /Game/Blueprints/MyGoal.MyGoal:EventGraph.K2Node_CallFunction_24726.EdGraphPin_11766).  Import failed...
+[2014.12.03-18.01.06:394][337]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_23013.EdGraphPin_26628"''
+[2014.12.03-18.01.14:932][814]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_51) Not registered. Aborting.
+[2014.12.03-18.01.14:932][814]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_5) Not registered. Aborting.
+[2014.12.03-18.01.15:013][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-18.01.15:045][814]LogSavePackage: Save=16.273024ms
+[2014.12.03-18.01.15:045][814]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoal582F826149C6480079FCF9B0BD41478B.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-18.01.15:107][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOver" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/GameOver.uasset" SILENT=true
+[2014.12.03-18.01.15:157][814]LogSavePackage: Save=14.223763ms
+[2014.12.03-18.01.15:157][814]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/GameOverDEAB41DE4E638E3C8A8EAE88408B03BF.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/GameOver.uasset'
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.35:833][107]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.01.51:211][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOver" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/GameOver.uasset" SILENT=true
+[2014.12.03-18.01.51:239][ 63]LogSavePackage: Save=13.463276ms
+[2014.12.03-18.01.51:239][ 63]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/GameOver2C5F82CE41346190793A698C5E53A658.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/GameOver.uasset'
+[2014.12.03-18.01.58:528][511]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.01.58:639][511]BlueprintEditorCompileResults: Info [7772.56] Compile of MyGoal successful! [in 3 ms]
+[2014.12.03-18.02.00:389][613]BlueprintLog: New page: Compile GameOver
+[2014.12.03-18.02.00:522][613]BlueprintEditorCompileResults: Info [7774.42] Compile of GameOver successful! [in 6 ms]
+[2014.12.03-18.02.05:075][794]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-18.02.05:078][794]LogPlayLevel: [PIE] Compiling MyGoal before PIE...
+[2014.12.03-18.02.05:146][794]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-18.02.05:270][794]LogPlayLevel: [PIE] Compiling MainLevel before PIE...
+[2014.12.03-18.02.05:426][794]LogPlayLevel: PIE:  Blueprint regeneration took 350 ms (3 blueprints)
+[2014.12.03-18.02.05:426][794]PIE: New page: SIE session: MainLevel (Dec 3, 2014, 8:02:05 AM)
+[2014.12.03-18.02.05:483][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056366s)
+[2014.12.03-18.02.05:483][794]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2014.12.03-18.02.05:483][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.057063s)
+[2014.12.03-18.02.05:484][794]LogSelection:Warning: PIE object was selected: "Landscape /Game/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.Landscape_0"
+[2014.12.03-18.02.05:513][794]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-18.02.05:514][794]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.02.05:528][794]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-18.02.05:528][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2014.12.03-13.02.05
+[2014.12.03-18.02.05:529][794]LogWorld: Bringing up level for play took: 0.014293
+[2014.12.03-18.02.05:529][794]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainLevel 0.011
+[2014.12.03-18.02.05:544][794]LogSelection:Warning: PIE object was selected: "Landscape /Game/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.Landscape_0"
+[2014.12.03-18.02.08:786][919]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.09:780][962]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.10:201][980]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.10:524][994]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.10:777][  5]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.11:265][ 26]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.11:655][ 42]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.11:972][ 54]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.13:065][ 95]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.13:305][104]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.13:520][112]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.13:727][120]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.13:918][128]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.14:084][135]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.14:298][144]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.14:513][153]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.14:943][171]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.15:230][183]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.15:421][191]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.15:637][200]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.15:830][208]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.16:330][229]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.16:734][246]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.16:926][254]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.17:187][265]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.17:354][272]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.31:160][852]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.31:400][862]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.31:618][871]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.31:954][885]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.32:149][893]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.32:319][900]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.32:539][909]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.32:708][916]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.32:807][920]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.33:729][958]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.34:116][974]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.34:404][986]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.34:619][995]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.35:048][ 13]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.35:431][ 29]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.35:740][ 42]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.36:831][ 88]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.37:093][ 99]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.37:307][108]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.37:497][116]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.37:687][124]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.37:851][131]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.38:086][141]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.38:300][150]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.38:724][168]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.39:005][180]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.39:194][188]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.39:407][197]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.39:596][205]LogActor:Warning: Projectile_C_159 is outside the world bounds!
+[2014.12.03-18.02.40:112][227]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.40:509][244]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.40:695][252]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.40:975][264]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.41:138][271]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.54:989][866]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.55:243][877]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.55:453][886]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.55:802][901]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.55:986][909]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.56:172][917]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.56:381][926]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.02.56:542][933]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.03.08:947][465]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007EAC0360
+[2014.12.03-18.03.11:159][553]LogEditorViewport: Clicking on Actor (LMB): EnemySpawnPoint_C (EnemySpawnPoint_2)
+[2014.12.03-18.03.47:828][974]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_278
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.03.47:828][974]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_296
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.03.47:829][974]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_141:CubeAnimSword_C_279
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.03.47:829][974]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_142:AxeAnim_C_297
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:346][320]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.09:577][334]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_52) Not registered. Aborting.
+[2014.12.03-18.04.09:577][334]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_6) Not registered. Aborting.
+[2014.12.03-18.04.09:577][334]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_53) Not registered. Aborting.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.11:394][452]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.16:175][731]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.24:207][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.04.30:423][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-18.04.30:799][639]LogSavePackage: Save=352.526459ms
+[2014.12.03-18.04.30:799][639]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoal136D2B3045D57F7A9CB68387796DD40D.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-18.04.31:216][667]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.04.31:345][667]BlueprintEditorCompileResults: Info [7925.24] Compile of MyGoal successful! [in 3 ms]
+[2014.12.03-18.04.52:574][ 39]LogEditorActor: Deleted Actor: Goal_C
+[2014.12.03-18.04.52:575][ 39]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_54) Not registered. Aborting.
+[2014.12.03-18.04.52:575][ 39]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_7) Not registered. Aborting.
+[2014.12.03-18.04.52:616][ 39]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2014.12.03-18.04.54:847][175]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_280
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.04.54:848][175]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_298
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.04.54:848][175]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_152:CubeAnimSword_C_281
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.04.54:849][175]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_153:AxeAnim_C_299
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.08:189][931]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.10:718][ 91]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.15:392][355]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.21:011][678]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.38:906][664]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.44:630][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_55) Not registered. Aborting.
+[2014.12.03-18.05.44:630][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_8) Not registered. Aborting.
+[2014.12.03-18.05.44:630][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_56) Not registered. Aborting.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:237][910]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.05.47:671][934]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.05.47:812][934]BlueprintEditorCompileResults: Info [8001.69] Compile of MyGoal successful! [in 3 ms]
+[2014.12.03-18.05.48:377][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-18.05.48:767][955]LogSavePackage: Save=353.643127ms
+[2014.12.03-18.05.48:767][955]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoalB5E930CB4CDED449C56320A59BFE485A.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-18.05.51:334][ 82]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2014.12.03-18.05.52:694][147]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-18.05.52:694][147]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-18.05.52:788][147]LogPlayLevel: [PIE] Compiling MainLevel before PIE...
+[2014.12.03-18.05.52:941][147]LogPlayLevel: PIE:  Blueprint regeneration took 246 ms (2 blueprints)
+[2014.12.03-18.05.52:941][147]PIE: New page: PIE session: MainLevel (Dec 3, 2014, 8:05:52 AM)
+[2014.12.03-18.05.52:995][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054481s)
+[2014.12.03-18.05.52:996][147]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2014.12.03-18.05.52:996][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.055161s)
+[2014.12.03-18.05.53:022][147]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-18.05.53:023][147]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.05.53:035][147]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-18.05.53:035][147]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2014.12.03-13.05.53
+[2014.12.03-18.05.53:036][147]LogWorld: Bringing up level for play took: 0.012808
+[2014.12.03-18.05.53:038][147]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainLevel -0.491
+[2014.12.03-18.05.58:170][449]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.06.07:092][966]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.06.09:171][ 76]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000526963E0
+[2014.12.03-18.06.47:584][ 65]LogEditorViewport: Clicking on Actor (LMB): MyGoal_C (MyGoal)
+[2014.12.03-18.07.06:893][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGoal" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset" SILENT=true
+[2014.12.03-18.07.07:274][320]LogSavePackage: Save=356.533966ms
+[2014.12.03-18.07.07:274][320]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MyGoalFE0E5DC94541A39084388F92EEFC6764.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/MyGoal.uasset'
+[2014.12.03-18.07.07:630][342]BlueprintLog: New page: Compile MyGoal
+[2014.12.03-18.07.07:770][342]BlueprintEditorCompileResults: Info [8081.65] Compile of MyGoal successful! [in 3 ms]
+[2014.12.03-18.07.09:114][425]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2014.12.03-18.07.10:166][482]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-18.07.10:166][482]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-18.07.10:255][482]LogPlayLevel: [PIE] Compiling MainLevel before PIE...
+[2014.12.03-18.07.10:399][482]LogPlayLevel: PIE:  Blueprint regeneration took 232 ms (2 blueprints)
+[2014.12.03-18.07.10:399][482]PIE: New page: PIE session: MainLevel (Dec 3, 2014, 8:07:10 AM)
+[2014.12.03-18.07.10:451][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052032s)
+[2014.12.03-18.07.10:452][482]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2014.12.03-18.07.10:452][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.052845s)
+[2014.12.03-18.07.10:494][482]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-18.07.10:497][482]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.07.10:516][482]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-18.07.10:516][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2014.12.03-13.07.10
+[2014.12.03-18.07.10:517][482]LogWorld: Bringing up level for play took: 0.019567
+[2014.12.03-18.07.10:519][482]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainLevel 0.986
+[2014.12.03-18.07.13:504][693]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.07.30:431][166]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.07.30:431][166]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.07.43:272][273]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003923A980
+[2014.12.03-18.08.53:364][461]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_57) Not registered. Aborting.
+[2014.12.03-18.08.53:364][461]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_9) Not registered. Aborting.
+[2014.12.03-18.08.56:306][636]BlueprintLog: New page: Compile Projectile
+[2014.12.03-18.08.56:397][636]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_10) Not registered. Aborting.
+[2014.12.03-18.08.56:625][636]BlueprintEditorCompileResults: Info [8190.34] Compile of Projectile successful! [in 32 ms]
+[2014.12.03-18.08.56:630][636]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_157:CubeAnimSword_C_286
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.08.56:630][636]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_158:AxeAnim_C_304
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.08.57:217][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Projectile.uasset" SILENT=true
+[2014.12.03-18.08.57:537][670]LogSavePackage: Save=291.272095ms
+[2014.12.03-18.08.57:537][670]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Projectile2DEC7667484154EBEA23EA819AB272E0.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Blueprints/Projectile.uasset'
+[2014.12.03-18.08.58:513][732]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2014.12.03-18.09.00:227][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:227][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.00:228][832]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-18.09.01:076][892]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-18.09.01:166][892]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_58) Not registered. Aborting.
+[2014.12.03-18.09.01:166][892]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_59) Not registered. Aborting.
+[2014.12.03-18.09.01:166][892]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_11) Not registered. Aborting.
+[2014.12.03-18.09.01:166][892]LogPlayLevel: [PIE] Compiling Succubus before PIE...
+[2014.12.03-18.09.01:579][892]LogPlayLevel: [PIE] Compiling EnemyCubeAxe before PIE...
+[2014.12.03-18.09.01:809][892]LogPlayLevel: [PIE] Compiling Level1 before PIE...
+[2014.12.03-18.09.01:902][892]LogPlayLevel: [PIE] Compiling MainLevel before PIE...
+[2014.12.03-18.09.02:049][892]LogPlayLevel: [PIE] Compiling MyGoal before PIE...
+[2014.12.03-18.09.02:229][892]LogPlayLevel: PIE:  Blueprint regeneration took 1153 ms (5 blueprints)
+[2014.12.03-18.09.02:229][892]PIE: New page: PIE session: MainLevel (Dec 3, 2014, 8:09:02 AM)
+[2014.12.03-18.09.02:280][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051199s)
+[2014.12.03-18.09.02:281][892]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2014.12.03-18.09.02:281][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.052100s)
+[2014.12.03-18.09.02:309][892]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-18.09.02:310][892]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.09.02:323][892]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2014.12.03-18.09.02:323][892]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2014.12.03-13.09.02
+[2014.12.03-18.09.02:323][892]LogWorld: Bringing up level for play took: 0.012883
+[2014.12.03-18.09.02:325][892]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainLevel 0.786
+[2014.12.03-18.09.02:345][892]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_162:CubeAnimSword_C_287
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.09.02:346][892]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_163:AxeAnim_C_305
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.09.02:836][922]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.03:492][974]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.03:898][  6]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.04:603][ 62]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.04:972][ 91]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.05:430][127]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.05:786][155]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.06:309][196]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials
