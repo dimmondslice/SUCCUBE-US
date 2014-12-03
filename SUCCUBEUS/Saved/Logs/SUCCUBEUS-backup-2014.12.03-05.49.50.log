@@ -1,0 +1,744 @@
+﻿Log file open, 12/03/14 05:40:59
+LogInit:Display: Running engine for game: SUCCUBEUS
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.12.03-10.40.59:850][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.12.03-10.40.59:876][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.12.03-10.40.59:890][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.12.03-10.40.59:898][  0]LogInit: Object subsystem initialized
+[2014.12.03-10.40.59:901][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.12.03-10.40.59:901][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-10.40.59:901][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.12.03-10.40.59:901][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-10.40.59:902][  0]LogInit: Selected Device Profile: [Windows]
+[2014.12.03-10.40.59:902][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.12.03-10.40.59:906][  0]LogInit: Computer: SA2411-PC42
+[2014.12.03-10.40.59:906][  0]LogInit: User: antell
+[2014.12.03-10.40.59:906][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.12.03-10.40.59:906][  0]LogInit: High frequency timer resolution =3.428066 MHz
+[2014.12.03-10.40.59:906][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2014.12.03-10.40.59:906][  0]LogMemory: Platform Memory Stats for Windows
+[2014.12.03-10.40.59:906][  0]LogMemory: Process Physical Memory: 65.23 MB used, 65.23 MB peak
+[2014.12.03-10.40.59:907][  0]LogMemory: Process Virtual Memory: 40.51 MB used, 41.23 MB peak
+[2014.12.03-10.40.59:907][  0]LogMemory: Physical Memory: 3394.62 MB used, 16253.98 MB total
+[2014.12.03-10.40.59:907][  0]LogMemory: Virtual Memory: 274.41 MB used, 8388608.00 MB total
+[2014.12.03-10.40.59:934][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 680 (Feature Level 11_0)
+[2014.12.03-10.40.59:934][  0]LogD3D11RHI: Adapter has 4027MB of dedicated video memory, 0MB of dedicated system memory, and 7870MB of shared system memory, 2 output[s]
+[2014.12.03-10.40.59:934][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.12.03-10.40.59:938][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.12.03-10.40.59:944][  0]LogD3D11RHI: Async texture creation enabled
+[2014.12.03-10.40.59:985][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.12.03-10.41.00:142][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.12.03-10.41.04:403][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-10.41.04:729][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-10.41.04:770][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.12.03-10.41.04:802][  0]LogDerivedDataCache: Loaded boot cache 0.03s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-10.41.04:802][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.12.03-10.41.04:802][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.12.03-10.41.04:802][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.12.03-10.41.04:862][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.12.03-10.41.04:874][  0]LogDerivedDataCache: Using Local data cache path C:/Users/antell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.12.03-10.41.05:015][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.12.03-10.41.05:015][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.12.03-10.41.05:185][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-10.41.05:187][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-10.41.05:320][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.12.03-10.41.05:927][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.12.03-10.41.06:058][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.12.03-10.41.06:153][  0]SourceControl: Info Source control is disabled
+[2014.12.03-10.41.06:153][  0]SourceControl: Info Source control is disabled
+[2014.12.03-10.41.06:158][  0]SourceControl: Info Source control is disabled
+[2014.12.03-10.41.06:252][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.12.03-10.41.06:252][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.12.03-10.41.06:297][  0]LogEngine: Initializing Engine...
+[2014.12.03-10.41.06:416][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.12.03-10.41.06:445][  0]LogInit: FAudioDevice initialized.
+[2014.12.03-10.41.06:465][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.12.03-10.41.06:484][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-10.41.06:487][  0]LogInit: Texture streaming: Enabled
+[2014.12.03-10.41.06:517][  0]LogInit: Transaction tracking system initialized
+[2014.12.03-10.41.06:581][  0]BlueprintLog: New page: Editor Load
+[2014.12.03-10.41.06:605][  0]LogAssetRegistry: FAssetRegistry took 0.0103 seconds to start up
+[2014.12.03-10.41.06:605][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.12.03-10.41.06:968][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-10.41.07:257][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-10.41.07:405][  0]LogConsoleResponse:Display: 
+[2014.12.03-10.41.07:565][  0]SourceControl: Info Source control is disabled
+[2014.12.03-10.41.07:565][  0]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-10.41.07:566][  0]LightingResults: New page: Lighting Build
+[2014.12.03-10.41.07:576][  0]MapCheck: New page: Map Check
+[2014.12.03-10.41.07:576][  0]LightingResults: New page: Lighting Build
+[2014.12.03-10.41.07:589][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000167CE840
+[2014.12.03-10.41.08:245][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_0
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.08:246][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_9.CharacterMesh0.CubeAnimSword_C_0
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.08:246][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_9.SkeletalMesh1.AxeAnim_C_1
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.08:246][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_16.CharacterMesh0.CubeAnimSword_C_1
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.08:246][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_16.SkeletalMesh1.AxeAnim_C_2
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.08:246][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_0
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.41.08:247][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_0
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0110
+[2014.12.03-10.41.08:247][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_2
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.08:247][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_0
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-10.41.08:248][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_9.SkeletalMesh1.AxeAnim_C_3
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.08:248][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_16.SkeletalMesh1.AxeAnim_C_4
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.08:248][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_1
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0110
+[2014.12.03-10.41.08:248][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_1
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-10.41.08:249][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-10.41.08:249][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.03-10.41.08:249][  0]Cmd: MAP CHECKDEP
+[2014.12.03-10.41.08:249][  0]MapCheck: New page: Example_Map - Dec 3, 2014, 12:41:08 AM
+[2014.12.03-10.41.08:328][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 79.006ms to complete.
+[2014.12.03-10.41.08:328][  0]LogFileHelpers: Loading map 'Example_Map' took 0.763
+[2014.12.03-10.41.08:405][  0]LogCollectionManager: Loaded 0 collections in 0.000685 seconds
+[2014.12.03-10.41.08:556][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.12.03-10.41.08:593][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.12.03-10.41.08:617][  0]LogLoad: Full Startup: 10.79 seconds (BP compile: 0.30 seconds)
+[2014.12.03-10.41.08:959][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2014.12.03-10.41.09:097][  0]LogRenderer:Warning: Reallocating scene render targets to support 1136x1024.
+[2014.12.03-10.41.09:634][  2]LogAssetRegistry: Asset discovery search completed in 3.0400 seconds
+[2014.12.03-10.41.19:355][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_3
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.19:355][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_5
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.19:355][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_0:CubeAnimHammer_C_1
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.41.19:355][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_1:HammerAnim_C_2
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0110
+[2014.12.03-10.41.19:356][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_2:CubeAnimSword_C_4
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.19:356][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_3:AxeAnim_C_6
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.19:356][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_2
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.41.19:356][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_4:CubeAnimSword_C_5
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.19:356][ 32]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_5:SwordAnim_C_2
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-10.41.20:531][135]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.12.03-10.41.21:119][202]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-10.41.29:280][822]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1
+[2014.12.03-10.41.29:281][822]LightingResults: New page: Lighting Build
+[2014.12.03-10.41.29:308][822]LoadErrors: New page: Loading map: Template_Default.umap
+[2014.12.03-10.41.29:309][822]MapCheck: New page: Map Check
+[2014.12.03-10.41.29:309][822]LightingResults: New page: Lighting Build
+[2014.12.03-10.41.29:309][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_0) Not registered. Aborting.
+[2014.12.03-10.41.29:309][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.12.03-10.41.29:309][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.12.03-10.41.29:309][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2014.12.03-10.41.29:333][822]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000186E23E0
+[2014.12.03-10.41.29:388][822]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-10.41.29:388][822]LogAIModule: Creating AISystem for world Untitled_1
+[2014.12.03-10.41.29:388][822]Cmd: MAP CHECKDEP
+[2014.12.03-10.41.29:388][822]MapCheck: New page: Untitled_1 - Dec 3, 2014, 12:41:29 AM
+[2014.12.03-10.41.29:469][822]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 80.47ms to complete.
+[2014.12.03-10.41.29:469][822]LogFileHelpers: Loading map 'Template_Default' took 0.191
+[2014.12.03-10.41.29:473][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.29:473][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.29:474][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_6:CubeAnimHammer_C_3
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.41.29:474][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_7:HammerAnim_C_3
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0110
+[2014.12.03-10.41.29:474][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_8:CubeAnimSword_C_7
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.29:475][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_9:AxeAnim_C_8
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.41.29:475][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_4
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.41.29:475][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_10:CubeAnimSword_C_8
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.41.29:475][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_11:SwordAnim_C_3
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-10.41.32:733][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
+[2014.12.03-10.41.34:364][338]LogTexture:Display: Building textures: Texture2D_2 (G8)
+[2014.12.03-10.41.38:002][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
+[2014.12.03-10.41.44:243][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2014.12.03-10.42.01:523][403]LogTexture:Display: Building textures: Texture2D_3 (BGRA8)
+[2014.12.03-10.42.01:581][404]Cmd: UpdateLandscapeEditorData
+[2014.12.03-10.42.13:733][800]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.12.03-10.42.13:733][800]PIE: New page: SIE session: Untitled_1 (Dec 3, 2014, 12:42:13 AM)
+[2014.12.03-10.42.13:744][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010741s)
+[2014.12.03-10.42.13:745][800]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2014.12.03-10.42.13:745][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.011551s)
+[2014.12.03-10.42.13:987][800]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-10.42.13:988][800]LogAIModule: Creating AISystem for world Untitled_1
+[2014.12.03-10.42.13:991][800]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2014.12.03-05.42.13
+[2014.12.03-10.42.13:991][800]LogWorld: Bringing up level for play took: 0.002606
+[2014.12.03-10.42.13:992][800]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.232
+[2014.12.03-10.42.16:690][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2014.12.03-10.42.16:690][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
+[2014.12.03-10.42.16:690][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
+[2014.12.03-10.42.16:710][ 15]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000016437EC0
+[2014.12.03-10.42.20:472][406]Cmd: TRANSACTION UNDO
+[2014.12.03-10.42.20:472][406]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.42.32:931][665]Cmd: TRANSACTION UNDO
+[2014.12.03-10.42.32:931][665]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.43.02:247][ 66]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_11) Not registered. Aborting.
+[2014.12.03-10.43.03:562][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_9
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.43.03:562][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_9
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.43.03:563][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_12:CubeAnimHammer_C_5
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.43.03:563][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_13:HammerAnim_C_4
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0110
+[2014.12.03-10.43.03:564][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_14:CubeAnimSword_C_10
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.43.03:564][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_15:AxeAnim_C_10
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:015D
+[2014.12.03-10.43.03:564][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_6
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.43.03:564][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_16:CubeAnimSword_C_11
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.43.03:564][219]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_17:SwordAnim_C_4
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-10.44.20:857][ 14]LogEditorActor: Deleted Actor: StaticMeshActor
+[2014.12.03-10.44.20:858][ 14]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_6) Not registered. Aborting.
+[2014.12.03-10.44.20:858][ 14]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_7) Not registered. Aborting.
+[2014.12.03-10.44.20:858][ 14]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_8) Not registered. Aborting.
+[2014.12.03-10.44.20:876][ 14]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2014.12.03-10.45.34:949][810]Cmd: TRANSACTION UNDO
+[2014.12.03-10.45.34:949][810]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.45.34:956][810]LogTexture:Display: Building textures: Texture2D_3 (BGRA8)
+[2014.12.03-10.45.43:188][612]Cmd: TRANSACTION UNDO
+[2014.12.03-10.45.43:188][612]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.45.45:432][777]Cmd: TRANSACTION UNDO
+[2014.12.03-10.45.45:432][777]LogEditorTransaction: Undo Edit Brush Falloff
+[2014.12.03-10.45.52:567][466]Cmd: TRANSACTION UNDO
+[2014.12.03-10.45.52:567][466]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.46.24:565][343]Cmd: TRANSACTION UNDO
+[2014.12.03-10.46.24:565][343]LogEditorTransaction: Undo Edit Tool Strength
+[2014.12.03-10.46.28:514][698]Cmd: TRANSACTION UNDO
+[2014.12.03-10.46.28:514][698]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.46.28:540][698]LogTexture:Display: Building textures: Texture2D_3 (BGRA8)
+[2014.12.03-10.46.30:498][842]Cmd: TRANSACTION UNDO
+[2014.12.03-10.46.30:498][842]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.46.30:525][842]LogTexture:Display: Building textures: Texture2D_3 (BGRA8)
+[2014.12.03-10.46.33:686][139]Cmd: TRANSACTION UNDO
+[2014.12.03-10.46.33:686][139]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.46.33:922][154]Cmd: TRANSACTION UNDO
+[2014.12.03-10.46.33:922][154]LogEditorTransaction: Undo Edit Tool Strength
+[2014.12.03-10.46.34:199][161]Cmd: TRANSACTION UNDO
+[2014.12.03-10.46.34:199][161]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.46.34:483][181]Cmd: TRANSACTION UNDO
+[2014.12.03-10.46.34:483][181]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2014.12.03-10.46.34:501][181]LogTexture:Display: Building textures: Texture2D_3 (BGRA8)
+[2014.12.03-10.47.13:189][567]MapCheck: New page: Map Check
+[2014.12.03-10.47.13:207][567]Cmd: MAP REBUILD ALLVISIBLE
+[2014.12.03-10.47.13:210][567]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2014.12.03-10.47.13:215][567]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.12.03-10.47.13:254][567]LightingResults: New page: Lighting Build - Dec 3, 2014, 12:47:13 AM
+[2014.12.03-10.47.17:806][567]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2014.12.03-10.47.17:823][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2014.12.03-10.47.17:823][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2014.12.03-10.47.17:823][567]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2014.12.03-10.47.17:823][567]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2014.12.03-10.47.17:823][567]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2014.12.03-10.47.17:972][567]LogEditorBuildUtils: Build time 0:00:04
+[2014.12.03-10.47.17:988][567]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_56, compiling.
+[2014.12.03-10.47.17:993][567]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_56, compiling.
+[2014.12.03-10.47.18:006][568]Cmd: UpdateLandscapeEditorData
+[2014.12.03-10.47.18:008][568]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling.
+[2014.12.03-10.47.18:011][568]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling.
+[2014.12.03-10.47.18:013][568]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2, compiling.
+[2014.12.03-10.47.18:014][568]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2, compiling.
+[2014.12.03-10.47.18:027][569]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_3, compiling.
+[2014.12.03-10.47.18:032][569]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_3, compiling.
+[2014.12.03-10.47.18:043][570]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_4, compiling.
+[2014.12.03-10.47.18:048][570]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_4, compiling.
+[2014.12.03-10.47.18:066][571]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_5, compiling.
+[2014.12.03-10.47.18:068][571]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_5, compiling.
+[2014.12.03-10.47.18:083][572]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_6, compiling.
+[2014.12.03-10.47.18:085][572]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_6, compiling.
+[2014.12.03-10.47.18:087][572]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_7, compiling.
+[2014.12.03-10.47.18:090][572]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_7, compiling.
+[2014.12.03-10.47.18:104][573]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_8, compiling.
+[2014.12.03-10.47.18:107][573]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_8, compiling.
+[2014.12.03-10.47.18:120][574]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_9, compiling.
+[2014.12.03-10.47.18:123][574]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_9, compiling.
+[2014.12.03-10.47.18:139][575]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_10, compiling.
+[2014.12.03-10.47.18:141][575]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_10, compiling.
+[2014.12.03-10.47.18:142][575]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_11, compiling.
+[2014.12.03-10.47.18:144][575]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_11, compiling.
+[2014.12.03-10.47.18:179][576]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_12, compiling.
+[2014.12.03-10.47.18:181][576]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_12, compiling.
+[2014.12.03-10.47.18:227][577]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_13, compiling.
+[2014.12.03-10.47.18:230][577]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_13, compiling.
+[2014.12.03-10.47.18:274][578]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_14, compiling.
+[2014.12.03-10.47.18:276][578]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_14, compiling.
+[2014.12.03-10.47.18:314][579]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_15, compiling.
+[2014.12.03-10.47.18:316][579]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_15, compiling.
+[2014.12.03-10.47.18:319][579]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_16, compiling.
+[2014.12.03-10.47.18:321][579]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_16, compiling.
+[2014.12.03-10.47.18:372][580]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_17, compiling.
+[2014.12.03-10.47.18:375][580]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_17, compiling.
+[2014.12.03-10.47.18:377][580]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_18, compiling.
+[2014.12.03-10.47.18:380][580]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_18, compiling.
+[2014.12.03-10.47.18:424][581]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_19, compiling.
+[2014.12.03-10.47.18:427][581]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_19, compiling.
+[2014.12.03-10.47.18:465][582]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_20, compiling.
+[2014.12.03-10.47.18:468][582]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_20, compiling.
+[2014.12.03-10.47.18:518][583]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_21, compiling.
+[2014.12.03-10.47.18:520][583]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_21, compiling.
+[2014.12.03-10.47.18:522][583]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_22, compiling.
+[2014.12.03-10.47.18:524][583]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_22, compiling.
+[2014.12.03-10.47.18:537][584]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_23, compiling.
+[2014.12.03-10.47.18:540][584]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_23, compiling.
+[2014.12.03-10.47.18:542][584]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling.
+[2014.12.03-10.47.18:544][584]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling.
+[2014.12.03-10.47.18:558][585]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_25, compiling.
+[2014.12.03-10.47.18:561][585]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_25, compiling.
+[2014.12.03-10.47.18:574][586]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_26, compiling.
+[2014.12.03-10.47.18:577][586]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_26, compiling.
+[2014.12.03-10.47.18:590][587]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_27, compiling.
+[2014.12.03-10.47.18:592][587]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_27, compiling.
+[2014.12.03-10.47.18:595][587]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_28, compiling.
+[2014.12.03-10.47.18:597][587]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_28, compiling.
+[2014.12.03-10.47.18:609][588]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_29, compiling.
+[2014.12.03-10.47.18:612][588]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_29, compiling.
+[2014.12.03-10.47.18:614][588]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_30, compiling.
+[2014.12.03-10.47.18:617][588]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_30, compiling.
+[2014.12.03-10.47.18:630][589]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_31, compiling.
+[2014.12.03-10.47.18:632][589]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_31, compiling.
+[2014.12.03-10.47.18:645][590]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_32, compiling.
+[2014.12.03-10.47.18:648][590]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_32, compiling.
+[2014.12.03-10.47.18:662][591]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_33, compiling.
+[2014.12.03-10.47.18:665][591]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_33, compiling.
+[2014.12.03-10.47.18:681][592]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling.
+[2014.12.03-10.47.18:684][592]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling.
+[2014.12.03-10.47.18:703][593]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_35, compiling.
+[2014.12.03-10.47.18:706][593]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_35, compiling.
+[2014.12.03-10.47.18:725][594]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_36, compiling.
+[2014.12.03-10.47.18:727][594]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_36, compiling.
+[2014.12.03-10.47.18:741][595]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_37, compiling.
+[2014.12.03-10.47.18:744][595]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_37, compiling.
+[2014.12.03-10.47.18:757][596]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling.
+[2014.12.03-10.47.18:760][596]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling.
+[2014.12.03-10.47.18:762][596]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_39, compiling.
+[2014.12.03-10.47.18:765][596]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_39, compiling.
+[2014.12.03-10.47.18:778][597]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40, compiling.
+[2014.12.03-10.47.18:781][597]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40, compiling.
+[2014.12.03-10.47.18:794][598]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_41, compiling.
+[2014.12.03-10.47.18:796][598]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_41, compiling.
+[2014.12.03-10.47.18:799][598]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42, compiling.
+[2014.12.03-10.47.18:801][598]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42, compiling.
+[2014.12.03-10.47.18:814][599]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_43, compiling.
+[2014.12.03-10.47.18:817][599]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_43, compiling.
+[2014.12.03-10.47.18:830][600]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_44, compiling.
+[2014.12.03-10.47.18:832][600]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_44, compiling.
+[2014.12.03-10.47.18:834][600]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_45, compiling.
+[2014.12.03-10.47.18:836][600]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_45, compiling.
+[2014.12.03-10.47.18:850][601]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling.
+[2014.12.03-10.47.18:852][601]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling.
+[2014.12.03-10.47.18:853][601]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_47, compiling.
+[2014.12.03-10.47.18:856][601]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_47, compiling.
+[2014.12.03-10.47.18:868][602]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_48, compiling.
+[2014.12.03-10.47.18:871][602]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_48, compiling.
+[2014.12.03-10.47.18:889][603]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_49, compiling.
+[2014.12.03-10.47.18:892][603]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_49, compiling.
+[2014.12.03-10.47.18:908][604]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_50, compiling.
+[2014.12.03-10.47.18:911][604]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_50, compiling.
+[2014.12.03-10.47.18:924][605]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_51, compiling.
+[2014.12.03-10.47.18:927][605]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_51, compiling.
+[2014.12.03-10.47.18:929][605]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_52, compiling.
+[2014.12.03-10.47.18:932][605]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_52, compiling.
+[2014.12.03-10.47.18:944][606]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_53, compiling.
+[2014.12.03-10.47.18:947][606]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_53, compiling.
+[2014.12.03-10.47.18:949][606]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_54, compiling.
+[2014.12.03-10.47.18:952][606]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_54, compiling.
+[2014.12.03-10.47.18:963][607]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_55, compiling.
+[2014.12.03-10.47.18:965][607]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_55, compiling.
+[2014.12.03-10.47.18:966][607]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_56, compiling.
+[2014.12.03-10.47.18:969][607]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_56, compiling.
+[2014.12.03-10.47.18:982][608]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_57, compiling.
+[2014.12.03-10.47.18:984][608]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_57, compiling.
+[2014.12.03-10.47.18:999][609]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_58, compiling.
+[2014.12.03-10.47.19:001][609]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_58, compiling.
+[2014.12.03-10.47.19:015][610]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_59, compiling.
+[2014.12.03-10.47.19:018][610]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_59, compiling.
+[2014.12.03-10.47.19:032][611]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_60, compiling.
+[2014.12.03-10.47.19:035][611]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_60, compiling.
+[2014.12.03-10.47.19:051][612]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_61, compiling.
+[2014.12.03-10.47.19:054][612]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_61, compiling.
+[2014.12.03-10.47.19:068][613]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_62, compiling.
+[2014.12.03-10.47.19:071][613]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_62, compiling.
+[2014.12.03-10.47.19:094][614]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_63, compiling.
+[2014.12.03-10.47.19:097][614]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_63, compiling.
+[2014.12.03-10.47.19:112][615]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_64, compiling.
+[2014.12.03-10.47.19:115][615]LogMaterial: Incomplete cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_64, compiling.
+[2014.12.03-10.47.19:135][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling.
+[2014.12.03-10.47.19:138][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling.
+[2014.12.03-10.47.41:875][702]Job is a success!
+[2014.12.03-10.47.42:039][703]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2014.12.03-10.47.42:057][703]LogTexture:Display: Building textures: LQ_Lightmap_0_65 (DXT1)
+[2014.12.03-10.47.42:060][703]LogTexture:Display: Building textures: HQ_Lightmap0_65 (AutoDXT)
+[2014.12.03-10.47.42:063][703]LogTexture:Display: Building textures: LQ_Lightmap_0_64 (DXT1)
+[2014.12.03-10.47.42:078][703]LogTexture:Display: Building textures: HQ_Lightmap0_64 (AutoDXT)
+[2014.12.03-10.47.42:147][703]LogTexture:Display: Building textures: LQ_Lightmap_0_63 (DXT1)
+[2014.12.03-10.47.42:215][703]LogTexture:Display: Building textures: HQ_Lightmap0_63 (AutoDXT)
+[2014.12.03-10.47.42:295][703]LogTexture:Display: Building textures: LQ_Lightmap_0_62 (DXT1)
+[2014.12.03-10.47.42:363][703]LogTexture:Display: Building textures: HQ_Lightmap0_62 (AutoDXT)
+[2014.12.03-10.47.42:431][703]LogTexture:Display: Building textures: LQ_Lightmap_0_61 (DXT1)
+[2014.12.03-10.47.42:434][703]LogTexture:Display: Building textures: HQ_Lightmap0_61 (AutoDXT)
+[2014.12.03-10.47.42:438][703]LogTexture:Display: Building textures: LQ_Lightmap_0_60 (DXT1)
+[2014.12.03-10.47.42:442][703]LogTexture:Display: Building textures: HQ_Lightmap0_60 (AutoDXT)
+[2014.12.03-10.47.42:446][703]LogTexture:Display: Building textures: LQ_Lightmap_0_59 (DXT1)
+[2014.12.03-10.47.42:450][703]LogTexture:Display: Building textures: HQ_Lightmap0_59 (AutoDXT)
+[2014.12.03-10.47.42:454][703]LogTexture:Display: Building textures: LQ_Lightmap_0_58 (DXT1)
+[2014.12.03-10.47.42:457][703]LogTexture:Display: Building textures: HQ_Lightmap0_58 (AutoDXT)
+[2014.12.03-10.47.42:461][703]LogTexture:Display: Building textures: LQ_Lightmap_0_57 (DXT1)
+[2014.12.03-10.47.42:471][703]LogTexture:Display: Building textures: HQ_Lightmap0_57 (AutoDXT)
+[2014.12.03-10.47.42:475][703]LogTexture:Display: Building textures: LQ_Lightmap_0_56 (DXT1)
+[2014.12.03-10.47.42:491][703]LogTexture:Display: Building textures: HQ_Lightmap0_56 (AutoDXT)
+[2014.12.03-10.47.42:504][703]LogTexture:Display: Building textures: LQ_Lightmap_0_55 (DXT1)
+[2014.12.03-10.47.42:515][703]LogTexture:Display: Building textures: HQ_Lightmap0_55 (AutoDXT)
+[2014.12.03-10.47.42:529][703]LogTexture:Display: Building textures: LQ_Lightmap_0_54 (DXT1)
+[2014.12.03-10.47.42:538][703]LogTexture:Display: Building textures: HQ_Lightmap0_54 (AutoDXT)
+[2014.12.03-10.47.42:551][703]LogTexture:Display: Building textures: LQ_Lightmap_0_53 (DXT1)
+[2014.12.03-10.47.42:559][703]LogTexture:Display: Building textures: HQ_Lightmap0_53 (AutoDXT)
+[2014.12.03-10.47.42:572][703]LogTexture:Display: Building textures: LQ_Lightmap_0_52 (DXT1)
+[2014.12.03-10.47.42:576][703]LogTexture:Display: Building textures: HQ_Lightmap0_52 (AutoDXT)
+[2014.12.03-10.47.42:580][703]LogTexture:Display: Building textures: LQ_Lightmap_0_51 (DXT1)
+[2014.12.03-10.47.42:584][703]LogTexture:Display: Building textures: HQ_Lightmap0_51 (AutoDXT)
+[2014.12.03-10.47.42:587][703]LogTexture:Display: Building textures: LQ_Lightmap_0_50 (DXT1)
+[2014.12.03-10.47.42:591][703]LogTexture:Display: Building textures: HQ_Lightmap0_50 (AutoDXT)
+[2014.12.03-10.47.42:595][703]LogTexture:Display: Building textures: LQ_Lightmap_0_49 (DXT1)
+[2014.12.03-10.47.42:613][703]LogTexture:Display: Building textures: HQ_Lightmap0_49 (AutoDXT)
+[2014.12.03-10.47.42:627][703]LogTexture:Display: Building textures: LQ_Lightmap_0_48 (DXT1)
+[2014.12.03-10.47.42:635][703]LogTexture:Display: Building textures: HQ_Lightmap0_48 (AutoDXT)
+[2014.12.03-10.47.42:648][703]LogTexture:Display: Building textures: LQ_Lightmap_0_47 (DXT1)
+[2014.12.03-10.47.42:660][703]LogTexture:Display: Building textures: HQ_Lightmap0_47 (AutoDXT)
+[2014.12.03-10.47.42:675][703]LogTexture:Display: Building textures: LQ_Lightmap_0_46 (DXT1)
+[2014.12.03-10.47.42:687][703]LogTexture:Display: Building textures: HQ_Lightmap0_46 (AutoDXT)
+[2014.12.03-10.47.42:701][703]LogTexture:Display: Building textures: LQ_Lightmap_0_45 (DXT1)
+[2014.12.03-10.47.42:713][703]LogTexture:Display: Building textures: HQ_Lightmap0_45 (AutoDXT)
+[2014.12.03-10.47.42:728][703]LogTexture:Display: Building textures: LQ_Lightmap_0_44 (DXT1)
+[2014.12.03-10.47.42:742][703]LogTexture:Display: Building textures: HQ_Lightmap0_44 (AutoDXT)
+[2014.12.03-10.47.42:755][703]LogTexture:Display: Building textures: LQ_Lightmap_0_43 (DXT1)
+[2014.12.03-10.47.42:759][703]LogTexture:Display: Building textures: HQ_Lightmap0_43 (AutoDXT)
+[2014.12.03-10.47.42:762][703]LogTexture:Display: Building textures: LQ_Lightmap_0_42 (DXT1)
+[2014.12.03-10.47.42:766][703]LogTexture:Display: Building textures: HQ_Lightmap0_42 (AutoDXT)
+[2014.12.03-10.47.42:769][703]LogTexture:Display: Building textures: LQ_Lightmap_0_41 (DXT1)
+[2014.12.03-10.47.42:785][703]LogTexture:Display: Building textures: HQ_Lightmap0_41 (AutoDXT)
+[2014.12.03-10.47.42:802][703]LogTexture:Display: Building textures: LQ_Lightmap_0_40 (DXT1)
+[2014.12.03-10.47.42:808][703]LogTexture:Display: Building textures: HQ_Lightmap0_40 (AutoDXT)
+[2014.12.03-10.47.42:815][703]LogTexture:Display: Building textures: LQ_Lightmap_0_39 (DXT1)
+[2014.12.03-10.47.42:827][703]LogTexture:Display: Building textures: HQ_Lightmap0_39 (AutoDXT)
+[2014.12.03-10.47.42:841][703]LogTexture:Display: Building textures: LQ_Lightmap_0_38 (DXT1)
+[2014.12.03-10.47.42:855][703]LogTexture:Display: Building textures: HQ_Lightmap0_38 (AutoDXT)
+[2014.12.03-10.47.42:868][703]LogTexture:Display: Building textures: LQ_Lightmap_0_37 (DXT1)
+[2014.12.03-10.47.42:883][703]LogTexture:Display: Building textures: HQ_Lightmap0_37 (AutoDXT)
+[2014.12.03-10.47.42:898][703]LogTexture:Display: Building textures: LQ_Lightmap_0_36 (DXT1)
+[2014.12.03-10.47.42:911][703]LogTexture:Display: Building textures: HQ_Lightmap0_36 (AutoDXT)
+[2014.12.03-10.47.42:932][703]LogTexture:Display: Building textures: LQ_Lightmap_0_35 (DXT1)
+[2014.12.03-10.47.42:935][703]LogTexture:Display: Building textures: HQ_Lightmap0_35 (AutoDXT)
+[2014.12.03-10.47.42:939][703]LogTexture:Display: Building textures: LQ_Lightmap_0_34 (DXT1)
+[2014.12.03-10.47.42:942][703]LogTexture:Display: Building textures: HQ_Lightmap0_34 (AutoDXT)
+[2014.12.03-10.47.42:946][703]LogTexture:Display: Building textures: LQ_Lightmap_0_33 (DXT1)
+[2014.12.03-10.47.42:965][703]LogTexture:Display: Building textures: HQ_Lightmap0_33 (AutoDXT)
+[2014.12.03-10.47.42:980][703]LogTexture:Display: Building textures: LQ_Lightmap_0_32 (DXT1)
+[2014.12.03-10.47.42:991][703]LogTexture:Display: Building textures: HQ_Lightmap0_32 (AutoDXT)
+[2014.12.03-10.47.43:002][703]LogTexture:Display: Building textures: LQ_Lightmap_0_31 (DXT1)
+[2014.12.03-10.47.43:016][703]LogTexture:Display: Building textures: HQ_Lightmap0_31 (AutoDXT)
+[2014.12.03-10.47.43:030][703]LogTexture:Display: Building textures: LQ_Lightmap_0_30 (DXT1)
+[2014.12.03-10.47.43:045][703]LogTexture:Display: Building textures: HQ_Lightmap0_30 (AutoDXT)
+[2014.12.03-10.47.43:060][703]LogTexture:Display: Building textures: LQ_Lightmap_0_29 (DXT1)
+[2014.12.03-10.47.43:075][703]LogTexture:Display: Building textures: HQ_Lightmap0_29 (AutoDXT)
+[2014.12.03-10.47.43:092][703]LogTexture:Display: Building textures: LQ_Lightmap_0_28 (DXT1)
+[2014.12.03-10.47.43:107][703]LogTexture:Display: Building textures: HQ_Lightmap0_28 (AutoDXT)
+[2014.12.03-10.47.43:122][703]LogTexture:Display: Building textures: LQ_Lightmap_0_27 (DXT1)
+[2014.12.03-10.47.43:125][703]LogTexture:Display: Building textures: HQ_Lightmap0_27 (AutoDXT)
+[2014.12.03-10.47.43:128][703]LogTexture:Display: Building textures: LQ_Lightmap_0_26 (DXT1)
+[2014.12.03-10.47.43:132][703]LogTexture:Display: Building textures: HQ_Lightmap0_26 (AutoDXT)
+[2014.12.03-10.47.43:136][703]LogTexture:Display: Building textures: LQ_Lightmap_0_25 (DXT1)
+[2014.12.03-10.47.43:154][703]LogTexture:Display: Building textures: HQ_Lightmap0_25 (AutoDXT)
+[2014.12.03-10.47.43:169][703]LogTexture:Display: Building textures: LQ_Lightmap_0_24 (DXT1)
+[2014.12.03-10.47.43:182][703]LogTexture:Display: Building textures: HQ_Lightmap0_24 (AutoDXT)
+[2014.12.03-10.47.43:196][703]LogTexture:Display: Building textures: LQ_Lightmap_0_23 (DXT1)
+[2014.12.03-10.47.43:209][703]LogTexture:Display: Building textures: HQ_Lightmap0_23 (AutoDXT)
+[2014.12.03-10.47.43:225][703]LogTexture:Display: Building textures: LQ_Lightmap_0_22 (DXT1)
+[2014.12.03-10.47.43:236][703]LogTexture:Display: Building textures: HQ_Lightmap0_22 (AutoDXT)
+[2014.12.03-10.47.43:253][703]LogTexture:Display: Building textures: LQ_Lightmap_0_21 (DXT1)
+[2014.12.03-10.47.43:266][703]LogTexture:Display: Building textures: HQ_Lightmap0_21 (AutoDXT)
+[2014.12.03-10.47.43:283][703]LogTexture:Display: Building textures: LQ_Lightmap_0_20 (DXT1)
+[2014.12.03-10.47.43:295][703]LogTexture:Display: Building textures: HQ_Lightmap0_20 (AutoDXT)
+[2014.12.03-10.47.43:309][703]LogTexture:Display: Building textures: LQ_Lightmap_0_19 (DXT1)
+[2014.12.03-10.47.43:312][703]LogTexture:Display: Building textures: HQ_Lightmap0_19 (AutoDXT)
+[2014.12.03-10.47.43:315][703]LogTexture:Display: Building textures: LQ_Lightmap_0_18 (DXT1)
+[2014.12.03-10.47.43:319][703]LogTexture:Display: Building textures: HQ_Lightmap0_18 (AutoDXT)
+[2014.12.03-10.47.43:322][703]LogTexture:Display: Building textures: LQ_Lightmap_0_17 (DXT1)
+[2014.12.03-10.47.43:341][703]LogTexture:Display: Building textures: HQ_Lightmap0_17 (AutoDXT)
+[2014.12.03-10.47.43:357][703]LogTexture:Display: Building textures: LQ_Lightmap_0_16 (DXT1)
+[2014.12.03-10.47.43:374][703]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT)
+[2014.12.03-10.47.43:391][703]LogTexture:Display: Building textures: LQ_Lightmap_0_15 (DXT1)
+[2014.12.03-10.47.43:400][703]LogTexture:Display: Building textures: HQ_Lightmap0_15 (AutoDXT)
+[2014.12.03-10.47.43:413][703]LogTexture:Display: Building textures: LQ_Lightmap_0_14 (DXT1)
+[2014.12.03-10.47.43:422][703]LogTexture:Display: Building textures: HQ_Lightmap0_14 (AutoDXT)
+[2014.12.03-10.47.43:434][703]LogTexture:Display: Building textures: LQ_Lightmap_0_13 (DXT1)
+[2014.12.03-10.47.43:440][703]LogTexture:Display: Building textures: HQ_Lightmap0_13 (AutoDXT)
+[2014.12.03-10.47.43:449][703]LogTexture:Display: Building textures: LQ_Lightmap_0_12 (DXT1)
+[2014.12.03-10.47.43:453][703]LogTexture:Display: Building textures: HQ_Lightmap0_12 (AutoDXT)
+[2014.12.03-10.47.43:458][703]LogTexture:Display: Building textures: LQ_Lightmap_0_11 (DXT1)
+[2014.12.03-10.47.43:461][703]LogTexture:Display: Building textures: HQ_Lightmap0_11 (AutoDXT)
+[2014.12.03-10.47.43:465][703]LogTexture:Display: Building textures: LQ_Lightmap_0_10 (DXT1)
+[2014.12.03-10.47.43:468][703]LogTexture:Display: Building textures: HQ_Lightmap0_10 (AutoDXT)
+[2014.12.03-10.47.43:472][703]LogTexture:Display: Building textures: LQ_Lightmap_0_9 (DXT1)
+[2014.12.03-10.47.43:492][703]LogTexture:Display: Building textures: HQ_Lightmap0_9 (AutoDXT)
+[2014.12.03-10.47.43:507][703]LogTexture:Display: Building textures: LQ_Lightmap_0_8 (DXT1)
+[2014.12.03-10.47.43:521][703]LogTexture:Display: Building textures: HQ_Lightmap0_8 (AutoDXT)
+[2014.12.03-10.47.43:538][703]LogTexture:Display: Building textures: LQ_Lightmap_0_7 (DXT1)
+[2014.12.03-10.47.43:552][703]LogTexture:Display: Building textures: HQ_Lightmap0_7 (AutoDXT)
+[2014.12.03-10.47.43:568][703]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
+[2014.12.03-10.47.43:584][703]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2014.12.03-10.47.43:598][703]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2014.12.03-10.47.43:602][703]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2014.12.03-10.47.43:606][703]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2014.12.03-10.47.43:609][703]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2014.12.03-10.47.43:614][703]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2014.12.03-10.47.43:618][703]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2014.12.03-10.47.43:622][703]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2014.12.03-10.47.43:625][703]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2014.12.03-10.47.43:630][703]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2014.12.03-10.47.43:653][703]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
+[2014.12.03-10.47.43:658][703]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
+[2014.12.03-10.47.43:663][703]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
+[2014.12.03-10.47.43:668][703]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (BGRA8)
+[2014.12.03-10.47.43:675][703]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (BGRA8)
+[2014.12.03-10.47.43:680][703]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2014.12.03-10.47.43:686][703]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (BGRA8)
+[2014.12.03-10.47.43:691][703]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (BGRA8)
+[2014.12.03-10.47.43:696][703]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (BGRA8)
+[2014.12.03-10.47.43:702][703]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (BGRA8)
+[2014.12.03-10.47.43:706][703]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (BGRA8)
+[2014.12.03-10.47.43:710][703]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (BGRA8)
+[2014.12.03-10.47.43:715][703]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (BGRA8)
+[2014.12.03-10.47.43:720][703]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (BGRA8)
+[2014.12.03-10.47.43:726][703]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (BGRA8)
+[2014.12.03-10.47.43:730][703]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (BGRA8)
+[2014.12.03-10.47.43:736][703]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (BGRA8)
+[2014.12.03-10.47.43:742][703]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (BGRA8)
+[2014.12.03-10.47.43:746][703]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (BGRA8)
+[2014.12.03-10.47.43:750][703]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (BGRA8)
+[2014.12.03-10.47.43:756][703]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (BGRA8)
+[2014.12.03-10.47.43:762][703]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (BGRA8)
+[2014.12.03-10.47.43:767][703]LogTexture:Display: Building textures: ShadowMapTexture2D_22 (BGRA8)
+[2014.12.03-10.47.43:771][703]LogTexture:Display: Building textures: ShadowMapTexture2D_23 (BGRA8)
+[2014.12.03-10.47.43:776][703]LogTexture:Display: Building textures: ShadowMapTexture2D_24 (BGRA8)
+[2014.12.03-10.47.43:781][703]LogTexture:Display: Building textures: ShadowMapTexture2D_25 (BGRA8)
+[2014.12.03-10.47.43:787][703]LogTexture:Display: Building textures: ShadowMapTexture2D_26 (BGRA8)
+[2014.12.03-10.47.43:792][703]LogTexture:Display: Building textures: ShadowMapTexture2D_27 (BGRA8)
+[2014.12.03-10.47.43:797][703]LogTexture:Display: Building textures: ShadowMapTexture2D_28 (BGRA8)
+[2014.12.03-10.47.43:802][703]LogTexture:Display: Building textures: ShadowMapTexture2D_29 (BGRA8)
+[2014.12.03-10.47.43:807][703]LogTexture:Display: Building textures: ShadowMapTexture2D_30 (BGRA8)
+[2014.12.03-10.47.43:812][703]LogTexture:Display: Building textures: ShadowMapTexture2D_31 (BGRA8)
+[2014.12.03-10.47.43:817][703]LogTexture:Display: Building textures: ShadowMapTexture2D_32 (BGRA8)
+[2014.12.03-10.47.43:822][703]LogTexture:Display: Building textures: ShadowMapTexture2D_33 (BGRA8)
+[2014.12.03-10.47.43:827][703]LogTexture:Display: Building textures: ShadowMapTexture2D_34 (BGRA8)
+[2014.12.03-10.47.43:832][703]LogTexture:Display: Building textures: ShadowMapTexture2D_35 (BGRA8)
+[2014.12.03-10.47.43:838][703]LogTexture:Display: Building textures: ShadowMapTexture2D_36 (BGRA8)
+[2014.12.03-10.47.43:843][703]LogTexture:Display: Building textures: ShadowMapTexture2D_37 (BGRA8)
+[2014.12.03-10.47.43:848][703]LogTexture:Display: Building textures: ShadowMapTexture2D_38 (BGRA8)
+[2014.12.03-10.47.43:854][703]LogTexture:Display: Building textures: ShadowMapTexture2D_39 (BGRA8)
+[2014.12.03-10.47.43:859][703]LogTexture:Display: Building textures: ShadowMapTexture2D_40 (BGRA8)
+[2014.12.03-10.47.43:864][703]LogTexture:Display: Building textures: ShadowMapTexture2D_41 (BGRA8)
+[2014.12.03-10.47.43:869][703]LogTexture:Display: Building textures: ShadowMapTexture2D_42 (BGRA8)
+[2014.12.03-10.47.43:875][703]LogTexture:Display: Building textures: ShadowMapTexture2D_43 (BGRA8)
+[2014.12.03-10.47.43:879][703]LogTexture:Display: Building textures: ShadowMapTexture2D_44 (BGRA8)
+[2014.12.03-10.47.43:885][703]LogTexture:Display: Building textures: ShadowMapTexture2D_45 (BGRA8)
+[2014.12.03-10.47.43:889][703]LogTexture:Display: Building textures: ShadowMapTexture2D_46 (BGRA8)
+[2014.12.03-10.47.43:894][703]LogTexture:Display: Building textures: ShadowMapTexture2D_47 (BGRA8)
+[2014.12.03-10.47.43:899][703]LogTexture:Display: Building textures: ShadowMapTexture2D_48 (BGRA8)
+[2014.12.03-10.47.43:903][703]LogTexture:Display: Building textures: ShadowMapTexture2D_49 (BGRA8)
+[2014.12.03-10.47.43:909][703]LogTexture:Display: Building textures: ShadowMapTexture2D_50 (BGRA8)
+[2014.12.03-10.47.43:913][703]LogTexture:Display: Building textures: ShadowMapTexture2D_51 (BGRA8)
+[2014.12.03-10.47.43:919][703]LogTexture:Display: Building textures: ShadowMapTexture2D_52 (BGRA8)
+[2014.12.03-10.47.43:924][703]LogTexture:Display: Building textures: ShadowMapTexture2D_53 (BGRA8)
+[2014.12.03-10.47.43:929][703]LogTexture:Display: Building textures: ShadowMapTexture2D_54 (BGRA8)
+[2014.12.03-10.47.43:934][703]LogTexture:Display: Building textures: ShadowMapTexture2D_55 (BGRA8)
+[2014.12.03-10.47.43:939][703]LogTexture:Display: Building textures: ShadowMapTexture2D_56 (BGRA8)
+[2014.12.03-10.47.43:943][703]LogTexture:Display: Building textures: ShadowMapTexture2D_57 (BGRA8)
+[2014.12.03-10.47.43:949][703]LogTexture:Display: Building textures: ShadowMapTexture2D_58 (BGRA8)
+[2014.12.03-10.47.43:953][703]LogTexture:Display: Building textures: ShadowMapTexture2D_59 (BGRA8)
+[2014.12.03-10.47.43:960][703]LogTexture:Display: Building textures: ShadowMapTexture2D_60 (BGRA8)
+[2014.12.03-10.47.43:966][703]LogTexture:Display: Building textures: ShadowMapTexture2D_61 (BGRA8)
+[2014.12.03-10.47.43:970][703]LogTexture:Display: Building textures: ShadowMapTexture2D_62 (BGRA8)
+[2014.12.03-10.47.43:974][703]LogTexture:Display: Building textures: ShadowMapTexture2D_63 (BGRA8)
+[2014.12.03-10.47.43:977][703]LogTexture:Display: Building textures: ShadowMapTexture2D_64 (BGRA8)
+[2014.12.03-10.47.44:043][703]Lightmass on SA2411-PC42: 12.4 sec total, 385 ms importing, 768 ms setup, 1.05 sec photons, 10.2 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 1:11 min total, 46.0 sec processing.
+[2014.12.03-10.47.44:067][703]LogStaticLightingSystem:Warning: Illumination: 30.7 sec (2.01 sec encoding lightmaps)
+[2014.12.03-10.47.44:067][703]LogStaticLightingSystem: Lightmap texture memory:  1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 130 textures
+[2014.12.03-10.47.44:067][703]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 65 textures
+[2014.12.03-10.47.44:896][704]Cmd: UpdateLandscapeEditorData
+[2014.12.03-10.47.44:897][704]Cmd: MAP CHECK NOTIFYRESULTS
+[2014.12.03-10.47.44:897][704]MapCheck: New page: Untitled_1 - Dec 3, 2014, 12:47:44 AM
+[2014.12.03-10.47.45:009][704]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 111.965ms to complete.
+[2014.12.03-10.49.09:261][ 81]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2014.12.03-10.49.09:815][128]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_7
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-10.49.09:815][128]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_18:CubeAnimSword_C_12
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0136
+[2014.12.03-10.49.09:815][128]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_19:SwordAnim_C_5
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-10.49.10:777][221]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-10.49.10:777][221]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.12.03-10.49.10:816][221]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_9) Not registered. Aborting.
+[2014.12.03-10.49.10:834][221]LogPlayLevel: PIE:  Blueprint regeneration took 57 ms (1 blueprints)
+[2014.12.03-10.49.10:834][221]PIE: New page: PIE session: Untitled_1 (Dec 3, 2014, 12:49:10 AM)
+[2014.12.03-10.49.10:856][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021763s)
+[2014.12.03-10.49.10:857][221]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2014.12.03-10.49.10:857][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.022448s)
+[2014.12.03-10.49.10:883][221]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-10.49.10:884][221]LogAIModule: Creating AISystem for world Untitled_1
+[2014.12.03-10.49.10:887][221]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2014.12.03-05.49.10
+[2014.12.03-10.49.10:887][221]LogWorld: Bringing up level for play took: 0.002493
+[2014.12.03-10.49.10:889][221]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.108
+[2014.12.03-10.49.11:546][293]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.14:254][611]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.14:808][674]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.14:841][678]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.14:841][678]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.15:037][700]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.15:268][725]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.15:558][758]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.16:510][863]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.16:510][863]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.16:539][866]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.16:765][891]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.17:066][922]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.17:308][949]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.17:630][984]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.17:901][ 13]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.19:553][204]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.19:597][209]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.19:597][209]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.19:810][232]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.20:058][259]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.20:287][286]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.20:533][314]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.20:828][348]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.21:152][385]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.21:525][427]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.22:125][495]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.22:298][515]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.22:530][542]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.22:783][570]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.23:032][599]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.23:285][628]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.23:540][657]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.23:759][681]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.24:041][710]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.24:376][748]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.24:589][772]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.24:796][795]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-10.49.25:541][873]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001BB998A0
+[2014.12.03-10.49.37:490][615]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-10.49.37:744][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-10.49.37:772][615]LogTexture:Display: Building textures: Texture2D_67 (BGRA8)
+[2014.12.03-10.49.37:873][615]LogSavePackage: Save=106.178528ms
+[2014.12.03-10.49.37:873][615]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/MainLevelF6ED51CD4C10BE7C1BE552B0D05D9AEF.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/MainLevel.umap'
+[2014.12.03-10.49.37:937][615]LogFileHelpers: Saving map 'MainLevel' took 0.444
+[2014.12.03-10.49.37:956][617]LogCrashTracker: 
+
+
+[2014.12.03-10.49.38:248][617]LogWindows:Error: Windows GetLastError: The operation completed successfully. (0)
+[2014.12.03-10.49.38:248][617]LogCrashTracker: 
+
+
+[2014.12.03-10.49.38:248][617]LogWindows: === Critical error: ===
+Fatal error: [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.5\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 641] 
+Rendering thread exception:
+Fatal error!
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffff
+
+UE4Editor-D3D11RHI.dll!UnknownFunction (0x000007fede0b5d32) + 0 bytes [UnknownFile:0]
+UE4Editor-D3D11RHI.dll!UnknownFunction (0x000007fede0cff6d) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed0b167df) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed063b1cf) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed061a66f) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed12c4c70) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed12a34ad) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed1299312) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateRHIRenderer.dll!UnknownFunction (0x000007feddb92136) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateRHIRenderer.dll!UnknownFunction (0x000007feddb93954) + 0 bytes [UnknownFile:0]
+UE4Editor-SlateRHIRenderer.dll!UnknownFunction (0x000007feddb995fd) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fed8ee6514) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fed8ee669d) + 0 bytes [UnknownFile:0]
+UE4Editor-RenderCore.dll!UnknownFunction (0x000007fef10dfc33) + 0 bytes [UnknownFile:0]
+UE4Editor-RenderCore.dll!UnknownFunction (0x000007fef10e00c9) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fed9136326) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x000007fed912ad4d) + 0 bytes [UnknownFile:0]
+kernel32.dll!UnknownFunction (0x0000000076d759ed) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x0000000076eac541) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x0000000076eac541) + 0 bytes [UnknownFile:0]
+
+
+
+
+
+[2014.12.03-10.49.38:387][617]LogExit: Executing StaticShutdownAfterError
+[2014.12.03-10.49.38:393][617]LogWindows: FPlatformMisc::RequestExit(1)
+[2014.12.03-10.49.38:393][617]Log file closed, 12/03/14 05:49:38
