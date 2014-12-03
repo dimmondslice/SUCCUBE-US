@@ -1,0 +1,1054 @@
+﻿Log file open, 12/03/14 10:07:27
+LogInit:Display: Running engine for game: SUCCUBEUS
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2014.12.03-15.07.27:485][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.12.03-15.07.27:512][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.12.03-15.07.27:527][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.12.03-15.07.27:535][  0]LogInit: Object subsystem initialized
+[2014.12.03-15.07.27:538][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.12.03-15.07.27:538][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-15.07.27:538][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.12.03-15.07.27:538][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.12.03-15.07.27:538][  0]LogInit: Selected Device Profile: [Windows]
+[2014.12.03-15.07.27:538][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.12.03-15.07.27:542][  0]LogInit: Computer: SA2411-PC42
+[2014.12.03-15.07.27:542][  0]LogInit: User: antell
+[2014.12.03-15.07.27:543][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.12.03-15.07.27:543][  0]LogInit: High frequency timer resolution =3.428066 MHz
+[2014.12.03-15.07.27:543][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2014.12.03-15.07.27:543][  0]LogMemory: Platform Memory Stats for Windows
+[2014.12.03-15.07.27:543][  0]LogMemory: Process Physical Memory: 65.29 MB used, 65.29 MB peak
+[2014.12.03-15.07.27:543][  0]LogMemory: Process Virtual Memory: 40.49 MB used, 40.49 MB peak
+[2014.12.03-15.07.27:543][  0]LogMemory: Physical Memory: 3345.14 MB used, 16253.98 MB total
+[2014.12.03-15.07.27:543][  0]LogMemory: Virtual Memory: 274.41 MB used, 8388608.00 MB total
+[2014.12.03-15.07.27:572][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 680 (Feature Level 11_0)
+[2014.12.03-15.07.27:572][  0]LogD3D11RHI: Adapter has 4027MB of dedicated video memory, 0MB of dedicated system memory, and 7870MB of shared system memory, 2 output[s]
+[2014.12.03-15.07.27:572][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.12.03-15.07.27:576][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.12.03-15.07.27:582][  0]LogD3D11RHI: Async texture creation enabled
+[2014.12.03-15.07.27:624][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2014.12.03-15.07.27:736][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.12.03-15.07.31:754][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.07.32:069][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.07.32:110][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.12.03-15.07.32:142][  0]LogDerivedDataCache: Loaded boot cache 0.03s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-15.07.32:142][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.12.03-15.07.32:142][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.12.03-15.07.32:142][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.12.03-15.07.32:201][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.12.03-15.07.32:212][  0]LogDerivedDataCache: Using Local data cache path C:/Users/antell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.12.03-15.07.32:351][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.12.03-15.07.32:351][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.12.03-15.07.32:524][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-15.07.32:527][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.12.03-15.07.32:662][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.12.03-15.07.33:265][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.12.03-15.07.33:398][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/antell/Desktop/CUBES/SUCCUBEUS/Binaries/Win64. Error: 0
+[2014.12.03-15.07.33:497][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.07.33:497][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.07.33:502][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.07.33:584][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.12.03-15.07.33:584][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2014.12.03-15.07.33:630][  0]LogEngine: Initializing Engine...
+[2014.12.03-15.07.33:735][  0]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2014.12.03-15.07.33:760][  0]LogInit: FAudioDevice initialized.
+[2014.12.03-15.07.33:775][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.12.03-15.07.33:794][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/antell/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.12.03-15.07.33:797][  0]LogInit: Texture streaming: Enabled
+[2014.12.03-15.07.33:827][  0]LogInit: Transaction tracking system initialized
+[2014.12.03-15.07.33:893][  0]BlueprintLog: New page: Editor Load
+[2014.12.03-15.07.33:917][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2014.12.03-15.07.33:917][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.12.03-15.07.34:271][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.07.34:552][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.12.03-15.07.34:693][  0]LogConsoleResponse:Display: 
+[2014.12.03-15.07.34:836][  0]SourceControl: Info Source control is disabled
+[2014.12.03-15.07.34:836][  0]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-15.07.34:837][  0]LightingResults: New page: Lighting Build
+[2014.12.03-15.07.34:843][  0]MapCheck: New page: Map Check
+[2014.12.03-15.07.34:843][  0]LightingResults: New page: Lighting Build
+[2014.12.03-15.07.34:863][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000016A2DA80
+[2014.12.03-15.07.35:516][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_0
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.35:517][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_0
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.07.35:517][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_0
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.35:517][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_0
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.35:517][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_0
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.35:517][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_1
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.35:517][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_1
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.35:517][  0]LogMaterial:Warning: Material /Game/Cubes/models/blade_.blade_ needed to have new flag set bUsedWithSkeletalMesh !
+[2014.12.03-15.07.35:523][  0]LogMaterial: Missing cached shader map for material blade_, compiling.
+[2014.12.03-15.07.35:558][  0]LogMaterial: 0.000099 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2014.12.03-15.07.35:558][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_2
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.35:558][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_2
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.35:559][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_1
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.35:559][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_1
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.35:559][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_3
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.35:559][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_4
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.35:560][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-15.07.35:560][  0]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.03-15.07.35:560][  0]Cmd: MAP CHECKDEP
+[2014.12.03-15.07.35:560][  0]MapCheck: New page: Example_Map - Dec 3, 2014, 5:07:35 AM
+[2014.12.03-15.07.35:643][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 82.23ms to complete.
+[2014.12.03-15.07.35:643][  0]LogFileHelpers: Loading map 'Example_Map' took 0.806
+[2014.12.03-15.07.35:771][  0]LogCollectionManager: Loaded 0 collections in 0.001209 seconds
+[2014.12.03-15.07.35:987][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.12.03-15.07.36:044][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.12.03-15.07.36:070][  0]LogLoad: Full Startup: 10.50 seconds (BP compile: 0.29 seconds)
+[2014.12.03-15.07.36:414][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-15.07.36:604][  0]LogRenderer:Warning: Reallocating scene render targets to support 1136x1024.
+[2014.12.03-15.07.37:742][  4]LogAssetRegistry: Asset discovery search completed in 3.8357 seconds
+[2014.12.03-15.07.37:892][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_3
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.37:892][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_5
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.37:893][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_0:CubeAnimHammer_C_1
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.07.37:893][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_1:HammerAnim_C_2
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.37:894][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_2
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.07.37:895][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_2:CubeAnimSword_C_4
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.37:895][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_3:SwordAnim_C_2
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.37:896][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_4:CubeAnimSword_C_5
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.37:896][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_5:AxeAnim_C_6
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.40:762][257]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent'
+[2014.12.03-15.07.41:205][308]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-15.07.42:340][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.12.03-15.07.42:340][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.12.03-15.07.42:340][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2014.12.03-15.07.42:388][423]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-15.07.42:388][423]LightingResults: New page: Lighting Build
+[2014.12.03-15.07.42:417][423]LoadErrors: New page: Loading map: Example_Map.umap
+[2014.12.03-15.07.42:417][423]MapCheck: New page: Map Check
+[2014.12.03-15.07.42:417][423]LightingResults: New page: Lighting Build
+[2014.12.03-15.07.42:442][423]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001689AAC0
+[2014.12.03-15.07.42:521][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.42:521][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_3
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.07.42:521][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_3
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.42:521][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.42:521][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_3
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.42:522][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_7
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.42:522][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_8
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.42:522][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_8
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.42:522][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_9
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.42:523][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_4
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.42:523][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_4
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.42:523][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_10
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.42:523][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_11
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.42:525][423]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-15.07.42:525][423]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.03-15.07.42:587][423]Cmd: MAP CHECKDEP
+[2014.12.03-15.07.42:587][423]MapCheck: New page: Example_Map - Dec 3, 2014, 5:07:42 AM
+[2014.12.03-15.07.42:680][423]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 92.76ms to complete.
+[2014.12.03-15.07.42:680][423]LogFileHelpers: Loading map 'Example_Map' took 0.293
+[2014.12.03-15.07.42:682][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_9
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.42:683][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_12
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.42:683][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_9:CubeAnimHammer_C_4
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.07.42:683][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_10:HammerAnim_C_5
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.42:683][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_5
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.07.42:683][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_11:CubeAnimSword_C_10
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.42:683][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_12:SwordAnim_C_5
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.42:685][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_16:CubeAnimSword_C_11
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.42:685][423]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_17:AxeAnim_C_13
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.53:306][661]Cmd: ACTOR SELECT ALL
+[2014.12.03-15.07.54:346][739]Cmd: DELETE
+[2014.12.03-15.07.54:346][739]Cmd: ACTOR DELETE
+[2014.12.03-15.07.54:346][739]LogEditorActor: Cannot delete special actor Brush /Game/Maps/Example_Map.Example_Map:PersistentLevel.Brush_0
+[2014.12.03-15.07.54:348][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:349][739]LogEditorActor: Deleted Actor: EnemyCubeAxe_C
+[2014.12.03-15.07.54:349][739]LogEditorActor: Deleted Actor: EnemyCubeAxe_C
+[2014.12.03-15.07.54:349][739]LogEditorActor: Deleted Actor: EnemyCubeHammer_C
+[2014.12.03-15.07.54:350][739]LogEditorActor: Deleted Actor: EnemyCubeSword_C
+[2014.12.03-15.07.54:350][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:350][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:350][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:350][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:351][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:351][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:351][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:351][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:351][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:351][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:352][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:352][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:352][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:352][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:352][739]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.07.54:352][739]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2014.12.03-15.07.54:352][739]LogEditorActor: Deleted Actor: PostProcessVolume
+[2014.12.03-15.07.54:353][739]LogEditorActor: Deleted Actor: AtmosphericFog
+[2014.12.03-15.07.54:359][739]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2014.12.03-15.07.56:579][739]LogEditorActor: Deleted Actor: DirectionalLight
+[2014.12.03-15.07.56:581][739]LogEditorActor: Deleted Actor: PlayerStart
+[2014.12.03-15.07.56:581][739]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2014.12.03-15.07.56:581][739]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2014.12.03-15.07.56:581][739]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2014.12.03-15.07.56:581][739]LogEditorActor: Deleted Actor: TextRenderActor
+[2014.12.03-15.07.56:581][739]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2014.12.03-15.07.56:582][739]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2014.12.03-15.07.56:582][739]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
+[2014.12.03-15.07.56:582][739]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
+[2014.12.03-15.07.56:625][739]LogEditorActor: Deleted 31 Actors (2.279 secs)
+[2014.12.03-15.07.58:798][964]Cmd: TRANSACTION UNDO
+[2014.12.03-15.07.58:798][964]LogEditorTransaction: Undo Delete Actors
+[2014.12.03-15.07.58:822][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.58:823][964]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Example_Map.Example_Map:PersistentLevel.SkySphereBlueprint.Base) Trying to register component with IsPendingKill() == true. Aborting.
+[2014.12.03-15.07.58:823][964]PIE:Warning: Warning AttachTo: '/Game/Maps/Example_Map.Example_Map:PersistentLevel.SkySphereBlueprint.Base' cannot be attached to itself. Aborting.
+[2014.12.03-15.07.58:825][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_6
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.58:826][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_6
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.58:827][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_14
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.58:827][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_15
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.58:879][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.58:879][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_3
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.07.58:879][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_6
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.58:879][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.58:879][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_6
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.58:879][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_7
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.58:879][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_14
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.58:880][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_8
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.07.58:880][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_15
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.58:880][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_7
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.07.58:880][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_7
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.07.58:881][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_16
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.07.58:881][964]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_17
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.00:137][ 55]Cmd: ACTOR SELECT ALL
+[2014.12.03-15.08.02:174][233]Cmd: ACTOR SELECT ALL
+[2014.12.03-15.08.04:446][454]Cmd: DELETE
+[2014.12.03-15.08.04:446][454]Cmd: ACTOR DELETE
+[2014.12.03-15.08.04:447][454]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.04:490][454]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2014.12.03-15.08.04:543][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.04:543][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_7
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.04:543][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_7
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.04:544][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_16
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.04:544][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_17
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.04:544][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_8
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.04:545][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_8
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.04:545][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_18
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.04:545][454]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_19
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:341][534]Cmd: DELETE
+[2014.12.03-15.08.05:341][534]Cmd: ACTOR DELETE
+[2014.12.03-15.08.05:342][534]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.05:382][534]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2014.12.03-15.08.05:448][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:448][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_3
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.08.05:448][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_8
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.05:448][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.05:449][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_8
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.05:449][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_7
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.05:449][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_18
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:449][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_8
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.05:449][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_19
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:450][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_9
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.05:450][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_9
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.05:450][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_20
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:451][534]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_21
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:775][563]Cmd: DELETE
+[2014.12.03-15.08.05:775][563]Cmd: ACTOR DELETE
+[2014.12.03-15.08.05:776][563]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.05:816][563]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2014.12.03-15.08.05:878][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:878][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_9
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.05:879][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_9
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.05:879][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_20
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:879][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_21
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:880][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_10
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.05:880][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_10
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.05:880][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_22
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.05:880][563]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_23
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:220][594]Cmd: DELETE
+[2014.12.03-15.08.06:220][594]Cmd: ACTOR DELETE
+[2014.12.03-15.08.06:220][594]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.06:260][594]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2014.12.03-15.08.06:332][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:332][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_3
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.08.06:332][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_10
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.06:332][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.06:332][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_10
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.06:332][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_7
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.06:333][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_22
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:333][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_8
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.06:333][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_23
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:334][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_11
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.06:334][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_11
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.06:334][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_24
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:334][594]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_25
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:720][629]Cmd: DELETE
+[2014.12.03-15.08.06:720][629]Cmd: ACTOR DELETE
+[2014.12.03-15.08.06:720][629]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.06:760][629]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2014.12.03-15.08.06:839][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:840][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_11
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.06:840][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_11
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.06:840][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_24
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:841][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_25
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:842][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_12
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.06:842][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_12
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.06:842][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_26
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.06:842][629]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_27
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.07:268][668]Cmd: DELETE
+[2014.12.03-15.08.07:268][668]Cmd: ACTOR DELETE
+[2014.12.03-15.08.07:268][668]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.07:307][668]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2014.12.03-15.08.07:390][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.07:391][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_3
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.08.07:391][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_12
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.07:391][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.07:391][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_12
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.07:391][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_7
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.07:391][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_26
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.07:392][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_8
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.07:392][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_27
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.07:392][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_13
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.07:393][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_13
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.07:393][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_28
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.07:393][668]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_29
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.08:670][809]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2014.12.03-15.08.09:202][856]Cmd: DELETE
+[2014.12.03-15.08.09:202][856]Cmd: ACTOR DELETE
+[2014.12.03-15.08.09:203][856]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.09:241][856]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2014.12.03-15.08.09:330][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:330][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_13
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.09:331][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_13
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.09:331][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_28
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:331][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_29
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:332][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_14
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.09:332][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_14
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.09:332][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_30
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:332][856]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_31
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:621][882]Cmd: DELETE
+[2014.12.03-15.08.09:621][882]Cmd: ACTOR DELETE
+[2014.12.03-15.08.09:622][882]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.09:661][882]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2014.12.03-15.08.09:764][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:765][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.CharacterMesh0.CubeAnimHammer_C_3
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.08.09:765][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_14
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.09:765][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.CharacterMesh0.CubeAnimSword_C_6
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.09:765][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_14
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.09:765][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.CharacterMesh0.CubeAnimSword_C_7
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.09:765][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_30
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:765][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.CharacterMesh0.CubeAnimSword_C_8
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.09:766][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_31
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:766][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_15
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.09:766][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_15
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.09:767][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_32
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.09:767][882]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_33
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.10:978][  5]Cmd: DELETE
+[2014.12.03-15.08.10:978][  5]Cmd: ACTOR DELETE
+[2014.12.03-15.08.10:978][  5]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.11:017][  5]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2014.12.03-15.08.11:115][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.11:115][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_15
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.11:116][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_15
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.11:116][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_32
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.11:116][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_33
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.11:116][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeHammer_8.SkeletalMesh1.HammerAnim_C_16
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.11:117][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeSword_4.SkeletalMesh1.SwordAnim_C_16
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.11:117][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_0.SkeletalMesh1.AxeAnim_C_34
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.11:117][  5]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.EnemyCubeAxe_C_1.SkeletalMesh1.AxeAnim_C_35
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.12:333][143]LogEditorViewport: Clicking on Actor (LMB): EnemyCubeSword_C (EnemyCubeSword)
+[2014.12.03-15.08.12:653][165]Cmd: DELETE
+[2014.12.03-15.08.12:653][165]Cmd: ACTOR DELETE
+[2014.12.03-15.08.12:653][165]LogEditorActor: Deleted Actor: EnemyCubeSword_C
+[2014.12.03-15.08.12:681][165]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2014.12.03-15.08.13:074][209]LogEditorViewport: Clicking on Actor (LMB): EnemyCubeHammer_C (EnemyCubeHammer)
+[2014.12.03-15.08.13:269][219]Cmd: DELETE
+[2014.12.03-15.08.13:269][219]Cmd: ACTOR DELETE
+[2014.12.03-15.08.13:270][219]LogEditorActor: Deleted Actor: EnemyCubeHammer_C
+[2014.12.03-15.08.13:297][219]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2014.12.03-15.08.13:709][265]LogEditorViewport: Clicking on Actor (LMB): EnemyCubeAxe_C (EnemyCubeAxe_2)
+[2014.12.03-15.08.13:809][267]Cmd: DELETE
+[2014.12.03-15.08.13:809][267]Cmd: ACTOR DELETE
+[2014.12.03-15.08.13:810][267]LogEditorActor: Deleted Actor: EnemyCubeAxe_C
+[2014.12.03-15.08.13:838][267]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2014.12.03-15.08.14:261][316]LogEditorViewport: Clicking on Actor (LMB): EnemyCubeAxe_C (EnemyCubeAxe)
+[2014.12.03-15.08.14:350][317]Cmd: DELETE
+[2014.12.03-15.08.14:350][317]Cmd: ACTOR DELETE
+[2014.12.03-15.08.14:350][317]LogEditorActor: Deleted Actor: EnemyCubeAxe_C
+[2014.12.03-15.08.14:378][317]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2014.12.03-15.08.15:286][420]Cmd: DELETE
+[2014.12.03-15.08.15:286][420]Cmd: ACTOR DELETE
+[2014.12.03-15.08.15:286][420]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.15:324][420]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2014.12.03-15.08.15:424][420]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.15:876][466]Cmd: DELETE
+[2014.12.03-15.08.15:876][466]Cmd: ACTOR DELETE
+[2014.12.03-15.08.15:877][466]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.15:915][466]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2014.12.03-15.08.16:021][466]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.16:325][498]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2014.12.03-15.08.16:444][509]Cmd: DELETE
+[2014.12.03-15.08.16:444][509]Cmd: ACTOR DELETE
+[2014.12.03-15.08.16:445][509]LogEditorActor: Deleted Actor: TextRenderActor
+[2014.12.03-15.08.16:472][509]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2014.12.03-15.08.17:122][582]Cmd: DELETE
+[2014.12.03-15.08.17:122][582]Cmd: ACTOR DELETE
+[2014.12.03-15.08.17:123][582]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.17:161][582]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2014.12.03-15.08.17:278][582]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.19:374][822]Cmd: DELETE
+[2014.12.03-15.08.19:374][822]Cmd: ACTOR DELETE
+[2014.12.03-15.08.19:374][822]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.19:412][822]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2014.12.03-15.08.19:522][822]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.20:153][891]Cmd: DELETE
+[2014.12.03-15.08.20:153][891]Cmd: ACTOR DELETE
+[2014.12.03-15.08.20:153][891]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.20:190][891]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2014.12.03-15.08.20:305][891]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.21:172][990]LogEditorViewport: Clicking on Actor (double click): PostProcessVolume (Global PostProcess)
+[2014.12.03-15.08.21:621][ 35]Cmd: DELETE
+[2014.12.03-15.08.21:621][ 35]Cmd: ACTOR DELETE
+[2014.12.03-15.08.21:621][ 35]LogEditorActor: Deleted Actor: PostProcessVolume
+[2014.12.03-15.08.21:650][ 35]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2014.12.03-15.08.23:369][229]Cmd: TRANSACTION UNDO
+[2014.12.03-15.08.23:369][229]LogEditorTransaction: Undo Select Surfaces
+[2014.12.03-15.08.24:142][283]Cmd: TRANSACTION UNDO
+[2014.12.03-15.08.24:142][283]LogEditorTransaction: Undo Select Brush from Surface
+[2014.12.03-15.08.24:639][337]Cmd: TRANSACTION UNDO
+[2014.12.03-15.08.24:639][337]LogEditorTransaction: Undo Delete Actors
+[2014.12.03-15.08.24:760][337]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.26:150][473]Cmd: DELETE
+[2014.12.03-15.08.26:151][473]Cmd: ACTOR DELETE
+[2014.12.03-15.08.26:151][473]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.26:190][473]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2014.12.03-15.08.26:317][473]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.26:872][530]Cmd: DELETE
+[2014.12.03-15.08.26:872][530]Cmd: ACTOR DELETE
+[2014.12.03-15.08.26:872][530]LogEditorActor: Deleted Actor: Brush
+[2014.12.03-15.08.26:910][530]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2014.12.03-15.08.27:036][530]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_7
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.27:834][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.08.27:915][605]LogSavePackage: Save=35.244072ms
+[2014.12.03-15.08.27:915][605]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/Example_MapBBE44975419897A6CA75E690D6973CBB.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap'
+[2014.12.03-15.08.27:984][605]LogFileHelpers: Saving map 'Example_Map' took 0.238
+[2014.12.03-15.08.32:863][157]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.12.03-15.08.32:863][157]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2014.12.03-15.08.32:930][157]LogPlayLevel: PIE:  Blueprint regeneration took 66 ms (1 blueprints)
+[2014.12.03-15.08.32:930][157]PIE: New page: SIE session: Example_Map (Dec 3, 2014, 5:08:32 AM)
+[2014.12.03-15.08.32:954][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024477s)
+[2014.12.03-15.08.32:955][157]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2014.12.03-15.08.32:955][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.025184s)
+[2014.12.03-15.08.33:216][157]LogWorld: Game class is 'MyGame_C'
+[2014.12.03-15.08.33:218][157]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.03-15.08.33:219][157]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_36
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.33:219][157]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.08.33:219][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2014.12.03-10.08.33
+[2014.12.03-15.08.33:219][157]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_36
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.33:219][157]PIE:Error: Error Accessed None 'CallFunc_GetPlayerPawn_ReturnValue' from node Delay in blueprint AxeAnim
+[2014.12.03-15.08.33:219][157]LogWorld: Bringing up level for play took: 0.001087
+[2014.12.03-15.08.33:221][157]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.093
+[2014.12.03-15.08.34:628][314]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000F0AD8A0
+[2014.12.03-15.08.40:276][896]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-15.08.40:276][896]LightingResults: New page: Lighting Build
+[2014.12.03-15.08.40:306][896]LoadErrors: New page: Loading map: Terrain.umap
+[2014.12.03-15.08.40:307][896]MapCheck: New page: Map Check
+[2014.12.03-15.08.40:307][896]LightingResults: New page: Lighting Build
+[2014.12.03-15.08.40:337][896]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000025D08FE0
+[2014.12.03-15.08.40:582][896]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-15.08.40:582][896]LogAIModule: Creating AISystem for world Terrain
+[2014.12.03-15.08.40:643][896]Cmd: MAP CHECKDEP
+[2014.12.03-15.08.40:643][896]MapCheck: New page: Terrain - Dec 3, 2014, 5:08:40 AM
+[2014.12.03-15.08.40:737][896]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 93.613ms to complete.
+[2014.12.03-15.08.40:737][896]LogFileHelpers: Loading map 'Terrain' took 0.463
+[2014.12.03-15.08.40:739][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_12
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.40:740][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_37
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.40:740][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_18:CubeAnimHammer_C_6
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.08.40:740][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_19:HammerAnim_C_17
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.08.40:740][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_7
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.08.40:740][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_20:CubeAnimSword_C_13
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.40:741][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_21:SwordAnim_C_17
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.08.40:742][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_25:CubeAnimSword_C_14
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.08.40:742][896]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_26:AxeAnim_C_38
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.08.40:753][897]Cmd: UpdateLandscapeEditorData -warnings
+[2014.12.03-15.08.40:758][897]Cmd: UpdateLandscapeEditorData
+[2014.12.03-15.08.42:062][ 38]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2014.12.03-15.08.42:649][ 75]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2014.12.03-15.09.03:636][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_15
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.03:637][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_39
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:637][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_16
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.03:637][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_40
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:637][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_17
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.03:637][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_41
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:638][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_18
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.03:638][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_42
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:639][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_43
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:639][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_44
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:639][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_45
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:640][742]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_46
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.03:696][743]Cmd: UpdateLandscapeEditorData -warnings
+[2014.12.03-15.09.14:624][485]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.12.03-15.09.14:635][486]Cmd: UpdateLandscapeEditorData -warnings
+[2014.12.03-15.09.24:649][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_47
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.24:681][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_6) Not registered. Aborting.
+[2014.12.03-15.09.24:681][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_7) Not registered. Aborting.
+[2014.12.03-15.09.24:681][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_8) Not registered. Aborting.
+[2014.12.03-15.09.28:262][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-15.09.28:299][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.CharacterMesh0.CubeAnimSword_C_19
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.28:300][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_48
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:300][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.CharacterMesh0.CubeAnimSword_C_20
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.28:300][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_49
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:300][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.CharacterMesh0.CubeAnimSword_C_21
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.28:300][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_50
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:300][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.CharacterMesh0.CubeAnimSword_C_22
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.28:300][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_51
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:301][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_52
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:301][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_53
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:301][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_54
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:301][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_55
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:721][267]LogSavePackage: Save=422.887726ms
+[2014.12.03-15.09.28:721][267]LogSavePackage: Moving '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Saved/MenuAF337F174A79215F759142A00271F6C5.tmp' to '../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap'
+[2014.12.03-15.09.28:733][267]LogFileHelpers: Saving map 'Menu' took 0.568
+[2014.12.03-15.09.28:736][267]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-15.09.28:736][267]LightingResults: New page: Lighting Build
+[2014.12.03-15.09.28:766][267]LoadErrors: New page: Loading map: Example_Map.umap
+[2014.12.03-15.09.28:771][267]MapCheck: New page: Map Check
+[2014.12.03-15.09.28:771][267]LightingResults: New page: Lighting Build
+[2014.12.03-15.09.28:813][267]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000295B4EA0
+[2014.12.03-15.09.28:962][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.sword_11.SkeletalMeshComponent0.AxeAnim_C_47
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.28:964][267]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-15.09.28:964][267]LogAIModule: Creating AISystem for world Example_Map
+[2014.12.03-15.09.29:025][267]Cmd: MAP CHECKDEP
+[2014.12.03-15.09.29:025][267]MapCheck: New page: Example_Map - Dec 3, 2014, 5:09:29 AM
+[2014.12.03-15.09.29:121][267]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 96.021ms to complete.
+[2014.12.03-15.09.29:121][267]LogFileHelpers: Loading map 'Example_Map' took 0.387
+[2014.12.03-15.09.29:126][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_23
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.29:126][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_56
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.29:127][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_27:CubeAnimHammer_C_8
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.09.29:127][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_28:HammerAnim_C_18
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.09.29:127][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_9
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.09.29:127][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_29:CubeAnimSword_C_24
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.29:127][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_30:SwordAnim_C_18
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.09.29:128][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_34:CubeAnimSword_C_25
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.29:128][267]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_35:AxeAnim_C_57
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.29:142][268]Cmd: UpdateLandscapeEditorData
+[2014.12.03-15.09.54:022][622]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_9) Not registered. Aborting.
+[2014.12.03-15.09.54:022][622]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_10) Not registered. Aborting.
+[2014.12.03-15.09.54:022][622]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_11) Not registered. Aborting.
+[2014.12.03-15.09.54:056][622]Cmd: MAP LOAD FILE="../../../../../../Users/antell/Desktop/CUBES/SUCCUBEUS/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-15.09.54:056][622]LightingResults: New page: Lighting Build
+[2014.12.03-15.09.54:085][622]LoadErrors: New page: Loading map: Menu.umap
+[2014.12.03-15.09.54:125][622]MapCheck: New page: Map Check
+[2014.12.03-15.09.54:125][622]LightingResults: New page: Lighting Build
+[2014.12.03-15.09.54:154][622]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001D240860
+[2014.12.03-15.09.54:538][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_52
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:539][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_53
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:539][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_54
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:539][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_55
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:540][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_4.SkeletalMesh1.AxeAnim_C_58
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:540][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_5.SkeletalMesh1.AxeAnim_C_59
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:541][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_6.SkeletalMesh1.AxeAnim_C_60
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:541][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Game/Maps/Menu.Menu:PersistentLevel.EnemyCubeAxe_C_7.SkeletalMesh1.AxeAnim_C_61
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:544][622]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-15.09.54:548][622]LogAIModule: Creating AISystem for world Menu
+[2014.12.03-15.09.54:616][622]Cmd: MAP CHECKDEP
+[2014.12.03-15.09.54:616][622]MapCheck: New page: Menu - Dec 3, 2014, 5:09:54 AM
+[2014.12.03-15.09.54:730][622]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 113.34ms to complete.
+[2014.12.03-15.09.54:730][622]LogFileHelpers: Loading map 'Menu' took 0.675
+[2014.12.03-15.09.54:761][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_26
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.54:761][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_62
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:762][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.SkeletalMeshComponent_36:CubeAnimHammer_C_10
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.09.54:762][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	HammerAnim_C /Engine/Transient.SkeletalMeshComponent_37:HammerAnim_C_19
+	Function /Game/Cubes/HammerAnim.HammerAnim_C:ExecuteUbergraph_HammerAnim:0102
+[2014.12.03-15.09.54:762][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimHammer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimHammer_C_11
+	Function /Game/Cubes/CubeAnimHammer.CubeAnimHammer_C:ExecuteUbergraph_CubeAnimHammer:011A
+[2014.12.03-15.09.54:762][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_38:CubeAnimSword_C_27
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.54:763][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	SwordAnim_C /Engine/Transient.SkeletalMeshComponent_39:SwordAnim_C_19
+	Function /Game/Cubes/SwordAnim.SwordAnim_C:ExecuteUbergraph_SwordAnim:0110
+[2014.12.03-15.09.54:764][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_43:CubeAnimSword_C_28
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-15.09.54:764][622]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_44:AxeAnim_C_63
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-15.09.54:781][623]Cmd: UpdateLandscapeEditorData
+[2014.12.03-15.09.54:781][623]LogCrashTracker: 
+
+
+[2014.12.03-15.09.55:047][623]LogCrashTracker: 
+
+
+[2014.12.03-15.09.55:047][623]LogWindows: === Critical error: ===
+Fatal error!
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000198
+
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed36528a9) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed40a3c05) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed40c0f3f) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed40c156c) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed40c173a) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed40add0e) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fed86db5b0) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x000007fed86b731b) + 0 bytes [UnknownFile:0]
+UE4Editor-Engine.dll!UnknownFunction (0x000007fed3df3ed9) + 0 bytes [UnknownFile:0]
+UE4Editor.exe!FEngineLoop::Tick() (0x000000013f3cb103) + 16 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\launchengineloop.cpp:2224]
+UE4Editor.exe!GuardedMain() (0x000000013f3bf9df) + 0 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\launch.cpp:133]
+UE4Editor.exe!GuardedMainWrapper() (0x000000013f3bfa4a) + 5 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:125]
+UE4Editor.exe!WinMain() (0x000000013f3cbf19) + 17 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:201]
+UE4Editor.exe!__tmainCRTStartup() (0x000000013f3ccdc9) + 21 bytes [f:\dd\vctools\crt\crtw32\dllstuff\crtexe.c:618]
+kernel32.dll!UnknownFunction (0x0000000076d759ed) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x0000000076eac541) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x0000000076eac541) + 0 bytes [UnknownFile:0]
+
+
+[2014.12.03-15.09.55:196][623]LogExit: Executing StaticShutdownAfterError
+[2014.12.03-15.09.55:208][623]LogWindows: FPlatformMisc::RequestExit(1)
+[2014.12.03-15.09.55:208][623]Log file closed, 12/03/14 10:09:55
