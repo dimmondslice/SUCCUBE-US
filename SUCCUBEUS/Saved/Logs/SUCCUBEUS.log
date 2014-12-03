@@ -6629,4 +6629,87 @@ Referencers of BlueprintGeneratedClass /Game/Maps/MainLevel.MainLevel_C:
 [2014.12.03-18.09.04:972][ 91]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
 [2014.12.03-18.09.05:430][127]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
 [2014.12.03-18.09.05:786][155]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
-[2014.12.03-18.09.06:309][196]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials
+[2014.12.03-18.09.06:309][196]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.06:806][235]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.07:255][270]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.07:653][301]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.08:089][334]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.08:980][384]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.09:395][402]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.10:106][428]LogPhysics:Warning: FBodyInstance::UpdatePhysicalMaterials : PComplexMats is empty - falling back on simple physical material.
+[2014.12.03-18.09.20:714][615]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_60) Not registered. Aborting.
+[2014.12.03-18.09.20:714][615]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_61) Not registered. Aborting.
+[2014.12.03-18.09.20:800][616]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001E892CA0
+[2014.12.03-18.10.48:069][129]LogSavePackage: Save=618.102722ms
+[2014.12.03-18.10.48:069][129]LogSavePackage: Moving '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/MainLevel_Auto6DE394FF843878250D768F39563A5A1E9.tmp' to '../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Saved/Autosaves/Game/Maps/MainLevel_Auto6.umap'
+[2014.12.03-18.10.48:076][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainLevel' took 0.754
+[2014.12.03-18.10.48:076][129]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.754
+[2014.12.03-18.11.56:401][394]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2014.12.03-18.11.58:132][529]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_62) Not registered. Aborting.
+[2014.12.03-18.11.58:132][529]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_12) Not registered. Aborting.
+[2014.12.03-18.11.59:509][529]Cmd: MAP LOAD FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.12.03-18.11.59:509][529]LightingResults: New page: Lighting Build
+[2014.12.03-18.11.59:543][529]LoadErrors: New page: Loading map: MainLevel.umap
+[2014.12.03-18.11.59:554][529]MapCheck: New page: Map Check
+[2014.12.03-18.11.59:554][529]LightingResults: New page: Lighting Build
+[2014.12.03-18.11.59:598][529]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000022603EC0
+[2014.12.03-18.11.59:823][529]LogStaticMesh: Building static mesh column...
+[2014.12.03-18.11.59:827][529]LogLayoutUV:Display: FindCharts: 0 ms
+[2014.12.03-18.11.59:827][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:827][529]LogLayoutUV:Display:   Rasterize: 2011
+[2014.12.03-18.11.59:827][529]LogLayoutUV:Display:   Find: 5
+[2014.12.03-18.11.59:828][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:828][529]LogLayoutUV:Display:   Rasterize: 1981
+[2014.12.03-18.11.59:828][529]LogLayoutUV:Display:   Find: 6
+[2014.12.03-18.11.59:829][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:829][529]LogLayoutUV:Display:   Rasterize: 2030
+[2014.12.03-18.11.59:829][529]LogLayoutUV:Display:   Find: 5
+[2014.12.03-18.11.59:829][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:829][529]LogLayoutUV:Display:   Rasterize: 1929
+[2014.12.03-18.11.59:829][529]LogLayoutUV:Display:   Find: 3
+[2014.12.03-18.11.59:830][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:830][529]LogLayoutUV:Display:   Rasterize: 2030
+[2014.12.03-18.11.59:830][529]LogLayoutUV:Display:   Find: 4
+[2014.12.03-18.11.59:831][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:831][529]LogLayoutUV:Display:   Rasterize: 1945
+[2014.12.03-18.11.59:831][529]LogLayoutUV:Display:   Find: 4
+[2014.12.03-18.11.59:831][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:831][529]LogLayoutUV:Display:   Rasterize: 1951
+[2014.12.03-18.11.59:831][529]LogLayoutUV:Display:   Find: 8
+[2014.12.03-18.11.59:832][529]LogLayoutUV:Display: PackCharts: 0 ms
+[2014.12.03-18.11.59:832][529]LogLayoutUV:Display:   Rasterize: 2233
+[2014.12.03-18.11.59:832][529]LogLayoutUV:Display:   Find: 5
+[2014.12.03-18.11.59:835][529]LogStaticMesh: Built static mesh [12.848352ms] /Game/Cubes/models/column.column
+[2014.12.03-18.11.59:879][529]LogTexture:Display: Building textures: Texture2D_67 (BGRA8)
+[2014.12.03-18.11.59:964][529]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.12.03-18.11.59:967][529]LogAIModule: Creating AISystem for world MainLevel
+[2014.12.03-18.12.00:033][529]Cmd: MAP CHECKDEP
+[2014.12.03-18.12.00:033][529]MapCheck: New page: MainLevel - Dec 3, 2014, 8:12:00 AM
+[2014.12.03-18.12.00:156][529]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 122.649ms to complete.
+[2014.12.03-18.12.00:156][529]LogFileHelpers: Loading map 'MainLevel' took 0.649
+[2014.12.03-18.12.00:186][529]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CubeAnimSword_C_290
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.12.00:186][529]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AxeAnim_C_308
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.12.00:187][529]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	CubeAnimSword_C /Engine/Transient.SkeletalMeshComponent_173:CubeAnimSword_C_291
+	Function /Game/Cubes/CubeAnimSword.CubeAnimSword_C:ExecuteUbergraph_CubeAnimSword:0144
+[2014.12.03-18.12.00:187][529]LogScript:Warning: Accessed None 'CallFunc_GetPlayerPawn_ReturnValue'
+	AxeAnim_C /Engine/Transient.SkeletalMeshComponent_174:AxeAnim_C_309
+	Function /Game/Cubes/AxeAnim.AxeAnim_C:ExecuteUbergraph_AxeAnim:0109
+[2014.12.03-18.12.00:215][530]Cmd: UpdateLandscapeEditorData
+[2014.12.03-18.12.00:215][530]Cmd: UpdateLandscapeEditorData -warnings
+[2014.12.03-18.12.30:096][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_5)
+[2014.12.03-18.12.34:091][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_7)
+[2014.12.03-18.12.49:164][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall)
+[2014.12.03-18.12.56:649][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_12)
+[2014.12.03-18.13.00:822][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4)
+[2014.12.03-18.13.08:208][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_16)
+[2014.12.03-18.13.10:020][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (column_3)
+[2014.12.03-18.13.14:405][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_14)
+[2014.12.03-18.13.36:730][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Users/johnss18/Documents/SUCCUBE-US/SUCCUBEUS/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2014.12.03-18.13.36:734][646]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_63) Not registered. Aborting.
+[2014.12.03-18.13.37:018][646]LogSavePackage: Save=223.271378ms
+[2014.12.03-18.13.37:018][646]LogSavePackage: Moving '../../../
